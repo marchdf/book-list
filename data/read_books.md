@@ -358,10 +358,10 @@ John Updike | Rabbit, Run | r | 06/2010 | Y
 Isaac Asimov | Second Foundation | r | 06/2010 | Y
 John Mortimer | The First Rumpole Omnibus | r | 06/2010 | Y
 Robert Jordan | The Dragon Reborn | rr | 06/2010 | Y
-Saul Bellow | The Adventures of Augie March | r | July 2010 | Y
-Georges Perec | Les Choses | r | July 2010 | Y
-Thomas Pynchon | Gravity's Rainbow | r | July 2010 | Y
-Fyodor Dostoyevsky | The House of the Dead | r | July 2010 | Y
+Saul Bellow | The Adventures of Augie March | r | 07/2010 | Y
+Georges Perec | Les Choses | r | 07/2010 | Y
+Thomas Pynchon | Gravity's Rainbow | r | 07/2010 | Y
+Fyodor Dostoyevsky | The House of the Dead | r | 07/2010 | Y
 William Shakespeare | The Taming of the Shrew | r | 08/2010 | Y
 Ernest Hemingway | The Old Man and the Sea | r | 08/2010 | Y
 George Orwell | Animal Farm | rr | 08/2010 | Y
