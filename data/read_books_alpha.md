@@ -26,7 +26,7 @@ Jane Austen | Pride and Prejudice | r |  | Y
 Julian Barnes | The Sense of an Ending | r | 02/2014 | Y
 T.A. Barron | The Lost Years of Merlin and some other... | r |  | Y
 Henry Beard | X-treme Latin | r |  | Y
-Saul Bellow | The Adventures of Augie March | r | July 2010 | Y
+Saul Bellow | The Adventures of Augie March | r | 07/2010 | Y
 John Berger | Ways of Seeing | r |  | Y
 William Bernstein | The Four Pillars of Investing | r | 10/2013 | Y
 T.C Boyle | The Tortilla Curtain | r | 09/2011 | Y
@@ -111,7 +111,7 @@ Charles Dickens | Our Mutual Friend | r | 06/2013 | Y
 Charles Dickens | The Pickwick Papers | r |  | Y
 Charles Dickens | Great Expectations | r |  | Y
 Charles Dickens | David Copperfield | r |  | N
-Fyodor Dostoyevsky | The House of the Dead | r | July 2010 | Y
+Fyodor Dostoyevsky | The House of the Dead | r | 07/2010 | Y
 Fyodor Dostoyevsky | The Brothers Karamazov | r |  | Y
 Fyodor Dostoyevsky | Crime and Punishment | r |  | Y
 Arthur Conan Doyle | The Memoirs of Sherlock Holmes | rr | 02/2015 | Y
@@ -407,7 +407,7 @@ Mervyn Peake | Titus Groan | r |  | Y
 Mervyn Peake | Gormenghast | r | 12/2009 | Y
 Mervyn Peake | Titus Alone | r | 06/2010 | Y
 Matthew Pearl | The Dante Club | r |  | Y
-Georges Perec | Les Choses | r | July 2010 | Y
+Georges Perec | Les Choses | r | 07/2010 | Y
 Robert Pirsig | Zen and the Art of Motorcycle Maintenance | r | 08/2011 | Y
 Plato | The Republic | r |  | Y
 Edgar Allan Poe | Selected Tales | r | 06/2012 | Y
@@ -422,7 +422,7 @@ Philip Pullman | Sally Lockhart Tetralogy | r |  | N
 Pushkin | Eugene Onegin | r |  | Y
 Mario Puzo | The Fortunate Pilgrim | r | 10/2013 | Y
 Mario Puzo | The Godfather | r | 06/2011 | Y
-Thomas Pynchon | Gravity's Rainbow | r | July 2010 | Y
+Thomas Pynchon | Gravity's Rainbow | r | 07/2010 | Y
 William Le Queux | Secrets of the Foreign Office | r |  | Y
 Raymond Radiguet | Le Diable au corps | r | 09/2013 | Y
 Ayn Rand | Atlas Shrugged | r |  | Y
