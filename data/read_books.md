@@ -348,16 +348,16 @@ Kazuo Ishiguro | The Remains of the Day | r | 05/2010 | Y
 Robert Jordan | The Great Hunt | rr | 05/2010 | Y
 Thomas Wolfe | Look Homeward, Angel | r | 05/2010 | Y
 Sir Walter Scott | Ivanhoe | r | 05/2010 | Y
-Jack Kerouac | On the Road | r | June 2010 | Y
-Hermann Hesse | Steppenwolf | r | June 2010 | Y
-Henry Miller | Tropic of Cancer | r | June 2010 | Y
-Alexander Solzhenitsyn | One Day in the Life of Ivan Denisovich | r | June 2010 | Y
-Gabriel Garcia Marquez | Love in the Time of Cholera | r | June 2010 | Y
-Mervyn Peake | Titus Alone | r | June 2010 | Y
-John Updike | Rabbit, Run | r | June 2010 | Y
-Isaac Asimov | Second Foundation | r | June 2010 | Y
-John Mortimer | The First Rumpole Omnibus | r | June 2010 | Y
-Robert Jordan | The Dragon Reborn | rr | June 2010 | Y
+Jack Kerouac | On the Road | r | 06/2010 | Y
+Hermann Hesse | Steppenwolf | r | 06/2010 | Y
+Henry Miller | Tropic of Cancer | r | 06/2010 | Y
+Alexander Solzhenitsyn | One Day in the Life of Ivan Denisovich | r | 06/2010 | Y
+Gabriel Garcia Marquez | Love in the Time of Cholera | r | 06/2010 | Y
+Mervyn Peake | Titus Alone | r | 06/2010 | Y
+John Updike | Rabbit, Run | r | 06/2010 | Y
+Isaac Asimov | Second Foundation | r | 06/2010 | Y
+John Mortimer | The First Rumpole Omnibus | r | 06/2010 | Y
+Robert Jordan | The Dragon Reborn | rr | 06/2010 | Y
 Saul Bellow | The Adventures of Augie March | r | July 2010 | Y
 Georges Perec | Les Choses | r | July 2010 | Y
 Thomas Pynchon | Gravity's Rainbow | r | July 2010 | Y

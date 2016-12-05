@@ -13,7 +13,7 @@ Karen Armstrong | A History of God | r | 12/2009 | Y
 Karen Armstrong | Muhammad | r | 12/2014 | Y
 Isaac Asimov | Foundation and Empire | r | 03/2010 | Y
 Isaac Asimov | Foundation and Empire (II)| r |  | Y
-Isaac Asimov | Second Foundation | r | June 2010 | Y
+Isaac Asimov | Second Foundation | r | 06/2010 | Y
 Isaac Asimov | The Stars, Like Dust | r |  | Y
 Isaac Asimov | Foundation (I)| r |  | Y
 Isaac Asimov | Foundation's Edge (IV)| r |  | Y
@@ -222,7 +222,7 @@ Frank Herbert | The Godmakers | r |  | Y
 Frank Herbert | Dune | rr | 03/2013 | Y
 Hesiod | Theogony | r | 11/2010 | Y
 Hesiod | Works and Days | r | 11/2010 | Y
-Hermann Hesse | Steppenwolf | r | June 2010 | Y
+Hermann Hesse | Steppenwolf | r | 06/2010 | Y
 Herman Hesse | Demian | r |  | Y
 Weis and Hickman | Dragonlace Chronicles (3 vol.)| r |  | Y
 Weis and Hickman | Dragonlance Legends (3 vol.)| r |  | Y
@@ -275,11 +275,11 @@ Robert Jordan | Crossroads of Twilight | r | 01/2015 | Y
 Robert Jordan | Wheel of Time series until Knife of Dreams | r |  | Y
 Robert Jordan | The Great Hunt | rr | 05/2010 | Y
 Robert Jordan | Lord of Chaos | rr | 05/2011 | Y
-Robert Jordan | The Dragon Reborn | rr | June 2010 | Y
+Robert Jordan | The Dragon Reborn | rr | 06/2010 | Y
 Robert Jordan | New Spring | r |  | Y
 Franz Kafka | The Metamorphisis | r |  | Y
 Franz Kafka | The Trial | r |  | N
-Jack Kerouac | On the Road | r | June 2010 | Y
+Jack Kerouac | On the Road | r | 06/2010 | Y
 Ken Kesey | One Flew Over the Cuckoo's Nest | r |  | Y
 Jeff Benedict and Armi Keteyan | The System | r | 09/2014 | Y
 Barbara Kingsolver | The Lacuna | r | 08/2012 | Y
@@ -323,7 +323,7 @@ Hilary Mantel | A Place of Greater Safety | r | 04/2015 | Y
 Hilary Mantel | Bring Up the Bodies | r | 09/2013 | Y
 Hilary Mantel | Wolf Hall | r | 07/2011 | Y
 Greil Marcus | Lipstick Traces | r | 08/2013 | Y
-Gabriel Garcia Marquez | Love in the Time of Cholera | r | June 2010 | Y
+Gabriel Garcia Marquez | Love in the Time of Cholera | r | 06/2010 | Y
 Gabriel Garcia Marquez | The Autumn of the Patriarch | r | 04/2012 | Y
 Gabriel Garcia Marquez | One Hundred Years of Solitude | r |  | Y
 Yann Martel | Life of Pi | r |  | Y
@@ -356,14 +356,14 @@ Fiona McIntosh | Blood and Memory | r |  | Y
 Melville | Moby Dick | r |  | Y
 China Mieville | Perdido Street Station | r | 11/2013 | Y
 Frank Miller | The Hard Goodbye | r |  | Y
-Henry Miller | Tropic of Cancer | r | June 2010 | Y
+Henry Miller | Tropic of Cancer | r | 06/2010 | Y
 Frank Miller | A Dame to Kill For | r |  | Y
 David Mitchell | The Thousand Autumns of Jacob De Zoet | r | 10/2015 | Y
 David Mitchell | Black Swan Green | r | 09/2013 | Y
 Molière | Les Fourberies de Scapin | r |  | Y
 Montesquieu | Lettres Persannes | r |  | Y
 John Mortimer | Clinging to the Wreckage | r | 09/2009 | N
-John Mortimer | The First Rumpole Omnibus | r | June 2010 | Y
+John Mortimer | The First Rumpole Omnibus | r | 06/2010 | Y
 Daniyal Mueenuddin | In Other Rooms, Other Wonders | r | 10/2012 | N
 Haruki Murakami | 1Q84 | r | 05/2012 | Y
 Haruki Murakami | Hard-Boiled Wonderland and the End of the World | r | 11/2010 | Y
@@ -405,7 +405,7 @@ George Orwell | 1984 | r |  | Y
 Chuck Palahniuk | Lullaby | r | 10/2010 | Y
 Mervyn Peake | Titus Groan | r |  | Y
 Mervyn Peake | Gormenghast | r | 12/2009 | Y
-Mervyn Peake | Titus Alone | r | June 2010 | Y
+Mervyn Peake | Titus Alone | r | 06/2010 | Y
 Matthew Pearl | The Dante Club | r |  | Y
 Georges Perec | Les Choses | r | July 2010 | Y
 Robert Pirsig | Zen and the Art of Motorcycle Maintenance | r | 08/2011 | Y
@@ -485,7 +485,7 @@ Shelley | Frankenstein | r |  | Y
 Gary Shteyngart | The Russian Debutante's Handbook | r | 02/2013 | Y
 Upton Sinclair | The Jungle | r | 08/2012 | Y
 Jane Smiley | Moo | r |  | Y
-Alexander Solzhenitsyn | One Day in the Life of Ivan Denisovich | r | June 2010 | Y
+Alexander Solzhenitsyn | One Day in the Life of Ivan Denisovich | r | 06/2010 | Y
 Alexandr Solzhenitsyn | The First Circle | r | 01/2010 | Y
 Scott Spencer | A Ship Made of Paper | r | 07/2014 | Y
 Wallace Stegner | Angle of Repose | r | 05/2011 | N
@@ -525,7 +525,7 @@ Anthony Trollope | The Warden | r |  | Y
 Barbara Tuchman | The Guns of August | r |  | Y
 Barbara Tuchman | A Distant Mirror | r |  | Y
 Sun Tzu | The Art of War | r |  | Y
-John Updike | Rabbit, Run | r | June 2010 | Y
+John Updike | Rabbit, Run | r | 06/2010 | Y
 Voltaire | Candide | r |  | Y
 Kurt Vonnegut | Slaughterhouse-Five | r |  | Y
 Kurt Vonnegut | Cat's Cradle | r | 01/2010 | Y
