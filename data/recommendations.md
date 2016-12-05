@@ -15,7 +15,6 @@ Harlan Ellison | I Have No Mouth, and I Must Scream | rec. by TJ|
 Mader | Human Biology | biology book in Pati's class|
 Robin McKinley | The Hero and the Crown | fantasy rec. by [Vox](http://www.vox.com/2016/5/22/11693132/game-thrones-recs-george-martin-robin-mckinley-megan-whalen-turner-ellen-kushner) |
 Megan Whalen Turner | The Thief | fantasy rec. by [Vox](http://www.vox.com/2016/5/22/11693132/game-thrones-recs-george-martin-robin-mckinley-megan-whalen-turner-ellen-kushner)|
-Ellen Kushner | Swordspoint | fantasy rec. by [Vox](http://www.vox.com/2016/5/22/11693132/game-thrones-recs-george-martin-robin-mckinley-megan-whalen-turner-ellen-kushner)|
 Shedroff Noessel | Make it so | rec. by ep. 96 99pi, design in scifi|
 Nathanael Johnson | Unseen City | rec. by ep. 210 99pi|
 Phil Kay | Redeployement | rec. by Jonathan|
@@ -50,9 +49,7 @@ Ben Fountain | Billy Lynn's Long Halftime Walk | rec. by Aku|
 Irvin Yalom |  When Nietzsche Wept | rec. by Claire|
 Irvin Yalom | Love´s Executioner | non-fiction rec. by Claire|
 JM Coetzee | Waiting for the Barbarians | rec. by David Brown|
-Daniel J Brown | The Boys in the Boat | non-fiction rec. by Aku|
 Oliver Potzsch | The Hangman's Daughter | rec. by Louise|
-Gregor bon Rezzori | The Snows of Yesteryear | rec. By Aku|
 Lauren Owen | The Quick | rec. by [the Economist](http://www.economist.com/news/books-and-arts/21600094-scary-debut-fans-wilkie-collins-and-sir-arthur-conan-doyle-go-gothic) |
 Alex Berenson | The Counterfeit Agent | rec. by [the Economist](http://www.economist.com/news/books-and-arts/21597874-alex-berenson-top-form-crimes-and-misdemeanours)|
 Trollope | The way we live now | |
@@ -123,7 +120,6 @@ Chaucer  | Miller's Tale | |
 Nietzsche | Gay Science | |
 Margaret Mitchel  | Gone with the wind | |
 Thomas Hobbes  | Leviathan |  political philo, social contract with monarch|
-Milton  | Paradise Lost  | |
 Boris Pasternak  | Docteur Zhivago  | |
 William Boyd   | Restless  | |
 G.R.R Martin  |  | last read = A dance with dragons|

@@ -12,6 +12,12 @@ The following repository contains several lists pertaining to books:
 2. Run `utils/alphabetize_list.py` to generate and alphabetized list of book
 3. Commit and push
 
+# To do
+
+Things to do 
+
+- add the books that we own but haven't read yet
+
 # Licensing
 
 See [LICENSE.md](LICENSE.md)
