@@ -299,7 +299,7 @@ Plato | The Republic | r |  | Y
 Valerio Manfredi | Alexandre le Grand (3 vol.) | r |  | Y
 Nikolai Gogol | Dead Souls | r |  | Y
 Philip Roth | The Plot Against America | r |  | Y
-James Clavell | King Rat | r | Aug 2009 | Y
+James Clavell | King Rat | r | 08/2009 | Y
 William Shakespeare | The Two Gentlemen of Verona | r |  | Y
 Graham Greene | The Orient Express | r |  | Y
 Frank Miller | The Hard Goodbye | r |  | Y
@@ -314,40 +314,40 @@ Lloyd Alexander | the Chronicles of Prydain | r |  | N
 William Shakespeare | Twelfth Night | r |  | Y
 Edith Wharton | The House of Mirth | r |  | Y
 Cormac McCarthy | The Road | r |  | Y
-John Mortimer | Clinging to the Wreckage | r | Sep 2009 | N
-Emily Bronte | Wuthering Heights | r | Sep 2009 | Y
-Leopold von Sacher-Masoch | Venus in Furs | r | Sep 2009 | Y
-Jonathan Safran Foer | Everything is Illuminated | r | Sep 2009 | Y
-Haruki Murakami | The Wind-Up Bird Chronicle | r | Oct 2009 | Y
-Marquis de Sade | Justine | r | Nov 2009 | Y
-Karen Armstrong | A History of God | r | Dec 2009 | Y
-D.H. Lawrence | Lady Chatterley's Lover | r | Dec 2009 | Y
-Mervyn Peake | Gormenghast | r | Dec 2009 | Y
-F. Scott Fitzgerald | Tender is the Night | r | Dec 2009 | Y
-Ralph Ellison | Invisible Man | r | Jan 2010 | Y
-Kurt Vonnegut | Cat's Cradle | r | Jan 2010 | Y
-Alexandr Solzhenitsyn | The First Circle | r | Jan 2010 | Y
-Carl Sagan | Contact | r | Feb 2010 | Y
-Tom Wolfe | The Bonfire of the Vanities | r | Feb 2010 | Y
-Richard Brautigan | A Confederate General from Big Sur | r | Feb 2010 | Y
-Richard Brautigan | Dreaming of Babylon | r | Feb 2010 | Y
-Richard Brautigan | The Hawkline Monster | r | Feb 2010 | Y
-Robert Cialdini | Influence, the Psychology of Persuasion | r | Feb 2010 | Y
-Sebastian Faulks | Birdsong | r | Feb 2010 | Y
-Graham Greene | The Power and the Glory | r | Feb 2010 | Y
-Charles Dickens | Bleak House | r | Mar 2010 | Y
-Isaac Asimov | Foundation and Empire | r | Mar 2010 | Y
-Robert Jordan | The Eye of the World | rr | Apr 2010 | Y
-Tim O'Brien | Going After Cacciato | r | Apr 2010 | Y
-Michael Frayn | Copenhagen | r | Apr 2010 | N
-Lewis Carroll | Alice's Adventures in Wonderland | r | Apr 2010 | Y
-Lewis Carroll | Through the Looking-Glass | r | Apr 2010 | Y
-Jane Austen | Sense and Sensibility | r | Apr 2010 | Y
-William Makepeace Thackeray | Vanity Fair | r | May 2010 | Y
-Kazuo Ishiguro | The Remains of the Day | r | May 2010 | Y
-Robert Jordan | The Great Hunt | rr | May 2010 | Y
-Thomas Wolfe | Look Homeward, Angel | r | May 2010 | Y
-Sir Walter Scott | Ivanhoe | r | May 2010 | Y
+John Mortimer | Clinging to the Wreckage | r | 09/2009 | N
+Emily Bronte | Wuthering Heights | r | 09/2009 | Y
+Leopold von Sacher-Masoch | Venus in Furs | r | 09/2009 | Y
+Jonathan Safran Foer | Everything is Illuminated | r | 09/2009 | Y
+Haruki Murakami | The Wind-Up Bird Chronicle | r | 10/2009 | Y
+Marquis de Sade | Justine | r | 11/2009 | Y
+Karen Armstrong | A History of God | r | 12/2009 | Y
+D.H. Lawrence | Lady Chatterley's Lover | r | 12/2009 | Y
+Mervyn Peake | Gormenghast | r | 12/2009 | Y
+F. Scott Fitzgerald | Tender is the Night | r | 12/2009 | Y
+Ralph Ellison | Invisible Man | r | 01/2010 | Y
+Kurt Vonnegut | Cat's Cradle | r | 01/2010 | Y
+Alexandr Solzhenitsyn | The First Circle | r | 01/2010 | Y
+Carl Sagan | Contact | r | 02/2010 | Y
+Tom Wolfe | The Bonfire of the Vanities | r | 02/2010 | Y
+Richard Brautigan | A Confederate General from Big Sur | r | 02/2010 | Y
+Richard Brautigan | Dreaming of Babylon | r | 02/2010 | Y
+Richard Brautigan | The Hawkline Monster | r | 02/2010 | Y
+Robert Cialdini | Influence, the Psychology of Persuasion | r | 02/2010 | Y
+Sebastian Faulks | Birdsong | r | 02/2010 | Y
+Graham Greene | The Power and the Glory | r | 02/2010 | Y
+Charles Dickens | Bleak House | r | 03/2010 | Y
+Isaac Asimov | Foundation and Empire | r | 03/2010 | Y
+Robert Jordan | The Eye of the World | rr | 04/2010 | Y
+Tim O'Brien | Going After Cacciato | r | 04/2010 | Y
+Michael Frayn | Copenhagen | r | 04/2010 | N
+Lewis Carroll | Alice's Adventures in Wonderland | r | 04/2010 | Y
+Lewis Carroll | Through the Looking-Glass | r | 04/2010 | Y
+Jane Austen | Sense and Sensibility | r | 04/2010 | Y
+William Makepeace Thackeray | Vanity Fair | r | 05/2010 | Y
+Kazuo Ishiguro | The Remains of the Day | r | 05/2010 | Y
+Robert Jordan | The Great Hunt | rr | 05/2010 | Y
+Thomas Wolfe | Look Homeward, Angel | r | 05/2010 | Y
+Sir Walter Scott | Ivanhoe | r | 05/2010 | Y
 Jack Kerouac | On the Road | r | June 2010 | Y
 Hermann Hesse | Steppenwolf | r | June 2010 | Y
 Henry Miller | Tropic of Cancer | r | June 2010 | Y
@@ -362,207 +362,207 @@ Saul Bellow | The Adventures of Augie March | r | July 2010 | Y
 Georges Perec | Les Choses | r | July 2010 | Y
 Thomas Pynchon | Gravity's Rainbow | r | July 2010 | Y
 Fyodor Dostoyevsky | The House of the Dead | r | July 2010 | Y
-William Shakespeare | The Taming of the Shrew | r | Aug 2010 | Y
-Ernest Hemingway | The Old Man and the Sea | r | Aug 2010 | Y
-George Orwell | Animal Farm | rr | Aug 2010 | Y
-Robert Jordan | The Shadow Rising | rr | Aug 2010 | Y
-Robertson Davies | Murther and Walking Spirits | r | Aug 2010 | Y
-Jonathan Safran Foer | Extremely Loud and Incredibly Close | r | Sep 2010 | Y
-David Lodge | Therapy | r | Sep 2010 | Y
-Charles Darwin | On the Origin of Species | r | Sep 2010 | Y
-Anne Rice | Interview with a Vampire | r | Sep 2010 | Y
-Chuck Palahniuk | Lullaby | r | Oct 2010 | Y
-Jonathan Swift | Gulliver's Travels | r | Oct 2010 | Y
-John Kennedy Toole | A Confederacy of Dunces | r | Oct 2010 | Y
-Markus Zusak | The Book Thief | r | Nov 2010 | Y
-Editor Joyce Carrol Oates | The Oxford Book of American Short Stories | r | Nov 2010 | Y
-Haruki Murakami | Hard-Boiled Wonderland and the End of the World | r | Nov 2010 | Y
-Hesiod | Theogony | r | Nov 2010 | Y
-Hesiod | Works and Days | r | Nov 2010 | Y
-Robert Jordan | The Fires of Heaven | rr | Nov 2010 | Y
-Barbara Kingsolver | The Poissonwood Bible | r | Dec 2010 | Y
-J.D. Salinger | Raise High the Roof Beam, Carpenters and Seymour: an Introduction | r | Dec 2010 | Y
-Edgar Rice Burroughs | Tarzan of the Apes | r | Dec 2010 | Y
-Kazuo Ishiguro | When We Were Orphans | r | Dec 2010 | Y
-Alain Damasio | La Horde du Contrevent | r | Dec 2010 | N
-F. Scott Fitzgerald | The Great Gatsby | rr | Jan 2011 | Y
-Oscar Wilde | The Picture of Dorian Gray | rr | Jan 2011 | Y
-Jonathan Safran Foer | Eating Animals | r | Jan 2011 | Y
-William Shakespeare | Titus Andronicus | r | Jan 2011 | Y
-Madame de Lafayette | La Princesse de Cleves | r | Feb 2011 | Y
-Susanna Clarke | Jonathan Strange and Mr. Norrell | r | Mar 2011 | Y
-Graham Greene | The Human Factor | r | Mar 2011 | Y
-Alexandra Fuller | Don't Let's Go to the Dogs Tonight | r | Mar 2011 | N
-W. Somerset Maugham | Razor's Edge | r | Mar 2011 | Y
-John Steinbeck | East of Eden | r | Apr 2011 | Y
-Robert Shea and R.A. Wilson | The Illuminatus! Trilogy | rr | Apr 2011 | Y
-Jeffrey Eugenides | Middlesex | r | Apr 2011 | N
-Wallace Stegner | Angle of Repose | r | May 2011 | N
-Robert Jordan | Lord of Chaos | rr | May 2011 | Y
-Dave Eggers | What is the What | r | Jun 2011 | N
-Mario Puzo | The Godfather | r | Jun 2011 | Y
-Jose Saramago | The Gospel According to Jesus Christ | r | Jun 2011 | N
-Khaled Hosseini | The Kite Runner | r | Jun 2011 | Y
-Charles Dickens | Little Dorrit | r | Jun 2011 | Y
-Aldous Huxley | Eyeless in Gaza | r | Jun 2011 | Y
-Hilary Mantel | Wolf Hall | r | Jul 2011 | Y
-Patrick O'Brian | Master and Commander | rr | Jul 2011 | Y
-G.R.R. Martin | A Game of Thrones | rr | Aug 2011 | Y
-Robert Pirsig | Zen and the Art of Motorcycle Maintenance | r | Aug 2011 | Y
-Robert Graves | Count Belisarius | rr | Sep 2011 | Y
-David Sedaris | Naked | r | Sep 2011 | Y
-T.C Boyle | The Tortilla Curtain | r | Sep 2011 | Y
-Graham Greene | The End of the Affair | r | Oct 2011 | Y
-Francine Prose | Reading Like a Writer | r | Oct 2011 | Y
-Ray Bradbury | Fahrenheit 451 | r | Oct 2011 | Y
-Peter Carey | True History of the Kelley Gang | r | Oct 2011 | Y
-Henrik Ibsen | A Doll's House | r | Oct 2011 | Y
-Henrik Ibsen | The Wild Duck | r | Oct 2011 | Y
-Patrick O'Brian | Post Captain | rr | Nov 2011 | Y
-Tom Robbins | Still Life With Woodpecker | r | Nov 2011 | Y
-John LeCarre | A Perfect Spy | r | Dec 2011 | Y
-Jay McInerney | Bright Lights Big City | r | Dec 2011 | Y
-Robert Jordan | A Crown of Swords | rr | Dec 2011 | Y
-Leo Tolstoy | War and Peace | rr | Feb 2012 | Y
-William Shakespeare | Comedy of Errors | rr | Feb 2012 | Y
-Tea Obreht | The Tiger's Wife | r | Feb 2012 | N
-Kazuo Ishiguro | A Pale View of the Hills | r | Feb 2012 | Y
-Evelyn Waugh | A Handful of Dust | r | Mar 2012 | Y
-Evelyn Waugh | Decline and Fall | r | Mar 2012 | Y
-Patrick O'Brian | HMS Surprise | rr | Mar 2012 | Y
-Graham Greene | Our Man in Havana | r | Mar 2012 | Y
-Gabriel Garcia Marquez | The Autumn of the Patriarch | r | Apr 2012 | Y
-Alexandre Dumas | The Count of Monte Christo | rr | Apr 2012 | Y
-Cormac McCarthy | All the Pretty Horses | rr | May 2012 | Y
-James Swanson | Manhunt | r | May 2012 | Y
-Haruki Murakami | 1Q84 | r | May 2012 | Y
-Michael Chabon | The Amazing Adventures of Kavalier and Clay | r | May 2012 | Y
-G.R.R. Martin | A Clash of Kings | rr | May 2012 | Y
-Edgar Allan Poe | Selected Tales | r | Jun 2012 | Y
-Charles Dickens | Hard Times | r | Jun 2012 | Y
-J.D. Salinger | Franny and Zooey | r | Jun 2012 | Y
-Patrick O'Brian | The Mauritius Command | rr | Jun 2012 | Y
-Claire Tomalin | Charles Dickens | r | Jul 2012 | Y
-Orson Scott Card | Ender's Game | r | Jul 2012 | Y
-Malcom Gladwell | Outliers | r | Jul 2012 | Y
-John LeCarre | Tinker, Tayor, Soldier, Spy | rr | Jul 2012 | Y
-Barbara Kingsolver | The Lacuna | r | Aug 2012 | Y
-Upton Sinclair | The Jungle | r | Aug 2012 | Y
-Robert Graves | Wife to Mr Milton | r | Aug 2012 | Y
-Stieg Larsson | The Girl with the Dragon Tattoo | r | Sep 2012 | Y
-Vladimir Nabokov | The Real Life of Sebastian Knight | r | Sep 2012 | Y
-Richard Russo | Empire Falls | r | Oct 2012 | Y
-Patrick O'Brian | Desolation Island | r | Oct 2012 | Y
-Diane Johnson | Le Divorce | r | Oct 2012 | Y
-N. John Hall | Correspondence | r | Oct 2012 | N
-Richard Yates | Revolutionary Road | r | Oct 2012 | Y
-Daniyal Mueenuddin | In Other Rooms, Other Wonders | r | Oct 2012 | N
-Peter Carey | Oscar and Lucinda | r | Nov 2012 | Y
-William Somerset Maugham | Cakes and Ale | r | Dec 2012 | Y
-Cormac McCarthy | The Crossing | r | Dec 2012 | Y
-Jonathan Franzen | The Corrections | r | Dec 2012 | Y
-Thomas D'Agostino | Walking with Giants | r | Jan 2013 | Y
-G.R.R. Martin | A Storm of Swords I | rr | Jan 2013 | Y
-Colm Toibin | The Master | r | Jan 2013 | Y
-George Orwell | 1984 | rr | Jan 2013 | Y
-Gary Shteyngart | The Russian Debutante's Handbook | r | Feb 2013 | Y
-Frank Herbert | Dune | rr | Mar 2013 | Y
-Salman Rushdie | Haroun and the Sea of Stories | r | Apr 2013 | Y
-Truman Capote | Breakfast at Tiffany's | r | Apr 2013 | Y
-Raymond Carver | Cathedral | r | May 2013 | Y
-Neil Gaiman | American Gods | r | May 2013 | Y
-Charles Dickens | Our Mutual Friend | r | Jun 2013 | Y
-Leo Tolstoy | Anna Karenina | rr | Jul 2013 | Y
-John LeCarre | The Spy Who Came in From the Cold | r | Aug 2013| Y
-Greil Marcus | Lipstick Traces | r | Aug 2013 | Y
-Patrick O'Brian | The Fortune of War | rr | Aug 2013 | Y
-David Mitchell | Black Swan Green | r | Sep 2013 | Y
-Raymond Radiguet | Le Diable au corps | r | Sep 2013 | Y
-Henry James | The Turn of the Screw and other short fiction | r | Sep 2013 | Y
-George Orwell | Down and Out in Paris and London | r | Sep 2013 | Y
-Robert Graves | They Hanged My Saintly Billy | r | Sep 2013 | Y
-Hilary Mantel | Bring Up the Bodies | r | Sep 2013 | Y
-Frank Herbert | Dune Messiah | rr | Oct 2013 | Y
-William Bernstein | The Four Pillars of Investing | r | Oct 2013 | Y
-Ernest Hemingway | A Moveable Feast | r | Oct 2013 | Y
-Jose Saramago | The Elephant's Journey | r | Oct 2013 | Y
-Mario Puzo | The Fortunate Pilgrim | r | Oct 2013 | Y
-Nikolai Gogol | The Diary of a Madman and Other Stories | r | Nov 2013 | Y
-John Steinbeck | Tortilla Flat | r | Nov 2013 | N
-China Mieville | Perdido Street Station | r | Nov 2013 | Y
-Richard Thaler | Nudge | r | Nov 2013 | N
-Patrick O'Brian | The Surgeon's Mate | rr | Dec 2013 | Y
-Anton Checkov | Five Plays | r | Dec 2013 | Y
-Tom Wolfe | The Electric Kool-Aid Acid Test | r | Dec 2013 | Y
-Wilkie Collins | The Woman in White | r | Jan 2014 | Y
-Cormac McCarthy | Cities of the Plain | rr | Jan 2014 | Y
-Robert Jordan | The Path of Daggers | rr | Feb 2014 | Y
-Julian Barnes | The Sense of an Ending | r | Feb 2014 | Y
-Tim Harford | The Undercover Economist | r | Feb 2014 | Y
-Leo Tolstoy | The Kreutzer Sonata | r | Feb 2014 | Y
-Paul Harding | Tinkers | r | Feb 2014 | Y
-John LeCarre | The Honourable Schoolboy | rr | Mar 2014 | Y
-Keith Richards | Life | r | Mar 2014 | Y
-Patrick O'Brian | The Ionian Mission | rr | Apr 2014 | Y
-Robert Louis Stevenson | The Black Arrow | r | Apr 2014 | N
-Virginia Woolf | To The Lighthouse | r | May 2014 | Y
-Thomas Hardy | Jude the Obscure | r | Jun 2014 | Y
-Bernard Cornwell | Azincourt | r | Jun 2014 | Y
-Robert Penn Warren | All The King's Men | rr | Jun 2014 | Y
-G.R.R Martin | A Storm of Swords II | rr | Jul 2014 | Y
-Scott Spencer | A Ship Made of Paper | r | Jul 2014 | Y
-Don Delillo | White Noise | r | Aug 2014 | Y
-Jeff Benedict and Armi Keteyan | The System | r | Sep 2014 | Y
-Robert Jordan | Winter's Heart | rr | Sep 2014 | Y
-Henry James | The Aspern Papers | r | Sep 2014 | Y
-G.R.R. Martin | A Feast of Crows | rr | Oct 2014 | Y
-Vikram Seth | An Equal Music | r | Nov 2014 | Y
-Michael Pollan | The Omnivore's Dilemma | r | Nov 2014 | Y
-Charles Dickens | Hard Times | rr | Dec 2014 | Y
-Karen Armstrong | Muhammad | r | Dec 2014 | Y
-Herman Koch | The Dinner | r | Dec 2014 | Y
-Robert Jordan | Crossroads of Twilight | r | Jan 2015 | Y
-Howard Jacobson | The Finkler Question | r | Jan 2015 | Y
-Arthur Conan Doyle | The Adventures of Sherlock Homes | rr | Feb 2015 | Y
-Arthur Conan Doyle | The Memoirs of Sherlock Holmes | rr | Feb 2015 | Y
-Robert Shea and R.A. Wilson | The Illuminatus! Trilogy Part 3 | rr | Feb 2015 | Y
-Jeffrey Eugenides | The Marriage Plot | r | Mar 2015 | Y
-Hilary Mantel | A Place of Greater Safety | r | Apr 2015 | Y
-George Saunders | Tenth of December | r | Apr 2015 | Y
-Dashiell Hammet | The Maltese Falcon | r | Apr 2015 | Y
-George R. R. Martin | A Dance with Dragons | r | May 2015 | Y
-Blaine Harden | Escape from Camp 2014 | r | Jun 2015 | Y
-Jostein Gaarder | Sophie's World | r | Jul 2015 | Y
-John Galsworthy | The Man of Property | r | Jul 2015 | Y
-John LeCarre | Smiley's People | rr | Aug 2015 | Y
-Suzanne Collins | The Hunger Games | r | Aug 2015 | Y
-Isabel Wilkerson | The Warmth of Other Suns | r | Aug 2015 | Y
-Patrick O'Brian | Treason's Harbour | rr | Sep 2015 | Y
-David Mitchell | The Thousand Autumns of Jacob De Zoet | r | Oct 2015 | Y
-JRR Tolkien | The Silmarillion | rrr | Oct 2015 | Y
-Michael Chabon | Wonder Boys | r | Oct 2015 | Y
-Vikram Seth | A Suitable Boy | r | Dec 2015 | Y
-Robert Graves | I, Claudius | rr | Jan 2016 | Y
-Robert Graves | Claudius the God | rr | Feb 2016 | Y
-Kate Atkinson | Life after Life | r | Mar 2016 | Y
-Patrick O'Brian | The Far Side of the World | rr | Apr 2016 | Y
-Dashiell Hammett | Red Harvest | r | Apr 2016 | Y
-Robert Harris | Pompeii | r | May 2016 | Y
-Daniel James Brown | The Boys in the Boat | r | May 2016 | Y
-John LeCarre | A Most Wanted Man | r | Jun 2016 | Y
-Erik Larson | In the Garden of the Beasts | r | Jun 2016 | Y
-Mikhail Lermontov | A Hero of Our Time | r | Jul 2016 | Y
-David Lodge | The Art of Fiction | r | Jul 2016 | Y
-Patrick O'Brian | The Reverse of the Medal | rr | Aug 2016 | Y
-Stieg Larsson | The Girl Who Played With Fire | r | Aug 2016 | Y
-Stendhal | La Chartreuse de Parme | r | Sep 2016 | Y
-William Golding | Pincher Martin | r | Sep 2016 | Y
-Mo Yan | Frog | r | Oct 2016 | Y
-Robert Heinlein | The Cat Who Walks Through Walls | r | Oct 2016 | Y
-Gillen | The Wicked and the Divine I | r | Oct 2016 | N
-Michael Lewis | Flash Boys | r | Oct 2016 | Y
-Gillen | The Wicked and the Divine II | r | Nov 2016 | N
-Gillen | The Wicked and the Divine III | r | Nov 2016 | N
-Gillen | The Wicked and the Divine IV | r | Nov 2016 | N
-Patrick O'Brian | The Letter of Marque | rr | Nov 2016 | Y
-Gregor Von Rezzori | The snows of yesteryear | r | Nov 2016 | Y
+William Shakespeare | The Taming of the Shrew | r | 08/2010 | Y
+Ernest Hemingway | The Old Man and the Sea | r | 08/2010 | Y
+George Orwell | Animal Farm | rr | 08/2010 | Y
+Robert Jordan | The Shadow Rising | rr | 08/2010 | Y
+Robertson Davies | Murther and Walking Spirits | r | 08/2010 | Y
+Jonathan Safran Foer | Extremely Loud and Incredibly Close | r | 09/2010 | Y
+David Lodge | Therapy | r | 09/2010 | Y
+Charles Darwin | On the Origin of Species | r | 09/2010 | Y
+Anne Rice | Interview with a Vampire | r | 09/2010 | Y
+Chuck Palahniuk | Lullaby | r | 10/2010 | Y
+Jonathan Swift | Gulliver's Travels | r | 10/2010 | Y
+John Kennedy Toole | A Confederacy of Dunces | r | 10/2010 | Y
+Markus Zusak | The Book Thief | r | 11/2010 | Y
+Editor Joyce Carrol Oates | The Oxford Book of American Short Stories | r | 11/2010 | Y
+Haruki Murakami | Hard-Boiled Wonderland and the End of the World | r | 11/2010 | Y
+Hesiod | Theogony | r | 11/2010 | Y
+Hesiod | Works and Days | r | 11/2010 | Y
+Robert Jordan | The Fires of Heaven | rr | 11/2010 | Y
+Barbara Kingsolver | The Poissonwood Bible | r | 12/2010 | Y
+J.D. Salinger | Raise High the Roof Beam, Carpenters and Seymour: an Introduction | r | 12/2010 | Y
+Edgar Rice Burroughs | Tarzan of the Apes | r | 12/2010 | Y
+Kazuo Ishiguro | When We Were Orphans | r | 12/2010 | Y
+Alain Damasio | La Horde du Contrevent | r | 12/2010 | N
+F. Scott Fitzgerald | The Great Gatsby | rr | 01/2011 | Y
+Oscar Wilde | The Picture of Dorian Gray | rr | 01/2011 | Y
+Jonathan Safran Foer | Eating Animals | r | 01/2011 | Y
+William Shakespeare | Titus Andronicus | r | 01/2011 | Y
+Madame de Lafayette | La Princesse de Cleves | r | 02/2011 | Y
+Susanna Clarke | Jonathan Strange and Mr. Norrell | r | 03/2011 | Y
+Graham Greene | The Human Factor | r | 03/2011 | Y
+Alexandra Fuller | Don't Let's Go to the Dogs Tonight | r | 03/2011 | N
+W. Somerset Maugham | Razor's Edge | r | 03/2011 | Y
+John Steinbeck | East of Eden | r | 04/2011 | Y
+Robert Shea and R.A. Wilson | The Illuminatus! Trilogy | rr | 04/2011 | Y
+Jeffrey Eugenides | Middlesex | r | 04/2011 | N
+Wallace Stegner | Angle of Repose | r | 05/2011 | N
+Robert Jordan | Lord of Chaos | rr | 05/2011 | Y
+Dave Eggers | What is the What | r | 06/2011 | N
+Mario Puzo | The Godfather | r | 06/2011 | Y
+Jose Saramago | The Gospel According to Jesus Christ | r | 06/2011 | N
+Khaled Hosseini | The Kite Runner | r | 06/2011 | Y
+Charles Dickens | Little Dorrit | r | 06/2011 | Y
+Aldous Huxley | Eyeless in Gaza | r | 06/2011 | Y
+Hilary Mantel | Wolf Hall | r | 07/2011 | Y
+Patrick O'Brian | Master and Commander | rr | 07/2011 | Y
+G.R.R. Martin | A Game of Thrones | rr | 08/2011 | Y
+Robert Pirsig | Zen and the Art of Motorcycle Maintenance | r | 08/2011 | Y
+Robert Graves | Count Belisarius | rr | 09/2011 | Y
+David Sedaris | Naked | r | 09/2011 | Y
+T.C Boyle | The Tortilla Curtain | r | 09/2011 | Y
+Graham Greene | The End of the Affair | r | 10/2011 | Y
+Francine Prose | Reading Like a Writer | r | 10/2011 | Y
+Ray Bradbury | Fahrenheit 451 | r | 10/2011 | Y
+Peter Carey | True History of the Kelley Gang | r | 10/2011 | Y
+Henrik Ibsen | A Doll's House | r | 10/2011 | Y
+Henrik Ibsen | The Wild Duck | r | 10/2011 | Y
+Patrick O'Brian | Post Captain | rr | 11/2011 | Y
+Tom Robbins | Still Life With Woodpecker | r | 11/2011 | Y
+John LeCarre | A Perfect Spy | r | 12/2011 | Y
+Jay McInerney | Bright Lights Big City | r | 12/2011 | Y
+Robert Jordan | A Crown of Swords | rr | 12/2011 | Y
+Leo Tolstoy | War and Peace | rr | 02/2012 | Y
+William Shakespeare | Comedy of Errors | rr | 02/2012 | Y
+Tea Obreht | The Tiger's Wife | r | 02/2012 | N
+Kazuo Ishiguro | A Pale View of the Hills | r | 02/2012 | Y
+Evelyn Waugh | A Handful of Dust | r | 03/2012 | Y
+Evelyn Waugh | Decline and Fall | r | 03/2012 | Y
+Patrick O'Brian | HMS Surprise | rr | 03/2012 | Y
+Graham Greene | Our Man in Havana | r | 03/2012 | Y
+Gabriel Garcia Marquez | The Autumn of the Patriarch | r | 04/2012 | Y
+Alexandre Dumas | The Count of Monte Christo | rr | 04/2012 | Y
+Cormac McCarthy | All the Pretty Horses | rr | 05/2012 | Y
+James Swanson | Manhunt | r | 05/2012 | Y
+Haruki Murakami | 1Q84 | r | 05/2012 | Y
+Michael Chabon | The Amazing Adventures of Kavalier and Clay | r | 05/2012 | Y
+G.R.R. Martin | A Clash of Kings | rr | 05/2012 | Y
+Edgar Allan Poe | Selected Tales | r | 06/2012 | Y
+Charles Dickens | Hard Times | r | 06/2012 | Y
+J.D. Salinger | Franny and Zooey | r | 06/2012 | Y
+Patrick O'Brian | The Mauritius Command | rr | 06/2012 | Y
+Claire Tomalin | Charles Dickens | r | 07/2012 | Y
+Orson Scott Card | Ender's Game | r | 07/2012 | Y
+Malcom Gladwell | Outliers | r | 07/2012 | Y
+John LeCarre | Tinker, Tayor, Soldier, Spy | rr | 07/2012 | Y
+Barbara Kingsolver | The Lacuna | r | 08/2012 | Y
+Upton Sinclair | The Jungle | r | 08/2012 | Y
+Robert Graves | Wife to Mr Milton | r | 08/2012 | Y
+Stieg Larsson | The Girl with the Dragon Tattoo | r | 09/2012 | Y
+Vladimir Nabokov | The Real Life of Sebastian Knight | r | 09/2012 | Y
+Richard Russo | Empire Falls | r | 10/2012 | Y
+Patrick O'Brian | Desolation Island | r | 10/2012 | Y
+Diane Johnson | Le Divorce | r | 10/2012 | Y
+N. John Hall | Correspondence | r | 10/2012 | N
+Richard Yates | Revolutionary Road | r | 10/2012 | Y
+Daniyal Mueenuddin | In Other Rooms, Other Wonders | r | 10/2012 | N
+Peter Carey | Oscar and Lucinda | r | 11/2012 | Y
+William Somerset Maugham | Cakes and Ale | r | 12/2012 | Y
+Cormac McCarthy | The Crossing | r | 12/2012 | Y
+Jonathan Franzen | The Corrections | r | 12/2012 | Y
+Thomas D'Agostino | Walking with Giants | r | 01/2013 | Y
+G.R.R. Martin | A Storm of Swords I | rr | 01/2013 | Y
+Colm Toibin | The Master | r | 01/2013 | Y
+George Orwell | 1984 | rr | 01/2013 | Y
+Gary Shteyngart | The Russian Debutante's Handbook | r | 02/2013 | Y
+Frank Herbert | Dune | rr | 03/2013 | Y
+Salman Rushdie | Haroun and the Sea of Stories | r | 04/2013 | Y
+Truman Capote | Breakfast at Tiffany's | r | 04/2013 | Y
+Raymond Carver | Cathedral | r | 05/2013 | Y
+Neil Gaiman | American Gods | r | 05/2013 | Y
+Charles Dickens | Our Mutual Friend | r | 06/2013 | Y
+Leo Tolstoy | Anna Karenina | rr | 07/2013 | Y
+John LeCarre | The Spy Who Came in From the Cold | r | 08/2013| Y
+Greil Marcus | Lipstick Traces | r | 08/2013 | Y
+Patrick O'Brian | The Fortune of War | rr | 08/2013 | Y
+David Mitchell | Black Swan Green | r | 09/2013 | Y
+Raymond Radiguet | Le Diable au corps | r | 09/2013 | Y
+Henry James | The Turn of the Screw and other short fiction | r | 09/2013 | Y
+George Orwell | Down and Out in Paris and London | r | 09/2013 | Y
+Robert Graves | They Hanged My Saintly Billy | r | 09/2013 | Y
+Hilary Mantel | Bring Up the Bodies | r | 09/2013 | Y
+Frank Herbert | Dune Messiah | rr | 10/2013 | Y
+William Bernstein | The Four Pillars of Investing | r | 10/2013 | Y
+Ernest Hemingway | A Moveable Feast | r | 10/2013 | Y
+Jose Saramago | The Elephant's Journey | r | 10/2013 | Y
+Mario Puzo | The Fortunate Pilgrim | r | 10/2013 | Y
+Nikolai Gogol | The Diary of a Madman and Other Stories | r | 11/2013 | Y
+John Steinbeck | Tortilla Flat | r | 11/2013 | N
+China Mieville | Perdido Street Station | r | 11/2013 | Y
+Richard Thaler | Nudge | r | 11/2013 | N
+Patrick O'Brian | The Surgeon's Mate | rr | 12/2013 | Y
+Anton Checkov | Five Plays | r | 12/2013 | Y
+Tom Wolfe | The Electric Kool-Aid Acid Test | r | 12/2013 | Y
+Wilkie Collins | The Woman in White | r | 01/2014 | Y
+Cormac McCarthy | Cities of the Plain | rr | 01/2014 | Y
+Robert Jordan | The Path of Daggers | rr | 02/2014 | Y
+Julian Barnes | The Sense of an Ending | r | 02/2014 | Y
+Tim Harford | The Undercover Economist | r | 02/2014 | Y
+Leo Tolstoy | The Kreutzer Sonata | r | 02/2014 | Y
+Paul Harding | Tinkers | r | 02/2014 | Y
+John LeCarre | The Honourable Schoolboy | rr | 03/2014 | Y
+Keith Richards | Life | r | 03/2014 | Y
+Patrick O'Brian | The Ionian Mission | rr | 04/2014 | Y
+Robert Louis Stevenson | The Black Arrow | r | 04/2014 | N
+Virginia Woolf | To The Lighthouse | r | 05/2014 | Y
+Thomas Hardy | Jude the Obscure | r | 06/2014 | Y
+Bernard Cornwell | Azincourt | r | 06/2014 | Y
+Robert Penn Warren | All The King's Men | rr | 06/2014 | Y
+G.R.R Martin | A Storm of Swords II | rr | 07/2014 | Y
+Scott Spencer | A Ship Made of Paper | r | 07/2014 | Y
+Don Delillo | White Noise | r | 08/2014 | Y
+Jeff Benedict and Armi Keteyan | The System | r | 09/2014 | Y
+Robert Jordan | Winter's Heart | rr | 09/2014 | Y
+Henry James | The Aspern Papers | r | 09/2014 | Y
+G.R.R. Martin | A Feast of Crows | rr | 10/2014 | Y
+Vikram Seth | An Equal Music | r | 11/2014 | Y
+Michael Pollan | The Omnivore's Dilemma | r | 11/2014 | Y
+Charles Dickens | Hard Times | rr | 12/2014 | Y
+Karen Armstrong | Muhammad | r | 12/2014 | Y
+Herman Koch | The Dinner | r | 12/2014 | Y
+Robert Jordan | Crossroads of Twilight | r | 01/2015 | Y
+Howard Jacobson | The Finkler Question | r | 01/2015 | Y
+Arthur Conan Doyle | The Adventures of Sherlock Homes | rr | 02/2015 | Y
+Arthur Conan Doyle | The Memoirs of Sherlock Holmes | rr | 02/2015 | Y
+Robert Shea and R.A. Wilson | The Illuminatus! Trilogy Part 3 | rr | 02/2015 | Y
+Jeffrey Eugenides | The Marriage Plot | r | 03/2015 | Y
+Hilary Mantel | A Place of Greater Safety | r | 04/2015 | Y
+George Saunders | Tenth of December | r | 04/2015 | Y
+Dashiell Hammet | The Maltese Falcon | r | 04/2015 | Y
+George R. R. Martin | A Dance with Dragons | r | 05/2015 | Y
+Blaine Harden | Escape from Camp 2014 | r | 06/2015 | Y
+Jostein Gaarder | Sophie's World | r | 07/2015 | Y
+John Galsworthy | The Man of Property | r | 07/2015 | Y
+John LeCarre | Smiley's People | rr | 08/2015 | Y
+Suzanne Collins | The Hunger Games | r | 08/2015 | Y
+Isabel Wilkerson | The Warmth of Other Suns | r | 08/2015 | Y
+Patrick O'Brian | Treason's Harbour | rr | 09/2015 | Y
+David Mitchell | The Thousand Autumns of Jacob De Zoet | r | 10/2015 | Y
+JRR Tolkien | The Silmarillion | rrr | 10/2015 | Y
+Michael Chabon | Wonder Boys | r | 10/2015 | Y
+Vikram Seth | A Suitable Boy | r | 12/2015 | Y
+Robert Graves | I, Claudius | rr | 01/2016 | Y
+Robert Graves | Claudius the God | rr | 02/2016 | Y
+Kate Atkinson | Life after Life | r | 03/2016 | Y
+Patrick O'Brian | The Far Side of the World | rr | 04/2016 | Y
+Dashiell Hammett | Red Harvest | r | 04/2016 | Y
+Robert Harris | Pompeii | r | 05/2016 | Y
+Daniel James Brown | The Boys in the Boat | r | 05/2016 | Y
+John LeCarre | A Most Wanted Man | r | 06/2016 | Y
+Erik Larson | In the Garden of the Beasts | r | 06/2016 | Y
+Mikhail Lermontov | A Hero of Our Time | r | 07/2016 | Y
+David Lodge | The Art of Fiction | r | 07/2016 | Y
+Patrick O'Brian | The Reverse of the Medal | rr | 08/2016 | Y
+Stieg Larsson | The Girl Who Played With Fire | r | 08/2016 | Y
+Stendhal | La Chartreuse de Parme | r | 09/2016 | Y
+William Golding | Pincher Martin | r | 09/2016 | Y
+Mo Yan | Frog | r | 10/2016 | Y
+Robert Heinlein | The Cat Who Walks Through Walls | r | 10/2016 | Y
+Gillen | The Wicked and the Divine I | r | 10/2016 | N
+Michael Lewis | Flash Boys | r | 10/2016 | Y
+Gillen | The Wicked and the Divine II | r | 11/2016 | N
+Gillen | The Wicked and the Divine III | r | 11/2016 | N
+Gillen | The Wicked and the Divine IV | r | 11/2016 | N
+Patrick O'Brian | The Letter of Marque | rr | 11/2016 | Y
+Gregor Von Rezzori | The Snows of Yesteryear | r | 11/2016 | Y
