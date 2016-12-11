@@ -1,5 +1,6 @@
 # List of books I have read (alphabetized)
 
+Author | Title | Status | Date read | Owned? 
 :------ |:------|:------:|:---------:|:------:
 Douglas Adams | Life, the Universe and Everything | r |  | Y
 Douglas Adams | Mostly Harmless | r |  | Y

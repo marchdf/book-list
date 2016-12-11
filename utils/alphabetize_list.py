@@ -85,11 +85,13 @@ df.to_csv(tmpfile,
 with open(args.fname) as f:
     h1 = f.readline()
     h2 = f.readline()
+    h3 = f.readline()
 
 ftmp = open(tmpfile, 'r')
 with open(tmpfile, 'r') as ftmp, open(ofile, 'w') as of :
     of.write( h1.rstrip() + ' (alphabetized)\n')
     of.write( h2)
+    of.write( h3)
     for line in ftmp.readlines():
         of.write(line)
 
