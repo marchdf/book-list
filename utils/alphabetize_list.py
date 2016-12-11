@@ -87,8 +87,8 @@ with open(args.fname) as f:
     h2 = f.readline()
 
 ftmp = open(tmpfile, 'r')
-with open(tmpfile, 'r') as ftmp, open(ofile, 'w') as of : 
-    of.write( h1)
+with open(tmpfile, 'r') as ftmp, open(ofile, 'w') as of :
+    of.write( h1.rstrip() + ' (alphabetized)\n')
     of.write( h2)
     for line in ftmp.readlines():
         of.write(line)

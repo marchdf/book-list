@@ -1,4 +1,4 @@
-# List of books I have read
+# List of books I have read (alphabetized)
 
 :------ |:------|:------:|:---------:|:------:
 Douglas Adams | Life, the Universe and Everything | r |  | Y
