@@ -25,7 +25,7 @@ Fiona McIntosh | Blood and Memory | r |  | Y
 Fiona McIntosh | Bridge of Souls | r |  | Y
 Ray Bradbury | The Martian Chronicles | r |  | Y
 Ray Bradbury | The Illustrated Man | r |  | Y
-Ray Bradbury | Fahrenheit 951 | r |  | N
+Ray Bradbury | Fahrenheit 451 | r |  | N
 Terry Pratchett | Thief of Time | r |  | Y
 Terry Pratchett | Mort | r |  | Y
 Lois McMaster Bujold | The Curse of Chalion | r |  | Y
@@ -308,10 +308,10 @@ Frank Miller | The Hard Goodbye | r |  | Y
 Frank Miller | A Dame to Kill For | r |  | Y
 Mervyn Peake | Titus Groan | r |  | Y
 Robert Shea and R.A. Wilson | The Illuminatus! Trilogy | r |  | Y
-Isaac Asimov | Foundation (I)| r |  | Y
-Isaac Asimov | Foundation and Empire (II)| r |  | Y
-Isaac Asimov | The Second Foundation (III)| r |  | Y
-Isaac Asimov | Foundation's Edge (IV)| r |  | Y
+Isaac Asimov | Foundation (I) | r |  | Y
+Isaac Asimov | Foundation and Empire (II) | r |  | Y
+Isaac Asimov | The Second Foundation (III) | r |  | Y
+Isaac Asimov | Foundation's Edge (IV) | r |  | Y
 Lloyd Alexander | the Chronicles of Prydain | r |  | N
 William Shakespeare | Twelfth Night | r |  | Y
 Edith Wharton | The House of Mirth | r |  | Y
@@ -416,7 +416,7 @@ David Sedaris | Naked | r | 09/2011 | Y
 T.C Boyle | The Tortilla Curtain | r | 09/2011 | Y
 Graham Greene | The End of the Affair | r | 10/2011 | Y
 Francine Prose | Reading Like a Writer | r | 10/2011 | Y
-Ray Bradbury | Fahrenheit 451 | r | 10/2011 | Y
+Ray Bradbury | Fahrenheit 451 | rr | 10/2011 | Y
 Peter Carey | True History of the Kelley Gang | r | 10/2011 | Y
 Henrik Ibsen | A Doll's House | r | 10/2011 | Y
 Henrik Ibsen | The Wild Duck | r | 10/2011 | Y

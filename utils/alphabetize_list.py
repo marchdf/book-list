@@ -72,7 +72,7 @@ df['first_name'] = [ ' '.join(n[:-1]) for n in names]
 df['last_name'] = [ n[-1] for n in names]
 
 # sort based on last name
-df = df.sort_values(by='last_name')
+df = df.sort_values(by=['last_name','first_name','title','date','status','own'])
 
 # Save to file
 df.to_csv(tmpfile,
