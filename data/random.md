@@ -12,7 +12,7 @@
 - [Francine Prose](http://www.giraffedays.com?page_id=5899)
 
 ## Consensus cloud
-<img src="./information_is_Beautiful_checked.png" alt="consensus cloud" width="800">
+<img src="./information_is_beautiful_checked.png" alt="consensus cloud" width="800">
 
 
 ## Other
