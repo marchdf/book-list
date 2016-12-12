@@ -138,37 +138,3 @@ Robert Musil  |  The Man without Qualities  | |
 Charles Taylor   | A Secular Age  |  it may be too philosophical|
 McGrath  |  The Dawkins Delusion   | |
 John Cornwell | Darwin's Angel | Same spirit as above|
-Terry Pratchett  |   | |
-David Denby   | Great Books   | |
-Robert Heinlein  |   | |
-H.P Lovecraft  |   | |
-Gabriel Garcia Marquez  |   | |
-Proust  |   | |
-Thoreau  |   | |
-Baudelaire   | Les Fleurs du Mal  | |
-Joyce  |   | |
-Camus  |   | |
-Nietzsche  |   | |
-Henry James  |   | |
-Voltaire  |   | |
-Alexander Pope  |   | |
-Jonathan Swift   |   | |
-Oscar Wilde  |   | |
-Dickens  |   | |
-Thomas Hardy  |   | |
-Kipling  |   | |
-H.G Wells  |  |  |
-E.A. Poe  |   | |
-Ralph Waldo Emerson  |   | |
-Moliere  |   | |
-Malraux  |   | |
-Sartre  |   | |
-Gore Vidal |  | |
-Fleming  |  | |
-P.G Wodehouse  |  | |
-Turgenev  |  | |
-Maupassant  |  | |
-Hawthorne |  | |
-Austen |   | Got Emma, PnP,  SnS|
-Smollet  | Humphrey Clinker  | |
-         | Peregrine Pickle  | |

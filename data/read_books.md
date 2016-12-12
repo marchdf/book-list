@@ -454,14 +454,14 @@ Robert Graves | Wife to Mr Milton | r | 08/2012 | Y
 Stieg Larsson | The Girl with the Dragon Tattoo | r | 09/2012 | Y
 Vladimir Nabokov | The Real Life of Sebastian Knight | r | 09/2012 | Y
 Richard Russo | Empire Falls | r | 10/2012 | Y
-Patrick O'Brian | Desolation Island | r | 10/2012 | Y
+Patrick O'Brian | Desolation Island | rr | 10/2012 | Y
 Diane Johnson | Le Divorce | r | 10/2012 | Y
 N. John Hall | Correspondence | r | 10/2012 | N
 Richard Yates | Revolutionary Road | r | 10/2012 | Y
 Daniyal Mueenuddin | In Other Rooms, Other Wonders | r | 10/2012 | N
 Peter Carey | Oscar and Lucinda | r | 11/2012 | Y
 William Somerset Maugham | Cakes and Ale | r | 12/2012 | Y
-Cormac McCarthy | The Crossing | r | 12/2012 | Y
+Cormac McCarthy | The Crossing | rr | 12/2012 | Y
 Jonathan Franzen | The Corrections | r | 12/2012 | Y
 Thomas D'Agostino | Walking with Giants | r | 01/2013 | Y
 G.R.R. Martin | A Storm of Swords I | rr | 01/2013 | Y
