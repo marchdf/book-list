@@ -290,6 +290,7 @@ Barbara Kingsolver | The Lacuna | r | 08/2012 | Y
 Barbara Kingsolver | The Poissonwood Bible | r | 12/2010 | Y
 Herman Koch | The Dinner | r | 12/2014 | Y
 Arthur Koestler | Darkness at Noon | r |  | Y
+Ellen Kushner | Swordspoint | r | 12/2016 | Y
 Choderlos de Laclos | Les Liasons Dangereuses | r |  | Y
 Madame de Lafayette | La Princesse de Cleves | r | 02/2011 | Y
 Di Lampedusa | The Leopard | r |  | Y
@@ -350,7 +351,7 @@ Cormac McCarthy | Cities of the Plain | r |  | N
 Cormac McCarthy | Cities of the Plain | rr | 01/2014 | Y
 Cormac McCarthy | No Country for Old Men | r |  | Y
 Cormac McCarthy | The Crossing | r |  | N
-Cormac McCarthy | The Crossing | r | 12/2012 | Y
+Cormac McCarthy | The Crossing | rr | 12/2012 | Y
 Cormac McCarthy | The Road | r |  | Y
 McDonald | The Bedford Companion to Shakespeare | r |  | Y
 Jay McInerney | Bright Lights Big City | r | 12/2011 | Y
@@ -383,7 +384,7 @@ Garth Nix | Lirael | r |  | Y
 Garth Nix | Sabriel | r |  | N
 Garth Nix | Shade's Children | r |  | N
 M. Nouschi | Petit Atlas Historique du 20ieme siecle | r |  | Y
-Patrick O'Brian | Desolation Island | r | 10/2012 | Y
+Patrick O'Brian | Desolation Island | rr | 10/2012 | Y
 Patrick O'Brian | HMS Surprise | rr | 03/2012 | Y
 Patrick O'Brian | Master and Commander | rr | 07/2011 | Y
 Patrick O'Brian | Post Captain | rr | 11/2011 | Y

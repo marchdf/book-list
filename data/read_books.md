@@ -569,3 +569,4 @@ Gillen | The Wicked and the Divine IV | r | 11/2016 | N
 Patrick O'Brian | The Letter of Marque | rr | 11/2016 | Y
 Gregor Von Rezzori | The Snows of Yesteryear | r | 11/2016 | Y
 Lewis Carroll | The Annotated Alice (Alice in Wonderland) | rr | 12/2016 | Y
+Ellen Kushner | Swordspoint | r | 12/2016 | Y

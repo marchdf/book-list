@@ -29,8 +29,7 @@ from datetime import timedelta
 # Parse arguments
 #
 #================================================================================
-parser = argparse.ArgumentParser(description='A simple one-dimensional Discontinuous Galerkin solver.')
-parser.add_argument('-f','--fname', help='Name of input file', default="../data/read_books.md")
+parser = argparse.ArgumentParser(description='Alphabetize the list of books')
 args = parser.parse_args()
 
 #================================================================================
@@ -55,10 +54,12 @@ args = parser.parse_args()
 start = time.time()
 
 tmpfile = 'tmp.md'
-ofile = '../data/read_books_alpha.md'
+basedir = os.path.dirname(os.path.dirname(os.path.realpath(__file__)))
+ifile = basedir+'/data/read_books.md'
+ofile = basedir+'/data/read_books_alpha.md'
 
 # Parse the list of books
-df = pd.read_csv(args.fname,
+df = pd.read_csv(ifile,
                  sep='|',
                  skiprows=2, # skip markdown header
                  header=None,
@@ -82,7 +83,7 @@ df.to_csv(tmpfile,
           header = False)
 
 # Add header lines from original table
-with open(args.fname) as f:
+with open(ifile) as f:
     h1 = f.readline()
     h2 = f.readline()
     h3 = f.readline()

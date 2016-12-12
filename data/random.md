@@ -2,6 +2,7 @@
 
 Author | Title 
 :------ |:------
+Ellen Kushner | next up: The Privilege of the Sword
 Terry Pratchett  | 
 David Denby   | Great Books 
 Robert Heinlein  | 
