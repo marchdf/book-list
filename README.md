@@ -15,10 +15,7 @@ The following repository contains several lists pertaining to books:
 3. Commit and push
 
 # To do
-
-Things to do 
-
-- add the books that we own but haven't read yet
+Nothing right now
 
 # Licensing
 

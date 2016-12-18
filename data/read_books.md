@@ -513,7 +513,7 @@ Bernard Cornwell | Azincourt | r | 06/2014 | Y
 Robert Penn Warren | All The King's Men | rr | 06/2014 | Y
 G.R.R Martin | A Storm of Swords II | rr | 07/2014 | Y
 Scott Spencer | A Ship Made of Paper | r | 07/2014 | Y
-Don Delillo | White Noise | r | 08/2014 | Y
+Don DeLillo | White Noise | r | 08/2014 | Y
 Jeff Benedict and Armi Keteyan | The System | r | 09/2014 | Y
 Robert Jordan | Winter's Heart | rr | 09/2014 | Y
 Henry James | The Aspern Papers | r | 09/2014 | Y
@@ -570,3 +570,4 @@ Patrick O'Brian | The Letter of Marque | rr | 11/2016 | Y
 Gregor Von Rezzori | The Snows of Yesteryear | r | 11/2016 | Y
 Lewis Carroll | The Annotated Alice (Alice in Wonderland) | rr | 12/2016 | Y
 Ellen Kushner | Swordspoint | r | 12/2016 | Y
+Don DeLillo | Falling Man | r | 12/2016 | Y

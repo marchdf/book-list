@@ -100,8 +100,9 @@ Robertson Davies | The Cornish Trilogy | r |  | Y
 Robertson Davies | The Cunning Man | r |  | Y
 Robertson Davies | The Deptford Trilogy | r |  | Y
 Richard Dawkins | The God Delusion | r |  | Y
+Don DeLillo | Falling Man | r | 12/2016 | Y
+Don DeLillo | White Noise | r | 08/2014 | Y
 Daniel Defoe | Robinson Crusoe | r |  | Y
-Don Delillo | White Noise | r | 08/2014 | Y
 Jared Diamond | Collapse | r |  | Y
 Jared Diamond | Guns, Germs and Steel | r |  | Y
 Philip K. Dick | Do Androids Dream of Electric Sheep? | r |  | Y
