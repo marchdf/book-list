@@ -7,9 +7,11 @@
 - [Locus Award](https://en.wikipedia.org/wiki/Locus_Award_for_Best_Fantasy_Novel)
 - [Man Booker Prize](https://en.wikipedia.org/wiki/List_of_winners_and_shortlisted_authors_of_the_Booker_Prize_for_Fiction)
 - [Pulitzer Prize for Fiction](https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Fiction)
+- Eisner Award: [Best Continuing Series](https://en.wikipedia.org/wiki/List_of_Eisner_Award_winners#Best_Continuing_Series)
 
 ## Lists
 - [Francine Prose](http://www.giraffedays.com?page_id=5899)
+- [Powells, Portland](http://www.powells.com/staff-picks)
 
 ## Consensus cloud
 <img src="./information_is_beautiful_checked.png" alt="consensus cloud" width="800">
