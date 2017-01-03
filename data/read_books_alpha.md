@@ -346,6 +346,7 @@ George R. R. Martin | A Dance with Dragons | r | 05/2015 | Y
 W. Somerset Maugham | Razor's Edge | r | 03/2011 | Y
 William Somerset Maugham | Cakes and Ale | r | 12/2012 | Y
 Maupassant | Le Horla | r |  | Y
+Simon Mawer | Tightrope | r | 12/2016 | Y
 Cormac McCarthy | All the Pretty Horses | r |  | Y
 Cormac McCarthy | All the Pretty Horses | rr | 05/2012 | Y
 Cormac McCarthy | Cities of the Plain | r |  | N

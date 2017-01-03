@@ -1,7 +1,14 @@
 # List of books that were recommended to me
 
 Author | Title | Recommender | 
-:------ |:------|:----------- |
+:------|:------|:----------- |
+Simon Mawer | The Glass Room | shortlisted for Booker |
+Sotomayor | My Beloved World | rec. by Aku | 
+Ron Chernow | Hamilton | rec. by Aku | 
+Roach | Grunt | | 
+| Child 44 | rec by Tom
+Millard | Hero of the Empire | finished reading part 1
+Jane Smiley | Some Luck | rec by Aku |
 Coppola | The Conversation | spy thriller|
 Leigh Bardugo | Six of Crows | rec. by Tim Buckley of CAD|
 - | Doom Patrol; Shade, The Changing Girl; Cave Carson Has a Cybernetic Eye; Mother Panic | comics rec. by [Vox](http://www.vox.com/culture/2016/10/13/13256938/gerard-way-young-animal)|
