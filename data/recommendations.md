@@ -2,6 +2,7 @@
 
 Author | Title | Recommender | 
 :------|:------|:----------- |
+John Steinbeck | Log of the Sea of Cortez| rec. by Erik |
 Simon Mawer | The Glass Room | shortlisted for Booker |
 Sotomayor | My Beloved World | rec. by Aku | 
 Ron Chernow | Hamilton | rec. by Aku | 
