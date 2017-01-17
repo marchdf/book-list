@@ -1,11 +1,13 @@
 # List of books that were recommended to me
 
-Author | Title | Recommender | 
+Author | Title | Recommender |
 :------|:------|:----------- |
+Liu Cixin | The Three-Body Problem | NYT article about Obama, won Hugo |
+Margaret Atwood | The Handmaid's Tale | |
 Simon Mawer | The Glass Room | shortlisted for Booker |
-Sotomayor | My Beloved World | rec. by Aku | 
-Ron Chernow | Hamilton | rec. by Aku | 
-Roach | Grunt | | 
+Sotomayor | My Beloved World | rec. by Aku |
+Ron Chernow | Hamilton | rec. by Aku |
+Roach | Grunt | |
 | Child 44 | rec by Tom
 Millard | Hero of the Empire | finished reading part 1
 Jane Smiley | Some Luck | rec by Aku |
