@@ -4,6 +4,7 @@ Author | Title | Recommender |
 :------|:------|:----------- |
 Liu Cixin | The Three-Body Problem | NYT article about Obama, won Hugo |
 Margaret Atwood | The Handmaid's Tale | |
+John Steinbeck | Log of the Sea of Cortez| rec. by Erik |
 Simon Mawer | The Glass Room | shortlisted for Booker |
 Sotomayor | My Beloved World | rec. by Aku |
 Ron Chernow | Hamilton | rec. by Aku |

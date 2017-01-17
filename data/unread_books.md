@@ -2,6 +2,9 @@
 
 Author | Title 
 :------ |:------
+Elizabeth Strout | The Burgess Boys
+Ian McEwan | Atonement
+John Banville | The Sea
 Patrick Guralnik | Sam Philips
 Christopher Clark | The Sleepwalkers
 Patrick O'Brian | The Wine Dark See
