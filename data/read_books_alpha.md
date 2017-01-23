@@ -42,6 +42,7 @@ Richard Brautigan | Dreaming of Babylon | r | 02/2010 | Y
 Richard Brautigan | The Hawkline Monster | r | 02/2010 | Y
 Bertold Brecht | The Treepenny Opera | r |  | Y
 Charlotte Bronte | Jane Eyre | r |  | Y
+Charlotte Bronte | Villette | r | 01/2017  | Y
 Emily Bronte | Wuthering Heights | r | 09/2009 | Y
 Terry Brooks | Jarka Ruus | r |  | Y
 Terry Brooks | Original Shannara Trilogy, Heritage of Shannara Tetralogy, Prequel to the Original Shannara Trilogy, Voyage of the Jerle Shannara, Magic Kingdom of Landover (from Magic Kingdom for Sale -- Sold! to Wizard at Large) | r |  | N

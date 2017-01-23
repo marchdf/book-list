@@ -572,3 +572,4 @@ Lewis Carroll | The Annotated Alice (Alice in Wonderland) | rr | 12/2016 | Y
 Ellen Kushner | Swordspoint | r | 12/2016 | Y
 Don DeLillo | Falling Man | r | 12/2016 | Y
 Simon Mawer | Tightrope | r | 12/2016 | Y
+Charlotte Bronte | Villette | r | 01/2017  | Y
