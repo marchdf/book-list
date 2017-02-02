@@ -493,6 +493,7 @@ Shelley | Frankenstein | r |  | Y
 Gary Shteyngart | The Russian Debutante's Handbook | r | 02/2013 | Y
 Upton Sinclair | The Jungle | r | 08/2012 | Y
 Jane Smiley | Moo | r |  | Y
+Zadie Smith | Swing Time | r | 01/2017 | Y
 Alexander Solzhenitsyn | One Day in the Life of Ivan Denisovich | r | 06/2010 | Y
 Alexandr Solzhenitsyn | The First Circle | r | 01/2010 | Y
 Scott Spencer | A Ship Made of Paper | r | 07/2014 | Y
