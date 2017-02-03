@@ -2,6 +2,7 @@
 
 Author | Title 
 :------ |:------
+Candice Millard | Hero of the Empire
 Elizabeth Strout | The Burgess Boys
 Ian McEwan | Atonement
 John Banville | The Sea
@@ -21,11 +22,9 @@ Radiguet | Le Diable au corps
 Covey | Seven habits of highly effective people
 Barbara Kingsolver | The Bean Trees
 Bradbury and Greaves | Emotional Inteligence
-Bernstein | Four Pillars of Investing
 Checkov | Five Plays
 Kate Atkinson | A God in Ruins
 Margaret Atwood | Cat's Eye
-Don DeLillo | Falling Man
 Robert Louis Stevenson | The Black Arrow
 David Mitchell | Number 9 Dream
 John LeCarre | The Looking Glass War
@@ -40,9 +39,7 @@ Eleanor Catton | The Luminaries
 Kate Beaton | Hark! A Vagrant
 Alcott | Little Women
 Samuel Beckett | Waiting for Godot
-Simon Mawer | Tightrope
 Herodotus | The Histories
-Charlotte Bronte | Villette
 Lewis | The Great Divorce
 Mark Twain | The Best Short Works
 Mark Twain | Letters from Earth
