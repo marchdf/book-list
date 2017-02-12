@@ -8,6 +8,8 @@ The following repository contains several lists pertaining to books:
 
 - a list of [books we own but haven't read](./data/unread_books.md)
 
+- a list of [used bookstores](./data/bookstores.md)
+
 # Using
 
 1. Add a recently read book to `data/read_books.md`
