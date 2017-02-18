@@ -292,6 +292,7 @@ Barbara Kingsolver | The Lacuna | r | 08/2012 | Y
 Barbara Kingsolver | The Poissonwood Bible | r | 12/2010 | Y
 Herman Koch | The Dinner | r | 12/2014 | Y
 Arthur Koestler | Darkness at Noon | r |  | Y
+Mark Kublanski | Salt | r | 02/2017 | Y
 Ellen Kushner | Swordspoint | r | 12/2016 | Y
 Choderlos de Laclos | Les Liasons Dangereuses | r |  | Y
 Madame de Lafayette | La Princesse de Cleves | r | 02/2011 | Y

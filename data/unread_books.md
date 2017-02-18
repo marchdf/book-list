@@ -31,7 +31,6 @@ John LeCarre | The Looking Glass War
 Malcolm Gladwell | The Tipping Point
 Nabokov | The Real Life of Sebastian Knight
 Edgar Allen Poe | Selected Tales
-Mark Kublanski | Salt
 E. L. Doctorow | The March
 E. M. Forster | Where Angels Fear to Tread
 Jonathan Franzen | Freedom
