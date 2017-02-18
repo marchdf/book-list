@@ -575,3 +575,4 @@ Simon Mawer | Tightrope | r | 12/2016 | Y
 Charlotte Bronte | Villette | r | 01/2017  | Y
 Zadie Smith | Swing Time | r | 01/2017 | Y
 Mark Kublanski | Salt | r | 02/2017 | Y
+Mariama Ba | Une Si Longue Lettre | r | 02/2017 | N

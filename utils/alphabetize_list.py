@@ -42,7 +42,7 @@ if __name__ == '__main__':
     # Parse the list of books
     df = pd.read_csv(ifile,
                      sep='|',
-                     skiprows=2,  # skip markdown header
+                     skiprows=3,  # skip markdown header
                      header=None,
                      usecols=[0, 1, 2, 3, 4],  # dont take extra columns
                      names=['name', 'title', 'status', 'date', 'own'])

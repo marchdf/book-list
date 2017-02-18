@@ -25,7 +25,7 @@ Margaret Atwood | The Blind Assassin | r |  | Y
 Jane Austen | Emma | r |  | Y
 Jane Austen | Pride and Prejudice | r |  | Y
 Jane Austen | Sense and Sensibility | r | 04/2010 | Y
-Author | Title | Status | Date read | Owned? 
+Mariama Ba | Une Si Longue Lettre | r | 02/2017 | N
 Julian Barnes | The Sense of an Ending | r | 02/2014 | Y
 T.A. Barron | The Lost Years of Merlin and some other... | r |  | Y
 Henry Beard | X-treme Latin | r |  | Y
