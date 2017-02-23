@@ -305,6 +305,7 @@ Stieg Larsson | The Girl Who Played With Fire | r | 08/2016 | Y
 Stieg Larsson | The Girl with the Dragon Tattoo | r | 09/2012 | Y
 Bruce Lawrence | The Quran | r |  | Y
 D.H. Lawrence | Lady Chatterley's Lover | r | 12/2009 | Y
+Maurice LeBlanc | Arsene Lupin, Gentleman Cambrioleur | r | 02/2017 | N
 John LeCarre | A Most Wanted Man | r | 06/2016 | Y
 John LeCarre | A Perfect Spy | r | 12/2011 | Y
 John LeCarre | Smiley's People | r |  | N
