@@ -117,6 +117,7 @@ Charles Dickens | Oliver Twist | r |  | Y
 Charles Dickens | Our Mutual Friend | r | 06/2013 | Y
 Charles Dickens | The Pickwick Papers | r |  | Y
 Charles Dickens | The Tale of Two Cities | r |  | Y
+E. L. Doctorow | The March | r | 02/2017 | Y
 Fyodor Dostoyevsky | Crime and Punishment | r |  | Y
 Fyodor Dostoyevsky | The Brothers Karamazov | r |  | Y
 Fyodor Dostoyevsky | The House of the Dead | r | 07/2010 | Y
