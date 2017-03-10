@@ -46,3 +46,10 @@ Faulkner | The Sound and the Fury
 David Lodge | Nice Work
 George Eliot | Adam Bede
 Marilynne Robinson | Gilead
+Michael Chabon | The Yiddish Policemen's Union
+Orhan Pamuk | The Black Book
+Ford Maddox Ford | The Good Soldier
+Evelyn Waugh | Scoop
+Marlon James | A Brief History of Seven Killings
+China Mieville | The City and the City
+W. Somerset Maugham | Of Human Bondage

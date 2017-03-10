@@ -20,7 +20,6 @@ Auster | City of Glass | mentioned in Art of Fiction|
 Hardy | A Pair of Blue Eyes | mentioned in Art of Fiction|
 Fowles | The French Lieutenant's Woman | mentioned in Art of Fiction|
 Frayn | The Trick of It | mentioned in Art of Fiction|
-Ford Madox Ford | The Good Soldier | mentioned in Art of Fiction|
 Amis | Money | mentioned in Art of Fiction|
 Asimov | The Last Question | rec. by TJ|
 Harlan Ellison | I Have No Mouth, and I Must Scream | rec. by TJ|
@@ -42,8 +41,6 @@ Nathaniel Philbrick | Endurance | rec. by Tom|
 Ernest K. Gann | Fate is the Hunter | rec. by Tom|
 Beckert | Empire of Cotton | rec. by NYT 2015 Top books|
 Helen McDonald | H is for Hawk | rec. by NYT 2015 Top books|
-Marlon James | A Brief History of Seven Killings | won Booker prize, rec. by Econ.|
-Chabon | Yiddish Policeman's Union | rec. by Jonathan|
 Hitchens | God is not great | rec. by Harish|
  | Ramayana and Mahabharata | rec. by Harish|
 Arundhati Roy | God of small things | rec. by Harish|
@@ -104,7 +101,6 @@ George Perec | La vie, mode d'emploi | |
 George Perec | La disparition | lipogramme, sans e|
 A.S. Byatt | Children's book | rec. by mom|
 Daniyal Mueenuddin | In Other Rooms, Other Windows | rec. by mom|
-Orhan Pamuk | The Black Book | rec. by mom|
 Jean-Philippe Jaworski | [Janua Vera +](http://www.cafardcosmique.com/Janua-Vera-de-Jean-Philippe,1306) | rec. by Julien INSA |
 Stephane Beauverger | [Le Dechonologue](http://www.cafardcosmique.com/Le-Dechronologue-de-Stephane) | rec. by Julien INSA |
 Yoshikawa Eiji | La Pierre et le Sabre | rec. by Julien INSA|
