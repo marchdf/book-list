@@ -578,3 +578,4 @@ Mark Kublanski | Salt | r | 02/2017 | Y
 Mariama Ba | Une Si Longue Lettre | r | 02/2017 | N
 Maurice LeBlanc | Arsene Lupin, Gentleman Cambrioleur | r | 02/2017 | N
 E. L. Doctorow | The March | r | 02/2017 | Y
+Patrick O'Brian | The Thirteen Gun Salute | rr | 03/2017 | Y

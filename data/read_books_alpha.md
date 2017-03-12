@@ -401,6 +401,7 @@ Patrick O'Brian | The Letter of Marque | rr | 11/2016 | Y
 Patrick O'Brian | The Mauritius Command | rr | 06/2012 | Y
 Patrick O'Brian | The Reverse of the Medal | rr | 08/2016 | Y
 Patrick O'Brian | The Surgeon's Mate | rr | 12/2013 | Y
+Patrick O'Brian | The Thirteen Gun Salute | rr | 03/2017 | Y
 Patrick O'Brian | Treason's Harbour | rr | 09/2015 | Y
 Patrick O'Brian | from Master and Commander to the Commodore | r |  | N
 Tim O'Brien | Going After Cacciato | r | 04/2010 | Y

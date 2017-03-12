@@ -12,20 +12,21 @@ new books but have some used books.
 
 #### California
 
-- Half-Price books - Berkeley
+- Half-Price Books - Berkeley
 - Moe's Books - Berkeley
 - Pegasus Books Downtown - Berkeley
 - Shakespeare and Co - Berkeley
-- Half-Price books - Dublin
+- Half-Price Books - Dublin
 - Borderlands Books - San Francisco
 - City Lights - San Francisco
-- Dog eared books - San Francisco
+- Dog-eared Books - San Francisco
 - Green Apple Books - San Francisco
 
 #### Canada
 
 - Balfour Books - Toronto
-- Eliot's bookshop - Toronto
+- Eliot's Bookshop - Toronto
+- MacLeod's Books - Vancouver
 
 #### Colorado
 
@@ -62,6 +63,12 @@ new books but have some used books.
 #### Pennsylvania
 
 - Amazing Books - Pittsburgh
+
+#### Washington
+
+- The Elliott Bay Book Company - Seattle
+- Left Bank - Seattle
+- Ophelia's Books - Seattle
 
 #### Washington, DC
 

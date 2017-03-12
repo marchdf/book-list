@@ -11,7 +11,6 @@ Christopher Clark | The Sleepwalkers
 Patrick O'Brian | The Wine Dark See
 Patrick O'Brian | The Yellow Admiral
 Patrick O'Brian | The Hundred Days
-Patrick O'Brian | The Thirteen Gun Salute
 Patrick O'Brian | The Nutmeg of Consolation
 Patrick O'Brian | Blue at the Mizzen
 Patrick O'Brian | The Commodore
