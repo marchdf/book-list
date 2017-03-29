@@ -86,6 +86,8 @@ Albert Cohen | La Belle du Seigneur | r |  | Y
 Suzanne Collins | The Hunger Games | r | 08/2015 | Y
 Wilkie Collins | The Woman in White | r | 01/2014 | Y
 Joseph Conrad | Heart of Darkness | r |  | Y
+Joseph Conrad | Heart of Darkness | rr | 03/2017 | Y
+Joseph Conrad | The Secret Sharer | r | 03/2017 | N
 Frank Conroy | Stop-Time | r |  | Y
 Corneille | Le Cid | r |  | Y
 Bernard Cornwell | Azincourt | r | 06/2014 | Y
@@ -449,6 +451,7 @@ Jean Rhys | Wide Sargasso Sea | r |  | Y
 Anne Rice | Interview with a Vampire | r | 09/2010 | Y
 Keith Richards | Life | r | 03/2014 | Y
 Tom Robbins | Still Life With Woodpecker | r | 11/2011 | Y
+Marilynne Robinson | Gilead | r | 03/2017 | Y
 Patrick Robinson | Kilo Class | r |  | Y
 Patrick Robinson | Nimitz Class | r |  | N
 Philip Roth | The Human Stain | r |  | Y
