@@ -582,3 +582,4 @@ Patrick O'Brian | The Thirteen Gun Salute | rr | 03/2017 | Y
 Joseph Conrad | Heart of Darkness | rr | 03/2017 | Y
 Joseph Conrad | The Secret Sharer | r | 03/2017 | N
 Marilynne Robinson | Gilead | r | 03/2017 | Y
+Candice Millard | Hero of the Empire | r | 04/2017 | Y

@@ -2,7 +2,6 @@
 
 Author | Title 
 :------ |:------
-Candice Millard | Hero of the Empire
 Elizabeth Strout | The Burgess Boys
 Ian McEwan | Atonement
 John Banville | The Sea

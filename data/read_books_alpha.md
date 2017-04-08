@@ -368,6 +368,7 @@ Fiona McIntosh | Bridge of Souls | r |  | Y
 Fiona McIntosh | Myrren's Gift | r |  | Y
 Melville | Moby Dick | r |  | Y
 China Mieville | Perdido Street Station | r | 11/2013 | Y
+Candice Millard | Hero of the Empire | r | 04/2017 | Y
 Frank Miller | A Dame to Kill For | r |  | Y
 Frank Miller | The Hard Goodbye | r |  | Y
 Henry Miller | Tropic of Cancer | r | 06/2010 | Y
