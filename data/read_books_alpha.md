@@ -566,6 +566,7 @@ Oscar Wilde | The Importance of Being Earnest and Other Plays | r |  | Y
 Oscar Wilde | The Picture of Dorian Gray | rr | 01/2011 | Y
 Oscar Wilde | The Portrait of Dorian Grey | r |  | Y
 Isabel Wilkerson | The Warmth of Other Suns | r | 08/2015 | Y
+John Williams | Stoner | r | 04/2017 | Y
 Robert Shea and R.A. Wilson | The Illuminatus! Trilogy | r |  | Y
 Robert Shea and R.A. Wilson | The Illuminatus! Trilogy | rr | 04/2011 | Y
 Robert Shea and R.A. Wilson | The Illuminatus! Trilogy Part 3 | rr | 02/2015 | Y
