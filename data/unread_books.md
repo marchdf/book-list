@@ -24,7 +24,6 @@ Checkov | Five Plays
 Kate Atkinson | A God in Ruins
 Margaret Atwood | Cat's Eye
 Robert Louis Stevenson | The Black Arrow
-David Mitchell | Number 9 Dream
 John LeCarre | The Looking Glass War
 Malcolm Gladwell | The Tipping Point
 Nabokov | The Real Life of Sebastian Knight

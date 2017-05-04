@@ -373,7 +373,9 @@ Frank Miller | A Dame to Kill For | r |  | Y
 Frank Miller | The Hard Goodbye | r |  | Y
 Henry Miller | Tropic of Cancer | r | 06/2010 | Y
 David Mitchell | Black Swan Green | r | 09/2013 | Y
+David Mitchell | Cloud Atlas | r |  | Y
 David Mitchell | The Thousand Autumns of Jacob De Zoet | r | 10/2015 | Y
+David Mitchell | number9dream | r | 04/2017 | Y
 Molière | Les Fourberies de Scapin | r |  | Y
 Montesquieu | Lettres Persannes | r |  | Y
 John Mortimer | Clinging to the Wreckage | r | 09/2009 | N
