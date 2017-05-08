@@ -150,6 +150,8 @@ F. Scott Fitzgerald | The Great Gatsby | rr | 01/2011 | Y
 Jonathan Safran Foer | Eating Animals | r | 01/2011 | Y
 Jonathan Safran Foer | Everything is Illuminated | r | 09/2009 | Y
 Jonathan Safran Foer | Extremely Loud and Incredibly Close | r | 09/2010 | Y
+E. M. Forster | A Room with a View | r | 09/2016 | Y
+E. M. Forster | Where Angels Fear to Tread | r | 05/2017 | Y
 Jonathan Franzen | The Corrections | r | 12/2012 | Y
 Michael Frayn | Copenhagen | r | 04/2010 | N
 Alexandra Fuller | Don't Let's Go to the Dogs Tonight | r | 03/2011 | N

@@ -560,6 +560,7 @@ Patrick O'Brian | The Reverse of the Medal | rr | 08/2016 | Y
 Stieg Larsson | The Girl Who Played With Fire | r | 08/2016 | Y
 Stendhal | La Chartreuse de Parme | r | 09/2016 | Y
 William Golding | Pincher Martin | r | 09/2016 | Y
+E. M. Forster | A Room with a View | r | 09/2016 | Y
 Mo Yan | Frog | r | 10/2016 | Y
 Robert Heinlein | The Cat Who Walks Through Walls | r | 10/2016 | Y
 Gillen | The Wicked and the Divine I | r | 10/2016 | N
@@ -586,3 +587,4 @@ Marilynne Robinson | Gilead | r | 03/2017 | Y
 Candice Millard | Hero of the Empire | r | 04/2017 | Y
 John Williams | Stoner | r | 04/2017 | Y
 David Mitchell | number9dream | r | 04/2017 | Y
+E. M. Forster | Where Angels Fear to Tread | r | 05/2017 | Y

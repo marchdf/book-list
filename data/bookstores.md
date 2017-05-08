@@ -32,6 +32,7 @@ new books but have some used books.
 
 - Capitol Hill Books - Denver
 - Kilgore - Denver
+- Mutiny Information - Denver
 - Tattered Cover - Denver
 
 #### Illinois

@@ -14,7 +14,7 @@ Roach | Grunt | |
 Jane Smiley | Some Luck | rec by Aku |
 Coppola | The Conversation | spy thriller|
 Leigh Bardugo | Six of Crows | rec. by Tim Buckley of CAD |
-- | Doom Patrol; Shade, The Changing Girl; Cave Carson Has a Cybernetic Eye; Mother Panic | comics rec. by [Vox](http://www.vox.com/culture/2016/10/13/13256938/gerard-way-young-animal)|
+ | Doom Patrol; Shade, The Changing Girl; Cave Carson Has a Cybernetic Eye; Mother Panic | comics rec. by [Vox](http://www.vox.com/culture/2016/10/13/13256938/gerard-way-young-animal)|
 Chip Heath | Made to stick | rec. by Brandon|
 Auster | City of Glass | mentioned in Art of Fiction|
 Hardy | A Pair of Blue Eyes | mentioned in Art of Fiction|

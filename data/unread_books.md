@@ -28,7 +28,6 @@ John LeCarre | The Looking Glass War
 Malcolm Gladwell | The Tipping Point
 Nabokov | The Real Life of Sebastian Knight
 Edgar Allen Poe | Selected Tales
-E. M. Forster | Where Angels Fear to Tread
 Jonathan Franzen | Freedom
 Eleanor Catton | The Luminaries
 Kate Beaton | Hark! A Vagrant
