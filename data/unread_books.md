@@ -2,6 +2,9 @@
 
 Author | Title 
 :------ |:------
+Thomas Hardy | The Return of the Native
+Wallace Stegner | Crossing to Safety
+Robert Harris | An Officer and a Spy
 Elizabeth Strout | The Burgess Boys
 Ian McEwan | Atonement
 John Banville | The Sea
