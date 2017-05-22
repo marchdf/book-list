@@ -21,6 +21,7 @@ Isaac Asimov | Second Foundation | r | 06/2010 | Y
 Isaac Asimov | The Second Foundation (III) | r |  | Y
 Isaac Asimov | The Stars, Like Dust | r |  | Y
 Kate Atkinson | Life after Life | r | 03/2016 | Y
+Margaret Atwood | Cat's Eye | r | 05/2017 | Y
 Margaret Atwood | The Blind Assassin | r |  | Y
 Jane Austen | Emma | r |  | Y
 Jane Austen | Pride and Prejudice | r |  | Y

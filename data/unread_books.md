@@ -25,7 +25,6 @@ Barbara Kingsolver | The Bean Trees
 Bradbury and Greaves | Emotional Inteligence
 Checkov | Five Plays
 Kate Atkinson | A God in Ruins
-Margaret Atwood | Cat's Eye
 Robert Louis Stevenson | The Black Arrow
 John LeCarre | The Looking Glass War
 Malcolm Gladwell | The Tipping Point

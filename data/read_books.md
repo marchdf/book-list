@@ -588,3 +588,4 @@ Candice Millard | Hero of the Empire | r | 04/2017 | Y
 John Williams | Stoner | r | 04/2017 | Y
 David Mitchell | number9dream | r | 04/2017 | Y
 E. M. Forster | Where Angels Fear to Tread | r | 05/2017 | Y
+Margaret Atwood | Cat's Eye | r | 05/2017 | Y
