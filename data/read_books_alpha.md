@@ -207,6 +207,7 @@ Thomas Hardy | Far From the Madding Crowd | r |  | N
 Thomas Hardy | Jude the Obscure | r | 06/2014 | Y
 Thomas Hardy | Tess of the D'Urbervilles | r |  | Y
 Thomas Hardy | The Mayor of Casterbridge | r |  | Y
+Thomas Hardy | The Return of the Native | r | 06/2017 | Y
 Tim Harford | The Undercover Economist | r | 02/2014 | Y
 Robert Harris | Pompeii | r | 05/2016 | Y
 Stephen Hawking | A Brief History of Time | r |  | Y
@@ -407,6 +408,7 @@ Patrick O'Brian | The Fortune of War | rr | 08/2013 | Y
 Patrick O'Brian | The Ionian Mission | rr | 04/2014 | Y
 Patrick O'Brian | The Letter of Marque | rr | 11/2016 | Y
 Patrick O'Brian | The Mauritius Command | rr | 06/2012 | Y
+Patrick O'Brian | The Nutmeg of Consolation | rr | 06/2017 | Y
 Patrick O'Brian | The Reverse of the Medal | rr | 08/2016 | Y
 Patrick O'Brian | The Surgeon's Mate | rr | 12/2013 | Y
 Patrick O'Brian | The Thirteen Gun Salute | rr | 03/2017 | Y

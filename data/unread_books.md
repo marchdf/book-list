@@ -2,7 +2,7 @@
 
 Author | Title 
 :------ |:------
-Thomas Hardy | The Return of the Native
+Erin Morgenstern | The Night Circus
 Wallace Stegner | Crossing to Safety
 Robert Harris | An Officer and a Spy
 Elizabeth Strout | The Burgess Boys
@@ -13,7 +13,6 @@ Christopher Clark | The Sleepwalkers
 Patrick O'Brian | The Wine Dark See
 Patrick O'Brian | The Yellow Admiral
 Patrick O'Brian | The Hundred Days
-Patrick O'Brian | The Nutmeg of Consolation
 Patrick O'Brian | Blue at the Mizzen
 Patrick O'Brian | The Commodore
 Shakespeare | Henry VI (part 1-3)

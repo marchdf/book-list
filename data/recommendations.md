@@ -2,6 +2,7 @@
 
 Author | Title | Recommender |
 :------|:------|:----------- |
+Brian Van Reet | Spoils | rec by The Economist |
 Daniel DeFoe | Moll Flanders | his best novel? |
 Liu Cixin | The Three-Body Problem | NYT article about Obama, won Hugo |
 Margaret Atwood | The Handmaid's Tale | |
