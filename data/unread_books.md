@@ -2,6 +2,8 @@
 
 Author | Title 
 :------ |:------
+Isable Allende | The Infinite Plan
+Charles Dickens | Dombey and Son
 Erin Morgenstern | The Night Circus
 Wallace Stegner | Crossing to Safety
 Robert Harris | An Officer and a Spy
@@ -15,6 +17,7 @@ Patrick O'Brian | The Yellow Admiral
 Patrick O'Brian | The Hundred Days
 Patrick O'Brian | Blue at the Mizzen
 Patrick O'Brian | The Commodore
+Patrick O'Brian | The Truelove
 Shakespeare | Henry VI (part 1-3)
 Cyril Massarato | 100 pages blanches
 Camus | l'envers et l'endroit
