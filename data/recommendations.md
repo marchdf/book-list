@@ -2,6 +2,9 @@
 
 Author | Title | Recommender |
 :------|:------|:----------- |
+Elizabeth Gilbert | The Signature of All Things | rec. by Kate |
+Laurie King | The Beekeepers Apprentice  | rec. by Kate |
+Laurie King | The Bones of Paris | rec. by Kate |
 Brian Van Reet | Spoils | rec by The Economist |
 Daniel DeFoe | Moll Flanders | his best novel? |
 Liu Cixin | The Three-Body Problem | NYT article about Obama, won Hugo |
