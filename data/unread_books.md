@@ -4,7 +4,6 @@ Author | Title
 :------ |:------
 Isable Allende | The Infinite Plan
 Charles Dickens | Dombey and Son
-Erin Morgenstern | The Night Circus
 Wallace Stegner | Crossing to Safety
 Robert Harris | An Officer and a Spy
 Elizabeth Strout | The Burgess Boys

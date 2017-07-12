@@ -301,6 +301,7 @@ Herman Koch | The Dinner | r | 12/2014 | Y
 Arthur Koestler | Darkness at Noon | r |  | Y
 Mark Kublanski | Salt | r | 02/2017 | Y
 Ellen Kushner | Swordspoint | r | 12/2016 | Y
+Bruno L'Her | Meutres pour l'impunite | r | 07/2017 | N
 Choderlos de Laclos | Les Liasons Dangereuses | r |  | Y
 Madame de Lafayette | La Princesse de Cleves | r | 02/2011 | Y
 Di Lampedusa | The Leopard | r |  | Y
@@ -382,6 +383,7 @@ David Mitchell | The Thousand Autumns of Jacob De Zoet | r | 10/2015 | Y
 David Mitchell | number9dream | r | 04/2017 | Y
 Molière | Les Fourberies de Scapin | r |  | Y
 Montesquieu | Lettres Persannes | r |  | Y
+Erin Morgenstern | The Night Circus | r | 07/2017 | Y
 John Mortimer | Clinging to the Wreckage | r | 09/2009 | N
 John Mortimer | The First Rumpole Omnibus | r | 06/2010 | Y
 Daniyal Mueenuddin | In Other Rooms, Other Wonders | r | 10/2012 | N

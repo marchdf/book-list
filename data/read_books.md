@@ -591,3 +591,5 @@ E. M. Forster | Where Angels Fear to Tread | r | 05/2017 | Y
 Margaret Atwood | Cat's Eye | r | 05/2017 | Y
 Thomas Hardy | The Return of the Native | r | 06/2017 | Y
 Patrick O'Brian | The Nutmeg of Consolation | rr | 06/2017 | Y
+Erin Morgenstern | The Night Circus | r | 07/2017 | Y
+Bruno L'Her | Meutres pour l'impunite | r | 07/2017 | N
