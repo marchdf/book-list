@@ -2,6 +2,8 @@
 
 Author | Title | Recommender |
 :------|:------|:----------- |
+Amor Towles | A Gentleman in Moscow | rec. by Kenton |
+Erik Larson | Dead Wake | rec. by Louise |
 Elizabeth Gilbert | The Signature of All Things | rec. by Kate |
 Laurie King | The Beekeepers Apprentice  | rec. by Kate |
 Laurie King | The Bones of Paris | rec. by Kate |

@@ -33,6 +33,7 @@ Henry Beard | X-treme Latin | r |  | Y
 Saul Bellow | The Adventures of Augie March | r | 07/2010 | Y
 John Berger | Ways of Seeing | r |  | Y
 William Bernstein | The Four Pillars of Investing | r | 10/2013 | Y
+Pierre Bottero | Ellana | r | 08/2017 | N
 T.C Boyle | The Tortilla Curtain | r | 09/2011 | Y
 Ray Bradbury | Fahrenheit 451 | r |  | N
 Ray Bradbury | Fahrenheit 451 | rr | 10/2011 | Y
@@ -77,6 +78,7 @@ Michael Chabon | Wonder Boys | r | 10/2015 | Y
 Chantecler | Le Monde en Laboratoir | r |  | Y
 Anton Checkov | Five Plays | r | 12/2013 | Y
 Robert Cialdini | Influence, the Psychology of Persuasion | r | 02/2010 | Y
+Christopher Clark | The Sleepwalkers | r | 08/2017 | Y
 Susanna Clarke | Jonathan Strange and Mr. Norrell | r | 03/2011 | Y
 Hugo Claus | Le Chagrin des Belges | r |  | Y
 James Clavell | Gai-Jin | r |  | Y

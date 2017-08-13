@@ -593,3 +593,5 @@ Thomas Hardy | The Return of the Native | r | 06/2017 | Y
 Patrick O'Brian | The Nutmeg of Consolation | rr | 06/2017 | Y
 Erin Morgenstern | The Night Circus | r | 07/2017 | Y
 Bruno L'Her | Meutres pour l'impunite | r | 07/2017 | N
+Christopher Clark | The Sleepwalkers | r | 08/2017 | Y
+Pierre Bottero | Ellana | r | 08/2017 | N

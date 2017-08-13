@@ -75,3 +75,7 @@ new books but have some used books.
 
 - Politics and Prose
 - Second Story Books
+
+#### Wisconsin
+
+- Bay View Bookshop - Milwaukee
