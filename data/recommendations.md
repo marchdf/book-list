@@ -2,6 +2,21 @@
 
 Author | Title | Recommender |
 :------|:------|:----------- |
+Len Deighton | Berlin Game | spy fiction |
+Robert Ludlum | The Bourne Identity | spy fiction |
+Yulian Semyonov | Seventeen Moments of Spring | spy fiction |
+Helen MacInnes | Assignment in Brittany | spy fiction |
+Eric Ambler | Journey into Fear | spy fiction |
+John Buchan | The Thirty-Nine Steps | spy fiction |
+Joseph Conrad | The Secret Agent | spy fiction |
+Ian Fleming | From Russia, with Love | | economist spy article |
+Somerset Maugham | Ashenden: Or the British Agent | economist spy article |
+Rudyard Kipling| Kim | economist spy article |
+Gabriel Garcia Marquez | Chronicle of a Death Foretold | radiolab newsletter |
+Greaber | Debt | Kate Green |
+David Foster Wallace | The Pale King | Erik |
+Jonathan Rasmusson | The Agile Samurai | |
+Steve McConnell | Code Complete | |
 Amor Towles | A Gentleman in Moscow | rec. by Kenton |
 Erik Larson | Dead Wake | rec. by Louise |
 Elizabeth Gilbert | The Signature of All Things | rec. by Kate |

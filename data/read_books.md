@@ -595,3 +595,4 @@ Erin Morgenstern | The Night Circus | r | 07/2017 | Y
 Bruno L'Her | Meutres pour l'impunite | r | 07/2017 | N
 Christopher Clark | The Sleepwalkers | r | 08/2017 | Y
 Pierre Bottero | Ellana | r | 08/2017 | N
+John LeCarre | The Little Drummer Girl | rr | 09/2017 | Y

@@ -2,6 +2,7 @@
 
 Author | Title 
 :------ |:------
+John LeCarre | Russia House
 Isable Allende | The Infinite Plan
 Charles Dickens | Dombey and Son
 Wallace Stegner | Crossing to Safety

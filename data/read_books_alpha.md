@@ -323,6 +323,7 @@ John LeCarre | Smiley's People | rr | 08/2015 | Y
 John LeCarre | The Honourable Schoolboy | r |  | N
 John LeCarre | The Honourable Schoolboy | rr | 03/2014 | Y
 John LeCarre | The Little Drummer Girl | r |  | Y
+John LeCarre | The Little Drummer Girl | rr | 09/2017 | Y
 John LeCarre | The Russia House | r |  | N
 John LeCarre | The Spy Who Came in From the Cold | r | 08/2013| Y
 John LeCarre | Tinker, Tayor, Soldier, Spy | rr | 07/2012 | Y
