@@ -2,6 +2,8 @@
 
 Author | Title | Recommender |
 :------|:------|:----------- |
+Steven King | Dark Tower | |
+Anne McCaffrey | Dragonflight | |
 Len Deighton | Berlin Game | spy fiction |
 Robert Ludlum | The Bourne Identity | spy fiction |
 Yulian Semyonov | Seventeen Moments of Spring | spy fiction |

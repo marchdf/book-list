@@ -582,6 +582,7 @@ John Williams | Stoner | r | 04/2017 | Y
 Robert Shea and R.A. Wilson | The Illuminatus! Trilogy | r |  | Y
 Robert Shea and R.A. Wilson | The Illuminatus! Trilogy | rr | 04/2011 | Y
 Robert Shea and R.A. Wilson | The Illuminatus! Trilogy Part 3 | rr | 02/2015 | Y
+Waid, Samnee, Wilson | Black Widow | r | 09/2017 | N
 Gene Wolfe | Shadow and Claw | r |  | Y
 Gene Wolfe | The Citadel of the Autarch | r |  | Y
 Gene Wolfe | The Sword of the Lictor | r |  | Y
