@@ -46,6 +46,7 @@ Bertold Brecht | The Treepenny Opera | r |  | Y
 Charlotte Bronte | Jane Eyre | r |  | Y
 Charlotte Bronte | Villette | r | 01/2017  | Y
 Emily Bronte | Wuthering Heights | r | 09/2009 | Y
+Geraldine Brooks | Nine Parts of Desire | r | 10/2017 | N
 Terry Brooks | Jarka Ruus | r |  | Y
 Terry Brooks | Original Shannara Trilogy, Heritage of Shannara Tetralogy, Prequel to the Original Shannara Trilogy, Voyage of the Jerle Shannara, Magic Kingdom of Landover (from Magic Kingdom for Sale -- Sold! to Wizard at Large) | r |  | N
 Terry Brooks | Tanequil | r |  | Y
@@ -199,6 +200,7 @@ Graham Greene | The Power and the Glory | r | 02/2010 | Y
 Graham Greene | The Quiet American | r |  | Y
 Jan Guillou | The Knight Templar | r |  | Y
 Jan Guillou | The Road to Jerusalem | r |  | N
+Peter Guralnick | Sam Phillips | r | 10/2017 | Y
 N. John Hall | Correspondence | r | 10/2012 | N
 Van Hamme | Largo Winch: La voie et la vertu | r |  | Y
 Dashiell Hammet | The Maltese Falcon | r | 04/2015 | Y
@@ -297,6 +299,7 @@ Franz Kafka | The Trial | r |  | N
 Jack Kerouac | On the Road | r | 06/2010 | Y
 Ken Kesey | One Flew Over the Cuckoo's Nest | r |  | Y
 Jeff Benedict and Armi Keteyan | The System | r | 09/2014 | Y
+Laurie King | Pirate King | r | 10/2017 | N
 Barbara Kingsolver | The Lacuna | r | 08/2012 | Y
 Barbara Kingsolver | The Poissonwood Bible | r | 12/2010 | Y
 Herman Koch | The Dinner | r | 12/2014 | Y

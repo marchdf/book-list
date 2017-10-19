@@ -2,53 +2,58 @@
 
 Author | Title 
 :------ |:------
-John LeCarre | Russia House
+Alcott | Little Women
 Isable Allende | The Infinite Plan
-Charles Dickens | Dombey and Son
-Wallace Stegner | Crossing to Safety
-Robert Harris | An Officer and a Spy
-Elizabeth Strout | The Burgess Boys
-Ian McEwan | Atonement
+Kate Atkinson | A God in Ruins
 John Banville | The Sea
-Patrick Guralnik | Sam Philips
+Kate Beaton | Hark! A Vagrant
+Samuel Beckett | Waiting for Godot
+Bradbury and Greaves | Emotional Inteligence
+Camus | l'envers et l'endroit
+Eleanor Catton | The Luminaries
+Michael Chabon | The Yiddish Policemen's Union
+Checkov | Five Plays
+Covey | Seven habits of highly effective people
+Junot Diaz | The Brief Wondrous Life of Oscar Wao
+Charles Dickens | Dombey and Son
+George Eliot | Adam Bede
+Faulkner | The Sound and the Fury
+Ford Maddox Ford | The Good Soldier
+Jonathan Franzen | Freedom
+Malcolm Gladwell | The Tipping Point
+Robert Harris | An Officer and a Spy
+Herodotus | The Histories
+Marlon James | A Brief History of Seven Killings
+James Joyce | A Portrait of the Artist as a Young Man
+Barbara Kingsolver | The Bean Trees
+John LeCarre | The Looking Glass War
+John LeCarre | Russia House
+C.S. Lewis | The Great Divorce
+Robert Ludlum | The Bourne Identity
+David Lodge | Nice Work
+Gabriel Garcia Marquez | Chronicle of a Death Foretold
+Cyril Massarato | 100 pages blanches
+W. Somerset Maugham | Ashenden: Or the British Agent
+W. Somerset Maugham | Of Human Bondage
+Anne McCaffrey | Dragonflight
+Ian McEwan | Atonement
+China Mieville | The City and the City
+Nabokov | The Real Life of Sebastian Knight
 Patrick O'Brian | The Wine Dark See
 Patrick O'Brian | The Yellow Admiral
 Patrick O'Brian | The Hundred Days
 Patrick O'Brian | Blue at the Mizzen
 Patrick O'Brian | The Commodore
 Patrick O'Brian | The Truelove
-Shakespeare | Henry VI (part 1-3)
-Cyril Massarato | 100 pages blanches
-Camus | l'envers et l'endroit
-Radiguet | Le Diable au corps
-Covey | Seven habits of highly effective people
-Barbara Kingsolver | The Bean Trees
-Bradbury and Greaves | Emotional Inteligence
-Checkov | Five Plays
-Kate Atkinson | A God in Ruins
-Robert Louis Stevenson | The Black Arrow
-John LeCarre | The Looking Glass War
-Malcolm Gladwell | The Tipping Point
-Nabokov | The Real Life of Sebastian Knight
+Orhan Pamuk | The Black Book
 Edgar Allen Poe | Selected Tales
-Jonathan Franzen | Freedom
-Eleanor Catton | The Luminaries
-Kate Beaton | Hark! A Vagrant
-Alcott | Little Women
-Samuel Beckett | Waiting for Godot
-Herodotus | The Histories
-Lewis | The Great Divorce
+Marilynne Robinson | Gilead
+Shakespeare | Henry VI (part 1-3)
+Zadie Smith | White Tiger
+Wallace Stegner | Crossing to Safety
+Robert Louis Stevenson | The Black Arrow
+Elizabeth Strout | The Burgess Boys
 Mark Twain | The Best Short Works
 Mark Twain | Letters from Earth
-James Joyce | A Portrait of the Artist as a Young Man
-Faulkner | The Sound and the Fury
-David Lodge | Nice Work
-George Eliot | Adam Bede
-Marilynne Robinson | Gilead
-Michael Chabon | The Yiddish Policemen's Union
-Orhan Pamuk | The Black Book
-Ford Maddox Ford | The Good Soldier
+David Foster Wallace | Consider the Lobster
 Evelyn Waugh | Scoop
-Marlon James | A Brief History of Seven Killings
-China Mieville | The City and the City
-W. Somerset Maugham | Of Human Bondage

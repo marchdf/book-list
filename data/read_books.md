@@ -597,3 +597,6 @@ Christopher Clark | The Sleepwalkers | r | 08/2017 | Y
 Pierre Bottero | Ellana | r | 08/2017 | N
 John LeCarre | The Little Drummer Girl | rr | 09/2017 | Y
 Waid, Samnee, Wilson | Black Widow | r | 09/2017 | N
+Peter Guralnick | Sam Phillips | r | 10/2017 | Y
+Geraldine Brooks | Nine Parts of Desire | r | 10/2017 | N
+Laurie King | Pirate King | r | 10/2017 | N
