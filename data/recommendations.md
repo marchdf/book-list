@@ -1,169 +1,143 @@
 # List of books that were recommended to me
 
-Author | Title | Recommender |
-:------|:------|:----------- |
-Steven King | Dark Tower | |
-Anne McCaffrey | Dragonflight | |
-Len Deighton | Berlin Game | spy fiction |
-Robert Ludlum | The Bourne Identity | spy fiction |
-Yulian Semyonov | Seventeen Moments of Spring | spy fiction |
-Helen MacInnes | Assignment in Brittany | spy fiction |
+## Fiction
+
+Author | Title | Notes |
+:------|:------|:----- |
+Chinua Achebe | Things Fall Apart | rec. by Jonathan |
 Eric Ambler | Journey into Fear | spy fiction |
+Kinsgley Amis | Money | mentioned in Art of Fiction |
+anonymous | The Perks of Being a Wallflower | rec. by Kate, Cassie's friend |
+Margaret Atwood | The Handmaid's Tale | |
+Auster | City of Glass | mentioned in Art of Fiction |
+Henri Barbusse | Le Feu | |
+Barrett | Voyage of the Narwhal | rec. by Tom |
+Beckett | Malloy | rec. by Harish |
+Bedford | Legacy | Background is german history to ww1 between rich jewish family and landed gentry. all kinds of scandals and original anecdotes. followed by |
+Bedford | Jigsaw | The story of the narrator just born in previous book. South of France, artistic character, etc |
 John Buchan | The Thirty-Nine Steps | spy fiction |
+Samuel Butler | The Way of the Flesh | Dickens contemporary |
+Italo Calvino | Invisible Cities | rec. by Jim (Cassie) |
+Italo Calvino | Cosmicomics | rec. by Jim (Cassie), short stories |
+Italo Calvino | Italian Folk Tales | rec. by Jim (Cassie) |
+Italo Calvino | Winter's Night | Jim gave up |
+JM Coetzee | Waiting for the Barbarians | rec. by David Brown |
 Joseph Conrad | The Secret Agent | spy fiction |
-Ian Fleming | From Russia, with Love | | economist spy article |
-Somerset Maugham | Ashenden: Or the British Agent | economist spy article |
-Rudyard Kipling| Kim | economist spy article |
-Gabriel Garcia Marquez | Chronicle of a Death Foretold | radiolab newsletter |
-Greaber | Debt | Kate Green |
-David Foster Wallace | The Pale King | Erik |
-Jonathan Rasmusson | The Agile Samurai | |
-Steve McConnell | Code Complete | |
-Amor Towles | A Gentleman in Moscow | rec. by Kenton |
-Erik Larson | Dead Wake | rec. by Louise |
+Coppola | The Conversation | spy thriller |
+Kamel Daoud | Meursault Investigation | rec. by economist and NYT 2015 top books |
+Len Deighton | Berlin Game | spy fiction |
+Enright | The Gathering | Irish wake |
+Faulkner | As I Lay Dying | rec. by Jonathan |
+Elana Ferrante | My brilliant friend (Neapolitan novels 1) | |
+Joshua Ferris | Then We Came to the End | Time top books |
+Ben Fountain | Billy Lynn's Long Halftime Walk | rec. by Aku |
+Fowles | The French Lieutenant's Woman | mentioned in Art of Fiction |
+Frayn | The Trick of It | mentioned in Art of Fiction |
+Robert Galbraith | The Cuckoo's Calling | rec. by mom/Va, JK Rowling book |
+Gardner | Grendel | Beowulf told by other side |
 Elizabeth Gilbert | The Signature of All Things | rec. by Kate |
+Gogol  | The Nose | |
+John Hall | Correspondence | rec. by Aku |
+Thomas Hardy | A Pair of Blue Eyes | mentioned in Art of Fiction |
+LP Hartley | The Go-Between | rec. by mom |
+Hasek | The Good Soldier Svejk | |
+Victor Hugo | Les miserables| |
+Kazuo Ishiguro | Never Let Me Go | [Time top books](http://entertainment.time.com/2009/12/29/the-10-best-books-of-the-decade/#never-let-me-go-2005-by-kazuo-ishiguro-2) |
 Laurie King | The Beekeepers Apprentice  | rec. by Kate |
 Laurie King | The Bones of Paris | rec. by Kate |
-Brian Van Reet | Spoils | rec by The Economist |
-Daniel DeFoe | Moll Flanders | his best novel? |
-Liu Cixin | The Three-Body Problem | NYT article about Obama, won Hugo |
-Margaret Atwood | The Handmaid's Tale | |
-John Steinbeck | Log of the Sea of Cortez| rec. by Erik |
-Simon Mawer | The Glass Room | shortlisted for Booker |
-Sotomayor | My Beloved World | rec. by Aku |
-Ron Chernow | Hamilton | rec. by Aku |
-Roach | Grunt | |
-| Child 44 | rec by Tom |
-Jane Smiley | Some Luck | rec by Aku |
-Coppola | The Conversation | spy thriller|
-Leigh Bardugo | Six of Crows | rec. by Tim Buckley of CAD |
- | Doom Patrol; Shade, The Changing Girl; Cave Carson Has a Cybernetic Eye; Mother Panic | comics rec. by [Vox](http://www.vox.com/culture/2016/10/13/13256938/gerard-way-young-animal)|
-Chip Heath | Made to stick | rec. by Brandon|
-Auster | City of Glass | mentioned in Art of Fiction|
-Hardy | A Pair of Blue Eyes | mentioned in Art of Fiction|
-Fowles | The French Lieutenant's Woman | mentioned in Art of Fiction|
-Frayn | The Trick of It | mentioned in Art of Fiction|
-Amis | Money | mentioned in Art of Fiction|
-Asimov | The Last Question | rec. by TJ|
-Harlan Ellison | I Have No Mouth, and I Must Scream | rec. by TJ|
-Mader | Human Biology | biology book in Pati's class|
-Robin McKinley | The Hero and the Crown | fantasy rec. by [Vox](http://www.vox.com/2016/5/22/11693132/game-thrones-recs-george-martin-robin-mckinley-megan-whalen-turner-ellen-kushner) |
-Megan Whalen Turner | The Thief | fantasy rec. by [Vox](http://www.vox.com/2016/5/22/11693132/game-thrones-recs-george-martin-robin-mckinley-megan-whalen-turner-ellen-kushner)|
-Shedroff Noessel | Make it so | rec. by ep. 96 99pi, design in scifi|
-Nathanael Johnson | Unseen City | rec. by ep. 210 99pi|
-Phil Kay | Redeployement | rec. by Jonathan|
-Jeffrey Toobin | The Nine | rec. by Jonathan|
-Jay Winik | April 1865 | rec. by Tom|
-Kinder | A Ship of Gold in the Deeep Blue Sea | rec. by Tom|
-Grinwood | Replay | rec. by Tom|
-Halbustam | The Coldest Winter | rec. by Tom|
-Laura Hillenbrand | Unbroken | highly rec. by Tom|
-McKee | Wreck of the Medusa | rec. by Tom|
-Barrett | Voyage of the Narwhal | rec. by Tom|
-Nathaniel Philbrick | Endurance | rec. by Tom|
-Ernest K. Gann | Fate is the Hunter | rec. by Tom|
-Beckert | Empire of Cotton | rec. by NYT 2015 Top books|
-Helen McDonald | H is for Hawk | rec. by NYT 2015 Top books|
-Hitchens | God is not great | rec. by Harish|
- | Ramayana and Mahabharata | rec. by Harish|
-Arundhati Roy | God of small things | rec. by Harish|
-Beckett | Malloy | rec. by Harish|
-Kamel Daoud | Meursault Investigation | rec. by economist and NYT 2015 top books|
-Cortazar | Blow up | rec. by Harish|
-Borges | The Aleph | rec. by Harish|
-Chinua Achebe | Things Fall Apart | rec. by Jonathan|
-Faulkner | As I Lay Dying | rec. by Jonathan|
-Christopher Evans | third reich trilogy | rec. by Jonathan|
-Robert Galbraith | The Cuckoo's Calling | rec. by mom/Va, JK Rowling book|
-LP Hartley | The Go-Between | rec. by mom|
-Javier Marias | A Heart So White | rec. by mom and Aku|
-Ben Fountain | Billy Lynn's Long Halftime Walk | rec. by Aku|
-Irvin Yalom |  When Nietzsche Wept | rec. by Claire|
-Irvin Yalom | Love´s Executioner | non-fiction rec. by Claire|
-JM Coetzee | Waiting for the Barbarians | rec. by David Brown|
-Oliver Potzsch | The Hangman's Daughter | rec. by Louise|
-Lauren Owen | The Quick | rec. by [the Economist](http://www.economist.com/news/books-and-arts/21600094-scary-debut-fans-wilkie-collins-and-sir-arthur-conan-doyle-go-gothic) |
-Alex Berenson | The Counterfeit Agent | rec. by [the Economist](http://www.economist.com/news/books-and-arts/21597874-alex-berenson-top-form-crimes-and-misdemeanours)|
-Trollope | The way we live now | |
-Lydia Davis | Samuel Johnson is Indignant (or others) | rec. by [the Economist](http://www.economist.com/blogs/prospero/2013/05/man-booker-international-prize)|
-Stephan Zweig | Beware of Pity | rec. by mom|
-James Meek | The Hearth Broke In | rec. by economist Dec. 1 2012|
-Kim Stanley Robinson | Mars trilogy | Babbage says ``exquisite''|
-Samuel Butler | The Way of the Flesh | Dickens contemporary|
-Clare Mulley | The Spy Who Loved | spy WWII, rec. by [the Economist](http://www.economist.com/node/21560847)|
-Fredrik Logevall | Embers of War | spy WWII, rec. by [the Economist](http://www.economist.com/node/21560841)|
-John Hall | Correspondence | rec. by Aku|
-Mulenuddin | In Other Rooms, Other Wonders | rec. by mom|
-D.F. Wallace | Consider the Lobster | rec. by Jess (1)|
-D.F. Wallace | A Supposidely Funny Thing... | rec. by Jess (2)|
-D.F. Wallace | Brief Interviews... | rec. by Jess (3)|
-Italo Calvino | Invisible Cities | rec. by Jim (Cassie)|
-Italo Calvino | Cosmicomics | rec. by Jim (Cassie), short stories|
-Italo Calvino | Italian Folk Tales | rec. by Jim (Cassie)|
-Italo Calvino | Winter's Night | Jim gave up|
-Edward Conard | Unintended Consequences | rec. by [Mankiw](http://gregmankiw.blogspot.com/2012/07/what-ive-been-reading.html)|
-Matthew Quirk | The 500 | rec. by [the Economist](http://www.economist.com/blogs/prospero/2012/07/new-summer-thriller?fsrc=gn_ep)|
-John Mullan | What Matters in Jane Austen? Twenty Crucial Puzzles Solved | rec. by [the Economist](http://www.economist.com/node/21559309)|
-Stephen Lawhead | Hood | rec. by Raphaelle and Emily Cotton|
-Clare Clark | Beautiful Lies | rec. by Econ 23/06/12|
-| Liar's Game | manga about game theory|
-Brian Cox | Quantum Universe | rec. by Econ 10/12/11|
-David Bellos | Is That a Fish in Your Ear | rec. by Econ 10/12/11|
-RLG | You Are What you Speak | rec. by Econ 10/12/11|
-A.D. Miller | Snowdrops | rec. by Econ 10/12/11|
-Kazuo Ishiguro | Never Let Me Go | [Time top books](http://entertainment.time.com/2009/12/29/the-10-best-books-of-the-decade/#never-let-me-go-2005-by-kazuo-ishiguro-2)|
-Ian McEwan | Atonement | Time top books|
-Junot Diaz | The Brief Wondrous Life of Oscar Wao | Time top books|
-Richard Price | Lush Life | Time top books|
-Joshua Ferris | Then We Came to the End | Time top books|
-George Orwell | Homage to Catalonia | |
-Dean King | A Sea of Words | Patrick O'Brian Lexicon|
-Jan Morris | Conundrum |  rec. by mom|
+Rudyard Kipling| Kim | economist spy article |
+Erik Larson | Dead Wake | rec. by Louise |
+Helen MacInnes | Assignment in Brittany | spy fiction |
 Thomas Malory | La Morte d'Arthur |  |
-George Perec | La vie, mode d'emploi | |
-George Perec | La disparition | lipogramme, sans e|
-A.S. Byatt | Children's book | rec. by mom|
-Daniyal Mueenuddin | In Other Rooms, Other Windows | rec. by mom|
-Jean-Philippe Jaworski | [Janua Vera +](http://www.cafardcosmique.com/Janua-Vera-de-Jean-Philippe,1306) | rec. by Julien INSA |
-Stephane Beauverger | [Le Dechonologue](http://www.cafardcosmique.com/Le-Dechronologue-de-Stephane) | rec. by Julien INSA |
-Yoshikawa Eiji | La Pierre et le Sabre | rec. by Julien INSA|
-Bernard Clavel | Le Royaume du Nord | rec. by Julien INSA|
-Thomas McEvilley | The Shape of Ancient Thought: Comparative Studies in Greek and Indian Philosophies | |
-Timothy Snyder | Bloodlands: Europe Between Hitler and Stalin.| Economist 14/10/10|
-Skidelsky | Biography of Keynes | rec. by Jonathan|
-anonymous | The Perks of Being a Wallflower | rec. by Kate, Cassie's friend|
-Francis Spufford | Red Plenty  | rec by Economist (August 19,2010)|
- | The Prisoner | tv series of dystopia I think|
-Christopher Hitchens | Hitch-22 | rec by David Brooks column 01/07/10|
-D. Lieven | Russia Against Napoleon | War and Peace by a historian|
-Nothomb | Acide Sulfurique | idem|
-Isaac Asimov | Foundation and Earth, Prelude to Foundation, Forward to Foundation, The Galactic Empire Novels (have vol. 1 The Stars, Like Dust) | the ones I am missing|
-Leszek Kolakowski | Main Currents of Marxism: Its Rise, Growth and Dissolution |obituary economist july 31,2009 |
-Andrew Roberts | A storm of war | reviewed by economist (july 23,2009)|
-Enright | The Gathering | Irish wake |
-Bedford | Legacy | Background is german history to ww1 between rich jewish family and landed gentry. all kinds of scandals and original anecdotes. followed by|
-| Jigsaw | The story of the narrator just born in previous book. South of France, artistic character, etc|
-Hugo | Les miserables| |
-Moore | From Hell | comics|
-Gardner | Grendel | Beowulf told by other side|
-Pope John XXIII | Encyclical | recommended by Feynman|
-Chaucer  | Miller's Tale | |
-Nietzsche | Gay Science | |
-Margaret Mitchel  | Gone with the wind | |
-Thomas Hobbes  | Leviathan |  political philo, social contract with monarch|
+Javier Marias | A Heart So White | rec. by mom and Aku |
+Simon Mawer | The Glass Room | shortlisted for Booker |
+Helen McDonald | H is for Hawk | rec. by NYT 2015 Top books |
+James Meek | The Heart Broke In | rec. by economist Dec. 1 2012 |
+A.D. Miller | Snowdrops | rec. by Econ 10/12/11 |
+Jan Morris | Conundrum |  rec. by mom |
+Viet Thanh Nguyen | The Sympathizer | rec by mom |
+Lauren Owen | The Quick | rec. by [the Economist](http://www.economist.com/news/books-and-arts/21600094-scary-debut-fans-wilkie-collins-and-sir-arthur-conan-doyle-go-gothic) |
 Boris Pasternak  | Docteur Zhivago  | |
-William Boyd   | Restless  | |
-G.R.R Martin  |  | last read = A dance with dragons|
-Hesse  | Siddhartha   | |
-Vonnegut   |   | |
+George Perec | La vie, mode d'emploi | |
+George Perec | La disparition | lipogramme, sans e |
+Oliver Potzsch | The Hangman's Daughter | rec. by Louise |
+Richard Price | Lush Life | Time top books |
+Arundhati Roy | God of small things | rec. by Harish |
+Yulian Semyonov | Seventeen Moments of Spring | spy fiction |
+Jane Smiley | Some Luck | rec by Aku |
+John Steinbeck | Log of the Sea of Cortez| rec. by Erik |
+Amor Towles | A Gentleman in Moscow | rec. by Kenton |
+Trollope | The way we live now | |
+Brian Van Reet | Spoils | rec by The Economist |
+David Foster Wallace | The Pale King | Erik |
+David Foster Wallace | A Supposidely Funny Thing... | rec. by Jess (2) |
+David Foster Wallace | Brief Interviews... | rec. by Jess (3) |
 Virginia Woolf  | Orlando  | |
-Hasek  | The Good Soldier Svejk | |
-Gogol  | The Nose | |
-Henri Barbusse | Le Feu | |
-Proust | A la Recherche du Temps Perdu | |
-Joseph Conrad  | Nostromo   | |
-Boris Pasternak  | Dr. Jhivago   | |
-Robert Musil  |  The Man without Qualities  | |
-Charles Taylor   | A Secular Age  |  it may be too philosophical|
-McGrath  |  The Dawkins Delusion   | |
-John Cornwell | Darwin's Angel | Same spirit as above|
+Stephan Zweig | Beware of Pity | rec. by mom |
+
+## Science-fiction, fantasy, and mystery
+
+Author | Title | Notes |
+:------|:------|:----- |
+ | Doom Patrol; Shade, The Changing Girl; Cave Carson Has a Cybernetic Eye; Mother Panic | comics rec. by [Vox](http://www.vox.com/culture/2016/10/13/13256938/gerard-way-young-animal) |
+Isacc Asimov | The Last Question | rec. by TJ |
+Isaac Asimov | Foundation and Earth, Prelude to Foundation, Forward to Foundation, The Galactic Empire Novels (have vol. 1 The Stars, Like Dust) | the ones I am missing |
+Leigh Bardugo | Six of Crows | rec. by Tim Buckley of CAD |
+Stephane Beauverger | [Le Dechonologue](http://www.cafardcosmique.com/Le-Dechronologue-de-Stephane) | rec. by Julien INSA |
+Alex Berenson | The Counterfeit Agent | rec. by [the Economist](http://www.economist.com/news/books-and-arts/21597874-alex-berenson-top-form-crimes-and-misdemeanours) |
+Liu Cixin | The Three-Body Problem | NYT article about Obama, won Hugo |
+Bernard Clavel | Le Royaume du Nord | rec. by Julien INSA |
+Yoshikawa Eiji | La Pierre et le Sabre | rec. by Julien INSA |
+Harlan Ellison | I Have No Mouth, and I Must Scream | rec. by TJ |
+Ian Fleming | From Russia, with Love | | economist spy article |
+Grimwood | Replay | rec. by Tom |
+Jean-Philippe Jaworski | [Janua Vera +](http://www.cafardcosmique.com/Janua-Vera-de-Jean-Philippe,1306) | rec. by Julien INSA |
+Steven King | Dark Tower | Brandon |
+Ursula K LeGuin | A Wizard of Earthsea | |
+Ursula K LeGuin | The Left Hand of Darkness | |
+G.R.R Martin  |  | last read = A dance with dragons |
+Robin McKinley | The Hero and the Crown | fantasy rec. by [Vox](http://www.vox.com/2016/5/22/11693132/game-thrones-recs-george-martin-robin-mckinley-megan-whalen-turner-ellen-kushner) |
+Moore | From Hell | comics |
+Matthew Quirk | The 500 | rec. by [the Economist](http://www.economist.com/blogs/prospero/2012/07/new-summer-thriller?fsrc=gn_ep) |
+Kim Stanley Robinson | Mars trilogy | Babbage says ``exquisite'' |
+Megan Whalen Turner | The Thief | fantasy rec. by [Vox](http://www.vox.com/2016/5/22/11693132/game-thrones-recs-george-martin-robin-mckinley-megan-whalen-turner-ellen-kushner) |
+
+## Non-fiction
+
+Author | Title | Notes |
+:------|:------|:----- |
+| Child 44 | rec by Tom |
+Beckert | Empire of Cotton | rec. by NYT 2015 Top books |
+David Bellos | Is That a Fish in Your Ear | rec. by Econ 10/12/11 |
+Ron Chernow | Hamilton | rec. by Aku |
+Edward Conard | Unintended Consequences | rec. by [Mankiw](http://gregmankiw.blogspot.com/2012/07/what-ive-been-reading.html) |
+Brian Cox | Quantum Universe | rec. by Econ 10/12/11 |
+Christopher Evans | third reich trilogy | rec. by Jonathan |
+Ernest K. Gann | Fate is the Hunter | rec. by Tom |
+Greaber | Debt | Kate Green |
+RLG | You Are What you Speak | rec. by Econ 10/12/11 |
+David Halberstam | The Coldest Winter | rec. by Tom |
+Chip Heath | Made to stick | rec. by Brandon |
+Laura Hillenbrand | Unbroken | highly rec. by Tom |
+Hitchens | God is not great | rec. by Harish |
+Phil Kay | Redeployement | rec. by Jonathan |
+Kinder | A Ship of Gold in the Deeep Blue Sea | rec. by Tom |
+Dean King | A Sea of Words | Patrick O'Brian Lexicon |
+D. Lieven | Russia Against Napoleon | War and Peace by a historian |
+Fredrik Logevall | Embers of War | spy WWII, rec. by [the Economist](http://www.economist.com/node/21560841) |
+Mader | Human Biology | biology book in Pati's class |
+Steve McConnell | Code Complete | |
+Alexander McKee | Wreck of the Medusa | rec. by Tom |
+John Mullan | What Matters in Jane Austen? Twenty Crucial Puzzles Solved | rec. by [the Economist](http://www.economist.com/node/21559309) |
+Clare Mulley | The Spy Who Loved | spy WWII, rec. by [the Economist](http://www.economist.com/node/21560847) |
+Nietzsche | Gay Science | |
+Shedroff Noessel | Make it so | rec. by ep. 96 99pi, design in scifi |
+George Orwell | Homage to Catalonia | |
+Nathaniel Philbrick | Endurance | rec. by Tom |
+Jonathan Rasmusson | The Agile Samurai | |
+Roach | Grunt | |
+Sotomayor | My Beloved World | rec. by Aku |
+Jeffrey Toobin | The Nine | rec. by Jonathan |
+Jay Winik | April 1865 | rec. by Tom |
+Irvin Yalom |  When Nietzsche Wept | rec. by Claire |
+Irvin Yalom | Love´s Executioner | non-fiction rec. by Claire |
