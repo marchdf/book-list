@@ -125,6 +125,7 @@ Kinder | A Ship of Gold in the Deeep Blue Sea | rec. by Tom |
 Dean King | A Sea of Words | Patrick O'Brian Lexicon |
 D. Lieven | Russia Against Napoleon | War and Peace by a historian |
 Fredrik Logevall | Embers of War | spy WWII, rec. by [the Economist](http://www.economist.com/node/21560841) |
+Macintyre | A Spy Among Friends | spy non fiction |
 Mader | Human Biology | biology book in Pati's class |
 Steve McConnell | Code Complete | |
 Alexander McKee | Wreck of the Medusa | rec. by Tom |

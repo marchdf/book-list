@@ -433,6 +433,7 @@ George Orwell | Animal Farm | r |  | Y
 George Orwell | Animal Farm | rr | 08/2010 | Y
 George Orwell | Down and Out in Paris and London | r | 09/2013 | Y
 Chuck Palahniuk | Lullaby | r | 10/2010 | Y
+Pamela Paul | My Life with Bob | r | 10/2017 | Y
 Mervyn Peake | Gormenghast | r | 12/2009 | Y
 Mervyn Peake | Titus Alone | r | 06/2010 | Y
 Mervyn Peake | Titus Groan | r |  | Y
