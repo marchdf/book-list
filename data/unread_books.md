@@ -26,8 +26,10 @@ Herodotus | The Histories
 Marlon James | A Brief History of Seven Killings
 James Joyce | A Portrait of the Artist as a Young Man
 Barbara Kingsolver | The Bean Trees
+Rudyard Kipling | Kim
 John LeCarre | The Looking Glass War
 John LeCarre | Russia House
+Ursula K LeGuin | The Left Hand of Darkness
 C.S. Lewis | The Great Divorce
 Robert Ludlum | The Bourne Identity
 David Lodge | Nice Work
@@ -46,7 +48,10 @@ Patrick O'Brian | Blue at the Mizzen
 Patrick O'Brian | The Commodore
 Patrick O'Brian | The Truelove
 Orhan Pamuk | The Black Book
-Edgar Allen Poe | Selected Tales
+DBC Pierre | Vernon God Little
+Edgar Allen Poe | Selected Tale
+Oliver Potzsch | The Hangman's Daughter
+Kim Stanley Robinson | Red Mars
 Marilynne Robinson | Gilead
 Shakespeare | Henry VI (part 1-3)
 Zadie Smith | White Tiger

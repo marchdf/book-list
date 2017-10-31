@@ -45,7 +45,6 @@ Victor Hugo | Les miserables| |
 Kazuo Ishiguro | Never Let Me Go | [Time top books](http://entertainment.time.com/2009/12/29/the-10-best-books-of-the-decade/#never-let-me-go-2005-by-kazuo-ishiguro-2) |
 Laurie King | The Beekeepers Apprentice  | rec. by Kate |
 Laurie King | The Bones of Paris | rec. by Kate |
-Rudyard Kipling| Kim | economist spy article |
 Erik Larson | Dead Wake | rec. by Louise |
 Helen MacInnes | Assignment in Brittany | spy fiction |
 Thomas Malory | La Morte d'Arthur |  |
@@ -60,7 +59,6 @@ Lauren Owen | The Quick | rec. by [the Economist](http://www.economist.com/news/
 Boris Pasternak  | Docteur Zhivago  | |
 George Perec | La vie, mode d'emploi | |
 George Perec | La disparition | lipogramme, sans e |
-Oliver Potzsch | The Hangman's Daughter | rec. by Louise |
 Richard Price | Lush Life | Time top books |
 Arundhati Roy | God of small things | rec. by Harish |
 Yulian Semyonov | Seventeen Moments of Spring | spy fiction |
@@ -94,12 +92,11 @@ Grimwood | Replay | rec. by Tom |
 Jean-Philippe Jaworski | [Janua Vera +](http://www.cafardcosmique.com/Janua-Vera-de-Jean-Philippe,1306) | rec. by Julien INSA |
 Steven King | Dark Tower | Brandon |
 Ursula K LeGuin | A Wizard of Earthsea | |
-Ursula K LeGuin | The Left Hand of Darkness | |
 G.R.R Martin  |  | last read = A dance with dragons |
 Robin McKinley | The Hero and the Crown | fantasy rec. by [Vox](http://www.vox.com/2016/5/22/11693132/game-thrones-recs-george-martin-robin-mckinley-megan-whalen-turner-ellen-kushner) |
 Moore | From Hell | comics |
 Matthew Quirk | The 500 | rec. by [the Economist](http://www.economist.com/blogs/prospero/2012/07/new-summer-thriller?fsrc=gn_ep) |
-Kim Stanley Robinson | Mars trilogy | Babbage says ``exquisite'' |
+Kim Stanley Robinson | Green Mars, Blue Mars | Babbage says ``exquisite'' |
 Megan Whalen Turner | The Thief | fantasy rec. by [Vox](http://www.vox.com/2016/5/22/11693132/game-thrones-recs-george-martin-robin-mckinley-megan-whalen-turner-ellen-kushner) |
 
 ## Non-fiction
