@@ -38,7 +38,6 @@ Cyril Massarato | 100 pages blanches
 W. Somerset Maugham | Ashenden: Or the British Agent
 W. Somerset Maugham | Of Human Bondage
 Anne McCaffrey | Dragonflight
-Ian McEwan | Atonement
 China Mieville | The City and the City
 Nabokov | The Real Life of Sebastian Knight
 Patrick O'Brian | The Wine Dark See

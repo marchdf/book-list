@@ -373,6 +373,7 @@ Cormac McCarthy | The Crossing | r |  | N
 Cormac McCarthy | The Crossing | rr | 12/2012 | Y
 Cormac McCarthy | The Road | r |  | Y
 McDonald | The Bedford Companion to Shakespeare | r |  | Y
+Ian McEwan | Atonement | r | 11/2017 | Y
 Jay McInerney | Bright Lights Big City | r | 12/2011 | Y
 Fiona McIntosh | Blood and Memory | r |  | Y
 Fiona McIntosh | Bridge of Souls | r |  | Y

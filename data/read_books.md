@@ -601,3 +601,4 @@ Peter Guralnick | Sam Phillips | r | 10/2017 | Y
 Geraldine Brooks | Nine Parts of Desire | r | 10/2017 | N
 Laurie King | Pirate King | r | 10/2017 | N
 Pamela Paul | My Life with Bob | r | 10/2017 | Y
+Ian McEwan | Atonement | r | 11/2017 | Y
