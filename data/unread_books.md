@@ -8,7 +8,8 @@ Kate Atkinson | A God in Ruins
 John Banville | The Sea
 Kate Beaton | Hark! A Vagrant
 Samuel Beckett | Waiting for Godot
-Bradbury and Greaves | Emotional Inteligence
+Bradbury and Greaves | Emotional Intelligence
+Geraldine Brooks | March
 Camus | l'envers et l'endroit
 Eleanor Catton | The Luminaries
 Michael Chabon | The Yiddish Policemen's Union
@@ -16,6 +17,7 @@ Checkov | Five Plays
 Covey | Seven habits of highly effective people
 Junot Diaz | The Brief Wondrous Life of Oscar Wao
 Charles Dickens | Dombey and Son
+Anthony Doerr | All The Light We Cannot See
 George Eliot | Adam Bede
 Faulkner | The Sound and the Fury
 Ford Maddox Ford | The Good Soldier
@@ -31,6 +33,7 @@ John LeCarre | The Looking Glass War
 John LeCarre | Russia House
 Ursula K LeGuin | The Left Hand of Darkness
 C.S. Lewis | The Great Divorce
+Michael Lewis | Moneyball
 Robert Ludlum | The Bourne Identity
 David Lodge | Nice Work
 Gabriel Garcia Marquez | Chronicle of a Death Foretold

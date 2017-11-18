@@ -602,3 +602,4 @@ Geraldine Brooks | Nine Parts of Desire | r | 10/2017 | N
 Laurie King | Pirate King | r | 10/2017 | N
 Pamela Paul | My Life with Bob | r | 10/2017 | Y
 Ian McEwan | Atonement | r | 11/2017 | Y
+Fraction | Hawkeye 1 | r | 11/2017 | N
