@@ -87,7 +87,8 @@ Liu Cixin | The Three-Body Problem | NYT article about Obama, won Hugo |
 Bernard Clavel | Le Royaume du Nord | rec. by Julien INSA |
 Yoshikawa Eiji | La Pierre et le Sabre | rec. by Julien INSA |
 Harlan Ellison | I Have No Mouth, and I Must Scream | rec. by TJ |
-Ian Fleming | From Russia, with Love | | economist spy article |
+Ian Fleming | From Russia, with Love | economist spy article |
+William Gibson | Neuromancer | |
 Grimwood | Replay | rec. by Tom |
 Jean-Philippe Jaworski | [Janua Vera +](http://www.cafardcosmique.com/Janua-Vera-de-Jean-Philippe,1306) | rec. by Julien INSA |
 Steven King | Dark Tower | Brandon |
@@ -109,6 +110,7 @@ David Bellos | Is That a Fish in Your Ear | rec. by Econ 10/12/11 |
 Ron Chernow | Hamilton | rec. by Aku |
 Edward Conard | Unintended Consequences | rec. by [Mankiw](http://gregmankiw.blogspot.com/2012/07/what-ive-been-reading.html) |
 Brian Cox | Quantum Universe | rec. by Econ 10/12/11 |
+Josh Dean | The Taking of K-129 | rec. by Louise |
 Christopher Evans | third reich trilogy | rec. by Jonathan |
 Ernest K. Gann | Fate is the Hunter | rec. by Tom |
 Greaber | Debt | Kate Green |

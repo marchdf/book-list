@@ -603,3 +603,6 @@ Laurie King | Pirate King | r | 10/2017 | N
 Pamela Paul | My Life with Bob | r | 10/2017 | Y
 Ian McEwan | Atonement | r | 11/2017 | Y
 Fraction | Hawkeye 1 | r | 11/2017 | N
+Fraction | Hawkeye 2 | r | 11/2017 | N
+Fraction | Hawkeye 3 | r | 11/2017 | N
+George Eliot | Adam Bede | r | 12/2017 | Y

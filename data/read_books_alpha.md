@@ -138,6 +138,7 @@ Umberto Eco | On Beauty | r |  | Y
 Umberto Eco | The Name of the Rose | r |  | N
 David Eddings | Pawn of Prophecy | r |  | Y
 Dave Eggers | What is the What | r | 06/2011 | N
+George Eliot | Adam Bede | r | 12/2017 | Y
 George Eliot | Middlemarch | r |  | Y
 Ralph Ellison | Invisible Man | r | 01/2010 | Y
 Hans Enzensberger | The Number Devil | r |  | Y
@@ -157,6 +158,8 @@ Jonathan Safran Foer | Extremely Loud and Incredibly Close | r | 09/2010 | Y
 E. M. Forster | A Room with a View | r | 09/2016 | Y
 E. M. Forster | Where Angels Fear to Tread | r | 05/2017 | Y
 Fraction | Hawkeye 1 | r | 11/2017 | N
+Fraction | Hawkeye 2 | r | 11/2017 | N
+Fraction | Hawkeye 3 | r | 11/2017 | N
 Jonathan Franzen | The Corrections | r | 12/2012 | Y
 Michael Frayn | Copenhagen | r | 04/2010 | N
 Alexandra Fuller | Don't Let's Go to the Dogs Tonight | r | 03/2011 | N
