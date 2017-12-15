@@ -606,3 +606,4 @@ Fraction | Hawkeye 1 | r | 11/2017 | N
 Fraction | Hawkeye 2 | r | 11/2017 | N
 Fraction | Hawkeye 3 | r | 11/2017 | N
 George Eliot | Adam Bede | r | 12/2017 | Y
+Elizabeth Strout | The Burgess Boys | r | 12/2017 | Y

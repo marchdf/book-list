@@ -18,7 +18,6 @@ Covey | Seven habits of highly effective people
 Junot Diaz | The Brief Wondrous Life of Oscar Wao
 Charles Dickens | Dombey and Son
 Anthony Doerr | All The Light We Cannot See
-George Eliot | Adam Bede
 Faulkner | The Sound and the Fury
 Ford Maddox Ford | The Good Soldier
 Jonathan Franzen | Freedom
@@ -59,7 +58,6 @@ Shakespeare | Henry VI (part 1-3)
 Zadie Smith | White Tiger
 Wallace Stegner | Crossing to Safety
 Robert Louis Stevenson | The Black Arrow
-Elizabeth Strout | The Burgess Boys
 Mark Twain | The Best Short Works
 Mark Twain | Letters from Earth
 David Foster Wallace | Consider the Lobster

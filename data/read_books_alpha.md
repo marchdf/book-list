@@ -538,6 +538,7 @@ Robert Louis Stevenson | Kidnapped | r |  | Y
 Robert Louis Stevenson | The Black Arrow | r | 04/2014 | N
 Robert Louis Stevenson | Treasure Island | r |  | Y
 Bram Stoker | Dracula | r |  | Y
+Elizabeth Strout | The Burgess Boys | r | 12/2017 | Y
 James Swanson | Manhunt | r | 05/2012 | Y
 Jonathan Swift | Gulliver's Travels | r | 10/2010 | Y
 Josephine Tey | The Daughter of Time | r |  | Y
