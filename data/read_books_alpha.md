@@ -112,6 +112,7 @@ Don DeLillo | White Noise | r | 08/2014 | Y
 Daniel Defoe | Robinson Crusoe | r |  | Y
 Jared Diamond | Collapse | r |  | Y
 Jared Diamond | Guns, Germs and Steel | r |  | Y
+Junot Diaz | The Brief Wondrous Life of Oscar Wao | r | 12/2017 | Y
 Philip K. Dick | Do Androids Dream of Electric Sheep? | r |  | Y
 Charles Dickens | Bleak House | r | 03/2010 | Y
 Charles Dickens | David Copperfield | r |  | N

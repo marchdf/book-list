@@ -15,7 +15,6 @@ Eleanor Catton | The Luminaries
 Michael Chabon | The Yiddish Policemen's Union
 Checkov | Five Plays
 Covey | Seven habits of highly effective people
-Junot Diaz | The Brief Wondrous Life of Oscar Wao
 Charles Dickens | Dombey and Son
 Anthony Doerr | All The Light We Cannot See
 Faulkner | The Sound and the Fury
