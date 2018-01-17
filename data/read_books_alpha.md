@@ -161,6 +161,7 @@ E. M. Forster | Where Angels Fear to Tread | r | 05/2017 | Y
 Fraction | Hawkeye 1 | r | 11/2017 | N
 Fraction | Hawkeye 2 | r | 11/2017 | N
 Fraction | Hawkeye 3 | r | 11/2017 | N
+Fraction | Hawkeye 4 | r | 12/2017 | N
 Jonathan Franzen | The Corrections | r | 12/2012 | Y
 Michael Frayn | Copenhagen | r | 04/2010 | N
 Alexandra Fuller | Don't Let's Go to the Dogs Tonight | r | 03/2011 | N
@@ -341,6 +342,7 @@ Michael Lewis | Flash Boys | r | 10/2016 | Y
 Alan Lightman | Einstein's Dreams | r |  | Y
 David Lodge | The Art of Fiction | r | 07/2016 | Y
 David Lodge | Therapy | r | 09/2010 | Y
+Robert Ludlum | The Bourne Identity | r | 01/2018 | Y
 Maddox | The Alphabet of Manliness | r |  | Y
 Norman Mailer | An American Dream | r |  | Y
 Norman Mailer | The Naked and the Dead | r |  | Y
@@ -439,6 +441,7 @@ George Orwell | Animal Farm | r |  | Y
 George Orwell | Animal Farm | rr | 08/2010 | Y
 George Orwell | Down and Out in Paris and London | r | 09/2013 | Y
 Chuck Palahniuk | Lullaby | r | 10/2010 | Y
+Orhan Pamuk | The Black Book | r | 01/2018 | Y
 Pamela Paul | My Life with Bob | r | 10/2017 | Y
 Mervyn Peake | Gormenghast | r | 12/2009 | Y
 Mervyn Peake | Titus Alone | r | 06/2010 | Y

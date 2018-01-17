@@ -606,5 +606,8 @@ Fraction | Hawkeye 1 | r | 11/2017 | N
 Fraction | Hawkeye 2 | r | 11/2017 | N
 Fraction | Hawkeye 3 | r | 11/2017 | N
 George Eliot | Adam Bede | r | 12/2017 | Y
+Fraction | Hawkeye 4 | r | 12/2017 | N
 Elizabeth Strout | The Burgess Boys | r | 12/2017 | Y
 Junot Diaz | The Brief Wondrous Life of Oscar Wao | r | 12/2017 | Y
+Robert Ludlum | The Bourne Identity | r | 01/2018 | Y
+Orhan Pamuk | The Black Book | r | 01/2018 | Y

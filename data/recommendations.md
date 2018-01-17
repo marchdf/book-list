@@ -93,6 +93,7 @@ Grimwood | Replay | rec. by Tom |
 Jean-Philippe Jaworski | [Janua Vera +](http://www.cafardcosmique.com/Janua-Vera-de-Jean-Philippe,1306) | rec. by Julien INSA |
 Steven King | Dark Tower | Brandon |
 Ursula K LeGuin | A Wizard of Earthsea | |
+Robert Ludlum | Bourne Supremacy and Bourne Ultimatum | original Bourne
 G.R.R Martin  |  | last read = A dance with dragons |
 Robin McKinley | The Hero and the Crown | fantasy rec. by [Vox](http://www.vox.com/2016/5/22/11693132/game-thrones-recs-george-martin-robin-mckinley-megan-whalen-turner-ellen-kushner) |
 Moore | From Hell | comics |
@@ -107,7 +108,6 @@ Author | Title | Notes |
 | Child 44 | rec by Tom |
 Beckert | Empire of Cotton | rec. by NYT 2015 Top books |
 David Bellos | Is That a Fish in Your Ear | rec. by Econ 10/12/11 |
-Ron Chernow | Hamilton | rec. by Aku |
 Edward Conard | Unintended Consequences | rec. by [Mankiw](http://gregmankiw.blogspot.com/2012/07/what-ive-been-reading.html) |
 Brian Cox | Quantum Universe | rec. by Econ 10/12/11 |
 Josh Dean | The Taking of K-129 | rec. by Louise |
@@ -124,7 +124,7 @@ Kinder | A Ship of Gold in the Deeep Blue Sea | rec. by Tom |
 Dean King | A Sea of Words | Patrick O'Brian Lexicon |
 D. Lieven | Russia Against Napoleon | War and Peace by a historian |
 Fredrik Logevall | Embers of War | spy WWII, rec. by [the Economist](http://www.economist.com/node/21560841) |
-Macintyre | A Spy Among Friends | spy non fiction |
+Macintyre | A Spy Among Friends | Philby, spy non fiction |
 Mader | Human Biology | biology book in Pati's class |
 Steve McConnell | Code Complete | |
 Alexander McKee | Wreck of the Medusa | rec. by Tom |
