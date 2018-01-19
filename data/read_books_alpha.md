@@ -33,6 +33,7 @@ Henry Beard | X-treme Latin | r |  | Y
 Saul Bellow | The Adventures of Augie March | r | 07/2010 | Y
 John Berger | Ways of Seeing | r |  | Y
 William Bernstein | The Four Pillars of Investing | r | 10/2013 | Y
+Pierre Bottero | D'un monde à l'autre | r | 01/2018 | N
 Pierre Bottero | Ellana | r | 08/2017 | N
 T.C Boyle | The Tortilla Curtain | r | 09/2011 | Y
 Ray Bradbury | Fahrenheit 451 | r |  | N
