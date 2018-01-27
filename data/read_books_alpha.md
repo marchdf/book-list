@@ -581,6 +581,7 @@ Bill Watterson | The Indispensable Calvin and Hobbes | r |  | Y
 Bill Watterson | The Revenge of the Baby-sat | r |  | Y
 Evelyn Waugh | A Handful of Dust | r | 03/2012 | Y
 Evelyn Waugh | Decline and Fall | r | 03/2012 | Y
+Evelyn Waugh | Scoop | r | 01/2018 | Y
 H.G. Wells | A Short History of the World | r |  | Y
 H.G. Wells | The Invisible Man | r |  | Y
 Bernard Werber | La Revolution des Fourmis | r |  | N

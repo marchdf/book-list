@@ -64,4 +64,3 @@ Elizabeth Strout | Olive Kitteridge
 Mark Twain | The Best Short Works
 Mark Twain | Letters from Earth
 David Foster Wallace | Consider the Lobster
-Evelyn Waugh | Scoop
