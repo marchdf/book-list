@@ -85,6 +85,7 @@ Stephane Beauverger | [Le Dechonologue](http://www.cafardcosmique.com/Le-Dechron
 Alex Berenson | The Counterfeit Agent | rec. by [the Economist](http://www.economist.com/news/books-and-arts/21597874-alex-berenson-top-form-crimes-and-misdemeanours) |
 Liu Cixin | The Three-Body Problem | NYT article about Obama, won Hugo |
 Bernard Clavel | Le Royaume du Nord | rec. by Julien INSA |
+Agatha Christie | Orient Express, Roger Akroyd, ABC Murders, And then there were none, Curtain, Endless Night, Affair Styles, Peril at End House, Murder Vicarage, Crooked house| |
 Yoshikawa Eiji | La Pierre et le Sabre | rec. by Julien INSA |
 Harlan Ellison | I Have No Mouth, and I Must Scream | rec. by TJ |
 Ian Fleming | From Russia, with Love | economist spy article |
@@ -113,6 +114,7 @@ Brian Cox | Quantum Universe | rec. by Econ 10/12/11 |
 Josh Dean | The Taking of K-129 | rec. by Louise |
 Christopher Evans | third reich trilogy | rec. by Jonathan |
 Ernest K. Gann | Fate is the Hunter | rec. by Tom |
+Peter Godfrey-Smith | Other minds : the octopus, the sea, and the deep origins of consciousness | rec. by Alex |
 Greaber | Debt | Kate Green |
 RLG | You Are What you Speak | rec. by Econ 10/12/11 |
 David Halberstam | The Coldest Winter | rec. by Tom |

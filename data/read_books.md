@@ -613,3 +613,5 @@ Robert Ludlum | The Bourne Identity | r | 01/2018 | Y
 Orhan Pamuk | The Black Book | r | 01/2018 | Y
 Pierre Bottero | D'un monde à l'autre | r | 01/2018 | N
 Evelyn Waugh | Scoop | r | 01/2018 | Y
+Patrick O'Brian | The Truelove | r | 01/2018 | Y
+Anthony Horowitz | Magpie Murders | r | 02/2018 | Y
