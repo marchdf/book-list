@@ -17,6 +17,9 @@ Michael Chabon | The Yiddish Policemen's Union
 Checkov | Five Plays
 Ron Chernow | Grant
 Ron Chernow | Hamilton
+Agatha Christie | Death in the Clouds
+Agatha Christie | Murder of Roger Ackroyd
+Agatha Christie | Murder on the Orient Express
 Covey | Seven habits of highly effective people
 Charles Dickens | Dombey and Son
 Anthony Doerr | All The Light We Cannot See
@@ -37,7 +40,6 @@ John LeCarre | Russia House
 Ursula K LeGuin | The Left Hand of Darkness
 C.S. Lewis | The Great Divorce
 Michael Lewis | Moneyball
-David Lodge | Nice Work
 Gabriel Garcia Marquez | Chronicle of a Death Foretold
 Cyril Massarato | 100 pages blanches
 W. Somerset Maugham | Ashenden: Or the British Agent

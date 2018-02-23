@@ -45,6 +45,7 @@ Victor Hugo | Les miserables| |
 Kazuo Ishiguro | Never Let Me Go | [Time top books](http://entertainment.time.com/2009/12/29/the-10-best-books-of-the-decade/#never-let-me-go-2005-by-kazuo-ishiguro-2) |
 Laurie King | The Beekeepers Apprentice  | rec. by Kate |
 Laurie King | The Bones of Paris | rec. by Kate |
+Milan Kundera | The Unbearable Lightness of Being | Alicia |
 Erik Larson | Dead Wake | rec. by Louise |
 Helen MacInnes | Assignment in Brittany | spy fiction |
 Thomas Malory | La Morte d'Arthur |  |
@@ -55,6 +56,7 @@ James Meek | The Heart Broke In | rec. by economist Dec. 1 2012 |
 A.D. Miller | Snowdrops | rec. by Econ 10/12/11 |
 Jan Morris | Conundrum |  rec. by mom |
 Viet Thanh Nguyen | The Sympathizer | rec by mom |
+Joyce Carol Oates | We were the Mulvaney's | Alicia
 Lauren Owen | The Quick | rec. by [the Economist](http://www.economist.com/news/books-and-arts/21600094-scary-debut-fans-wilkie-collins-and-sir-arthur-conan-doyle-go-gothic) |
 Boris Pasternak  | Docteur Zhivago  | |
 George Perec | La vie, mode d'emploi | |
@@ -85,7 +87,7 @@ Stephane Beauverger | [Le Dechonologue](http://www.cafardcosmique.com/Le-Dechron
 Alex Berenson | The Counterfeit Agent | rec. by [the Economist](http://www.economist.com/news/books-and-arts/21597874-alex-berenson-top-form-crimes-and-misdemeanours) |
 Liu Cixin | The Three-Body Problem | NYT article about Obama, won Hugo |
 Bernard Clavel | Le Royaume du Nord | rec. by Julien INSA |
-Agatha Christie | Orient Express, Roger Akroyd, ABC Murders, And then there were none, Curtain, Endless Night, Affair Styles, Peril at End House, Murder Vicarage, Crooked house| |
+Agatha Christie | ABC Murders, And then there were none, Curtain, Endless Night, Affair Styles, Peril at End House, Murder Vicarage, Crooked house| |
 Yoshikawa Eiji | La Pierre et le Sabre | rec. by Julien INSA |
 Harlan Ellison | I Have No Mouth, and I Must Scream | rec. by TJ |
 Ian Fleming | From Russia, with Love | economist spy article |

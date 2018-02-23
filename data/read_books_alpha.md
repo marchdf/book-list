@@ -88,6 +88,7 @@ James Clavell | King Rat | r | 08/2009 | Y
 James Clavell | Shogun | r |  | Y
 James Clavell | Tai-Pan | r |  | Y
 Albert Cohen | La Belle du Seigneur | r |  | Y
+Suzanne Collins | Catching Fire | r | 02/2018 | N
 Suzanne Collins | The Hunger Games | r | 08/2015 | Y
 Wilkie Collins | The Woman in White | r | 01/2014 | Y
 Joseph Conrad | Heart of Darkness | r |  | Y
@@ -265,6 +266,7 @@ Robin Hobb | Ship of Magic | r |  | Y
 Robin Hobb | The Golden Fool | r |  | Y
 Robin Hobb | The Mad Ship | r |  | Y
 Homer | The Odyssey | r |  | Y
+Anthony Horowitz | Magpie Murders | r | 02/2018 | Y
 Khaled Hosseini | The Kite Runner | r | 06/2011 | Y
 Aldous Huxley | Brave New World | r |  | Y
 Aldous Huxley | Eyeless in Gaza | r | 06/2011 | Y
@@ -341,6 +343,7 @@ Harper Lee | To Kill a Mockinbird | r |  | Y
 Mikhail Lermontov | A Hero of Our Time | r | 07/2016 | Y
 Michael Lewis | Flash Boys | r | 10/2016 | Y
 Alan Lightman | Einstein's Dreams | r |  | Y
+David Lodge | Nice Work | r | 02/2018 | Y
 David Lodge | The Art of Fiction | r | 07/2016 | Y
 David Lodge | Therapy | r | 09/2010 | Y
 Robert Ludlum | The Bourne Identity | r | 01/2018 | Y
