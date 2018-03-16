@@ -73,6 +73,7 @@ Lewis Carroll | Through the Looking-Glass | r | 04/2010 | Y
 Raymond Carver | Cathedral | r | 05/2013 | Y
 Cathcart | Plato and a Platypus Walk into a Bar | r |  | Y
 Willa Cather | My Antonia | r |  | Y
+Eleanor Catton | The Luminaries | r | 03/2018 | Y
 Celine | Voyage au Bout de la Nuit | r |  | Y
 Cervantes | Don Quixote | r |  | Y
 Michael Chabon | The Amazing Adventures of Kavalier and Clay | r | 05/2012 | Y
@@ -89,6 +90,7 @@ James Clavell | Shogun | r |  | Y
 James Clavell | Tai-Pan | r |  | Y
 Albert Cohen | La Belle du Seigneur | r |  | Y
 Suzanne Collins | Catching Fire | r | 02/2018 | N
+Suzanne Collins | Mockingjay | r | 02/2018 | N
 Suzanne Collins | The Hunger Games | r | 08/2015 | Y
 Wilkie Collins | The Woman in White | r | 01/2014 | Y
 Joseph Conrad | Heart of Darkness | r |  | Y

@@ -30,6 +30,7 @@ new books but have some used books.
 
 #### Colorado
 
+- Poor Richard's - Colorado Springs
 - Capitol Hill Books - Denver
 - Kilgore - Denver
 - Mutiny Information - Denver
@@ -44,6 +45,7 @@ new books but have some used books.
 
 #### Michigan
 
+- Aunt Agatha's - Ann Arbor
 - David's Books - Ann Arbor
 - Dawn Treader - Ann Arbor
 - Literati - Ann Arbor
@@ -64,6 +66,10 @@ new books but have some used books.
 #### Pennsylvania
 
 - Amazing Books - Pittsburgh
+
+### Utah
+
+- Back of Beyond Books - Moab
 
 #### Washington
 

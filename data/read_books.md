@@ -617,3 +617,5 @@ Patrick O'Brian | The Truelove | r | 01/2018 | Y
 Anthony Horowitz | Magpie Murders | r | 02/2018 | Y
 David Lodge | Nice Work | r | 02/2018 | Y
 Suzanne Collins | Catching Fire | r | 02/2018 | N
+Suzanne Collins | Mockingjay | r | 02/2018 | N
+Eleanor Catton | The Luminaries | r | 03/2018 | Y

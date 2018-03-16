@@ -12,7 +12,6 @@ Samuel Beckett | Waiting for Godot
 Bradbury and Greaves | Emotional Intelligence
 Geraldine Brooks | March
 Camus | l'envers et l'endroit
-Eleanor Catton | The Luminaries
 Michael Chabon | The Yiddish Policemen's Union
 Checkov | Five Plays
 Ron Chernow | Grant
