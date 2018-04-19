@@ -619,3 +619,5 @@ David Lodge | Nice Work | r | 02/2018 | Y
 Suzanne Collins | Catching Fire | r | 02/2018 | N
 Suzanne Collins | Mockingjay | r | 02/2018 | N
 Eleanor Catton | The Luminaries | r | 03/2018 | Y
+Robert Harris | An Officer and a Spy | r | 04/2018 | Y
+Agatha Christie | Murder on the Orient Express | r | 04/2018 | Y

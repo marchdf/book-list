@@ -18,7 +18,6 @@ Ron Chernow | Grant
 Ron Chernow | Hamilton
 Agatha Christie | Death in the Clouds
 Agatha Christie | Murder of Roger Ackroyd
-Agatha Christie | Murder on the Orient Express
 Covey | Seven habits of highly effective people
 Charles Dickens | Dombey and Son
 Anthony Doerr | All The Light We Cannot See
@@ -27,7 +26,6 @@ Ford Maddox Ford | The Good Soldier
 Jonathan Franzen | Freedom
 Malcolm Gladwell | The Tipping Point
 Mohsin Hamid | Exit West
-Robert Harris | An Officer and a Spy
 Herodotus | The Histories
 Stefan Hertmans | War and Turpentine
 Marlon James | A Brief History of Seven Killings

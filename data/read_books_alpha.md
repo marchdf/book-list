@@ -80,6 +80,7 @@ Michael Chabon | The Amazing Adventures of Kavalier and Clay | r | 05/2012 | Y
 Michael Chabon | Wonder Boys | r | 10/2015 | Y
 Chantecler | Le Monde en Laboratoir | r |  | Y
 Anton Checkov | Five Plays | r | 12/2013 | Y
+Agatha Christie | Murder on the Orient Express | r | 04/2018 | Y
 Robert Cialdini | Influence, the Psychology of Persuasion | r | 02/2010 | Y
 Christopher Clark | The Sleepwalkers | r | 08/2017 | Y
 Susanna Clarke | Jonathan Strange and Mr. Norrell | r | 03/2011 | Y
@@ -223,6 +224,7 @@ Thomas Hardy | Tess of the D'Urbervilles | r |  | Y
 Thomas Hardy | The Mayor of Casterbridge | r |  | Y
 Thomas Hardy | The Return of the Native | r | 06/2017 | Y
 Tim Harford | The Undercover Economist | r | 02/2014 | Y
+Robert Harris | An Officer and a Spy | r | 04/2018 | Y
 Robert Harris | Pompeii | r | 05/2016 | Y
 Stephen Hawking | A Brief History of Time | r |  | Y
 Nathaniel Hawthorne | The Scarlet Letter | r |  | Y
