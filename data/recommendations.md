@@ -43,8 +43,7 @@ LP Hartley | The Go-Between | rec. by mom |
 Hasek | The Good Soldier Svejk | |
 Victor Hugo | Les miserables| |
 Kazuo Ishiguro | Never Let Me Go | [Time top books](http://entertainment.time.com/2009/12/29/the-10-best-books-of-the-decade/#never-let-me-go-2005-by-kazuo-ishiguro-2) |
-Laurie King | The Beekeepers Apprentice  | rec. by Kate |
-Laurie King | The Bones of Paris | rec. by Kate |
+Han Kang | The Vegetarian | rec. by Economist |
 Milan Kundera | The Unbearable Lightness of Being | Alicia |
 Erik Larson | Dead Wake | rec. by Louise |
 Helen MacInnes | Assignment in Brittany | spy fiction |
@@ -52,6 +51,7 @@ Thomas Malory | La Morte d'Arthur |  |
 Javier Marias | A Heart So White | rec. by mom and Aku |
 Simon Mawer | The Glass Room | shortlisted for Booker |
 Helen McDonald | H is for Hawk | rec. by NYT 2015 Top books |
+Ian McEwan | Nutshell | rec. by Economist |
 James Meek | The Heart Broke In | rec. by economist Dec. 1 2012 |
 A.D. Miller | Snowdrops | rec. by Econ 10/12/11 |
 Jan Morris | Conundrum |  rec. by mom |
@@ -65,6 +65,7 @@ Richard Price | Lush Life | Time top books |
 Arundhati Roy | God of small things | rec. by Harish |
 Yulian Semyonov | Seventeen Moments of Spring | spy fiction |
 Jane Smiley | Some Luck | rec by Aku |
+Kate Summerscale | The Wicked Boy | crime fiction, rec. by Economist |
 John Steinbeck | Log of the Sea of Cortez| rec. by Erik |
 Amor Towles | A Gentleman in Moscow | rec. by Kenton |
 Trollope | The way we live now | |
@@ -103,6 +104,8 @@ Moore | From Hell | comics |
 Matthew Quirk | The 500 | rec. by [the Economist](http://www.economist.com/blogs/prospero/2012/07/new-summer-thriller?fsrc=gn_ep) |
 Kim Stanley Robinson | Green Mars, Blue Mars | Babbage says ``exquisite'' |
 Megan Whalen Turner | The Thief | fantasy rec. by [Vox](http://www.vox.com/2016/5/22/11693132/game-thrones-recs-george-martin-robin-mckinley-megan-whalen-turner-ellen-kushner) |
+Brandon Sanderson | The Way of Kings | good series, rec. by Tattered Cover |
+Neal Stephenson | Anathem | rec. by Tattered Cover |
 
 ## Non-fiction
 
