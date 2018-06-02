@@ -621,3 +621,5 @@ Suzanne Collins | Mockingjay | r | 02/2018 | N
 Eleanor Catton | The Luminaries | r | 03/2018 | Y
 Robert Harris | An Officer and a Spy | r | 04/2018 | Y
 Agatha Christie | Murder on the Orient Express | r | 04/2018 | Y
+Robertson Davies | The Cornish Trilogy | rr | 05/2018 | Y
+Ursula K LeGuin | The Left Hand of Darkness | r | 05/2018 | Y

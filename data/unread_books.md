@@ -34,7 +34,6 @@ Barbara Kingsolver | The Bean Trees
 Rudyard Kipling | Kim
 John LeCarre | The Looking Glass War
 John LeCarre | Russia House
-Ursula K LeGuin | The Left Hand of Darkness
 C.S. Lewis | The Great Divorce
 Michael Lewis | Moneyball
 Gabriel Garcia Marquez | Chronicle of a Death Foretold
