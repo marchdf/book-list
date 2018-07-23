@@ -6,8 +6,10 @@ Douglas Adams | Life, the Universe and Everything | r |  | Y
 Douglas Adams | Mostly Harmless | r |  | Y
 Douglas Adams | So long, and thanks for all the fish | r |  | Y
 Douglas Adams | The Hitchiker's Guide to the Galaxy | r |  | Y
+Douglas Adams | The Hitchiker's Guide to the Galaxy | rr | 07/2018 | Y
 Douglas Adams | The Long Dark Tea-time of the Soul | r |  | Y
 Douglas Adams | The Restaurant at the End of the Universe | r |  | Y
+Douglas Adams | The Restaurant at the End of the Universe | rr | 07/2018 | Y
 Brian Aldiss | Helliconia Spring | r |  | Y
 Lloyd Alexander | the Chronicles of Prydain | r |  | N
 John Altman | A Game of Spies | r |  | Y
@@ -80,6 +82,7 @@ Michael Chabon | The Amazing Adventures of Kavalier and Clay | r | 05/2012 | Y
 Michael Chabon | Wonder Boys | r | 10/2015 | Y
 Chantecler | Le Monde en Laboratoir | r |  | Y
 Anton Checkov | Five Plays | r | 12/2013 | Y
+Ron Chernow | Hamilton | r | 06/2018 | N
 Agatha Christie | Murder on the Orient Express | r | 04/2018 | Y
 Robert Cialdini | Influence, the Psychology of Persuasion | r | 02/2010 | Y
 Christopher Clark | The Sleepwalkers | r | 08/2017 | Y
@@ -109,6 +112,7 @@ Dante | The Divine Comedy: The Inferno | r |  | Y
 Charles Darwin | On the Origin of Species | r | 09/2010 | Y
 Robertson Davies | Murther and Walking Spirits | r | 08/2010 | Y
 Robertson Davies | The Cornish Trilogy | r |  | Y
+Robertson Davies | The Cornish Trilogy | rr | 05/2018 | Y
 Robertson Davies | The Cunning Man | r |  | Y
 Robertson Davies | The Deptford Trilogy | r |  | Y
 Richard Dawkins | The God Delusion | r |  | Y
@@ -249,6 +253,7 @@ Frank Herbert | Heretics of Dune | r |  | Y
 Frank Herbert | The Eyes of Heisenberg | r |  | Y
 Frank Herbert | The Godmakers | r |  | Y
 Frank Herbert | Whipping Star | r |  | Y
+Stefan Hertmans | War and Turpentine | r | 07/2018 | Y
 Hesiod | Theogony | r | 11/2010 | Y
 Hesiod | Works and Days | r | 11/2010 | Y
 Herman Hesse | Demian | r |  | Y
@@ -343,6 +348,7 @@ John LeCarre | The Little Drummer Girl | rr | 09/2017 | Y
 John LeCarre | The Russia House | r |  | N
 John LeCarre | The Spy Who Came in From the Cold | r | 08/2013| Y
 John LeCarre | Tinker, Tayor, Soldier, Spy | rr | 07/2012 | Y
+Ursula K LeGuin | The Left Hand of Darkness | r | 05/2018 | Y
 Harper Lee | To Kill a Mockinbird | r |  | Y
 Mikhail Lermontov | A Hero of Our Time | r | 07/2016 | Y
 Michael Lewis | Flash Boys | r | 10/2016 | Y
@@ -361,6 +367,7 @@ Hilary Mantel | A Place of Greater Safety | r | 04/2015 | Y
 Hilary Mantel | Bring Up the Bodies | r | 09/2013 | Y
 Hilary Mantel | Wolf Hall | r | 07/2011 | Y
 Greil Marcus | Lipstick Traces | r | 08/2013 | Y
+Gabriel Garcia Marquez | Chronicle of a Death Foretold | r | 05/2018 | Y
 Gabriel Garcia Marquez | Love in the Time of Cholera | r | 06/2010 | Y
 Gabriel Garcia Marquez | One Hundred Years of Solitude | r |  | Y
 Gabriel Garcia Marquez | The Autumn of the Patriarch | r | 04/2012 | Y
@@ -437,6 +444,7 @@ Patrick O'Brian | The Reverse of the Medal | rr | 08/2016 | Y
 Patrick O'Brian | The Surgeon's Mate | rr | 12/2013 | Y
 Patrick O'Brian | The Thirteen Gun Salute | rr | 03/2017 | Y
 Patrick O'Brian | The Truelove | r | 01/2018 | Y
+Patrick O'Brian | The Wine Dark Sea | r | 07/2018 | Y
 Patrick O'Brian | Treason's Harbour | rr | 09/2015 | Y
 Patrick O'Brian | from Master and Commander to the Commodore | r |  | N
 Tim O'Brien | Going After Cacciato | r | 04/2010 | Y

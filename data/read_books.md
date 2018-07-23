@@ -623,3 +623,9 @@ Robert Harris | An Officer and a Spy | r | 04/2018 | Y
 Agatha Christie | Murder on the Orient Express | r | 04/2018 | Y
 Robertson Davies | The Cornish Trilogy | rr | 05/2018 | Y
 Ursula K LeGuin | The Left Hand of Darkness | r | 05/2018 | Y
+Gabriel Garcia Marquez | Chronicle of a Death Foretold | r | 05/2018 | Y
+Ron Chernow | Hamilton | r | 06/2018 | N
+Douglas Adams | The Hitchiker's Guide to the Galaxy | rr | 07/2018 | Y
+Douglas Adams | The Restaurant at the End of the Universe | rr | 07/2018 | Y
+Stefan Hertmans | War and Turpentine | r | 07/2018 | Y
+Patrick O'Brian | The Wine Dark Sea | r | 07/2018 | Y

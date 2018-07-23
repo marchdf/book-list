@@ -15,7 +15,6 @@ Camus | l'envers et l'endroit
 Michael Chabon | The Yiddish Policemen's Union
 Checkov | Five Plays
 Ron Chernow | Grant
-Ron Chernow | Hamilton
 Agatha Christie | Death in the Clouds
 Agatha Christie | Murder of Roger Ackroyd
 Covey | Seven habits of highly effective people
@@ -27,7 +26,6 @@ Jonathan Franzen | Freedom
 Malcolm Gladwell | The Tipping Point
 Mohsin Hamid | Exit West
 Herodotus | The Histories
-Stefan Hertmans | War and Turpentine
 Marlon James | A Brief History of Seven Killings
 James Joyce | A Portrait of the Artist as a Young Man
 Barbara Kingsolver | The Bean Trees
@@ -36,14 +34,12 @@ John LeCarre | The Looking Glass War
 John LeCarre | Russia House
 C.S. Lewis | The Great Divorce
 Michael Lewis | Moneyball
-Gabriel Garcia Marquez | Chronicle of a Death Foretold
 Cyril Massarato | 100 pages blanches
 W. Somerset Maugham | Ashenden: Or the British Agent
 W. Somerset Maugham | Of Human Bondage
 Anne McCaffrey | Dragonflight
 China Mieville | The City and the City
 Nabokov | The Real Life of Sebastian Knight
-Patrick O'Brian | The Wine Dark See
 Patrick O'Brian | The Yellow Admiral
 Patrick O'Brian | The Hundred Days
 Patrick O'Brian | Blue at the Mizzen
@@ -52,7 +48,6 @@ DBC Pierre | Vernon God Little
 Edgar Allen Poe | Selected Tale
 Oliver Potzsch | The Hangman's Daughter
 Kim Stanley Robinson | Red Mars
-Marilynne Robinson | Gilead
 Shakespeare | Henry VI (part 1-3)
 Zadie Smith | White Tiger
 Wallace Stegner | Crossing to Safety
