@@ -5,6 +5,7 @@ Author | Title
 Alcott | Little Women
 Isable Allende | The Infinite Plan
 Kate Atkinson | A God in Ruins
+Margaret Atwood | The Handmaid's Tale
 John Banville | The Sea
 Mary Beard | SPQR
 Kate Beaton | Hark! A Vagrant
@@ -34,6 +35,7 @@ John LeCarre | The Looking Glass War
 John LeCarre | Russia House
 C.S. Lewis | The Great Divorce
 Michael Lewis | Moneyball
+Robert Ludlum | Bourne Supremacy
 Cyril Massarato | 100 pages blanches
 W. Somerset Maugham | Ashenden: Or the British Agent
 W. Somerset Maugham | Of Human Bondage

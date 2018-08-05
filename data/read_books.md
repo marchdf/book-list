@@ -629,3 +629,5 @@ Douglas Adams | The Hitchiker's Guide to the Galaxy | rr | 07/2018 | Y
 Douglas Adams | The Restaurant at the End of the Universe | rr | 07/2018 | Y
 Stefan Hertmans | War and Turpentine | r | 07/2018 | Y
 Patrick O'Brian | The Wine Dark Sea | r | 07/2018 | Y
+Douglas E. Richards | Wired | r | 07/2018 | N
+Douglas Adams | Life, the Universe and Everything | rr | 07/2018  | Y

@@ -8,7 +8,6 @@ Chinua Achebe | Things Fall Apart | rec. by Jonathan |
 Eric Ambler | Journey into Fear | spy fiction |
 Kinsgley Amis | Money | mentioned in Art of Fiction |
 anonymous | The Perks of Being a Wallflower | rec. by Kate, Cassie's friend |
-Margaret Atwood | The Handmaid's Tale | |
 Auster | City of Glass | mentioned in Art of Fiction |
 Henri Barbusse | Le Feu | |
 Barrett | Voyage of the Narwhal | rec. by Tom |
@@ -97,7 +96,7 @@ Grimwood | Replay | rec. by Tom |
 Jean-Philippe Jaworski | [Janua Vera +](http://www.cafardcosmique.com/Janua-Vera-de-Jean-Philippe,1306) | rec. by Julien INSA |
 Steven King | Dark Tower | Brandon |
 Ursula K LeGuin | A Wizard of Earthsea | |
-Robert Ludlum | Bourne Supremacy and Bourne Ultimatum | original Bourne
+Robert Ludlum | Bourne Ultimatum | vol 3 of trilogy
 G.R.R Martin  |  | last read = A dance with dragons |
 Robin McKinley | The Hero and the Crown | fantasy rec. by [Vox](http://www.vox.com/2016/5/22/11693132/game-thrones-recs-george-martin-robin-mckinley-megan-whalen-turner-ellen-kushner) |
 Moore | From Hell | comics |

@@ -3,6 +3,7 @@
 Author | Title | Status | Date read | Owned? 
 :------ |:------|:------:|:---------:|:------:
 Douglas Adams | Life, the Universe and Everything | r |  | Y
+Douglas Adams | Life, the Universe and Everything | rr | 07/2018  | Y
 Douglas Adams | Mostly Harmless | r |  | Y
 Douglas Adams | So long, and thanks for all the fish | r |  | Y
 Douglas Adams | The Hitchiker's Guide to the Galaxy | r |  | Y
@@ -492,6 +493,7 @@ Arturo Perez Reverte | The Flanders Panel | r |  | Y
 Gregor Von Rezzori | The Snows of Yesteryear | r | 11/2016 | Y
 Jean Rhys | Wide Sargasso Sea | r |  | Y
 Anne Rice | Interview with a Vampire | r | 09/2010 | Y
+Douglas E. Richards | Wired | r | 07/2018 | N
 Keith Richards | Life | r | 03/2014 | Y
 Tom Robbins | Still Life With Woodpecker | r | 11/2011 | Y
 Marilynne Robinson | Gilead | r | 03/2017 | Y
