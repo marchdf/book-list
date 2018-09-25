@@ -3,7 +3,7 @@
 Author | Title | Status | Date read | Owned? 
 :------ |:------|:------:|:---------:|:------:
 Douglas Adams | Life, the Universe and Everything | r |  | Y
-Douglas Adams | Life, the Universe and Everything | rr | 07/2018  | Y
+Douglas Adams | Life, the Universe and Everything | rr | 07/2018 | Y
 Douglas Adams | Mostly Harmless | r |  | Y
 Douglas Adams | So long, and thanks for all the fish | r |  | Y
 Douglas Adams | The Hitchiker's Guide to the Galaxy | r |  | Y
@@ -30,9 +30,12 @@ Jane Austen | Emma | r |  | Y
 Jane Austen | Pride and Prejudice | r |  | Y
 Jane Austen | Sense and Sensibility | r | 04/2010 | Y
 Mariama Ba | Une Si Longue Lettre | r | 02/2017 | N
+John Banville | The Sea | r | 10/2018 | Y
 Julian Barnes | The Sense of an Ending | r | 02/2014 | Y
 T.A. Barron | The Lost Years of Merlin and some other... | r |  | Y
 Henry Beard | X-treme Latin | r |  | Y
+Mary Beard | SPQR | r | 10/2018 | Y
+Lauren Belfer | City of Light | r | 09/2018 | Y
 Saul Bellow | The Adventures of Augie March | r | 07/2010 | Y
 John Berger | Ways of Seeing | r |  | Y
 William Bernstein | The Four Pillars of Investing | r | 10/2013 | Y
@@ -321,6 +324,7 @@ Jeff Benedict and Armi Keteyan | The System | r | 09/2014 | Y
 Laurie King | Pirate King | r | 10/2017 | N
 Barbara Kingsolver | The Lacuna | r | 08/2012 | Y
 Barbara Kingsolver | The Poissonwood Bible | r | 12/2010 | Y
+Rudyard Kipling | Kim | r | 09/2018 | Y
 Herman Koch | The Dinner | r | 12/2014 | Y
 Arthur Koestler | Darkness at Noon | r |  | Y
 Mark Kublanski | Salt | r | 02/2017 | Y
@@ -353,6 +357,7 @@ Ursula K LeGuin | The Left Hand of Darkness | r | 05/2018 | Y
 Harper Lee | To Kill a Mockinbird | r |  | Y
 Mikhail Lermontov | A Hero of Our Time | r | 07/2016 | Y
 Michael Lewis | Flash Boys | r | 10/2016 | Y
+Michael Lewis | Moneyball | r | 08/2018 | Y
 Alan Lightman | Einstein's Dreams | r |  | Y
 David Lodge | Nice Work | r | 02/2018 | Y
 David Lodge | The Art of Fiction | r | 07/2016 | Y

@@ -131,6 +131,7 @@ Dean King | A Sea of Words | Patrick O'Brian Lexicon |
 D. Lieven | Russia Against Napoleon | War and Peace by a historian |
 Fredrik Logevall | Embers of War | spy WWII, rec. by [the Economist](http://www.economist.com/node/21560841) |
 Macintyre | A Spy Among Friends | Philby, spy non fiction |
+Macintyre | The Spy and the Traitor | spy non fiction, MI6 |
 Mader | Human Biology | biology book in Pati's class |
 Steve McConnell | Code Complete | |
 Alexander McKee | Wreck of the Medusa | rec. by Tom |
