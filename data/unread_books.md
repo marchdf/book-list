@@ -20,7 +20,6 @@ Covey | Seven habits of highly effective people
 Charles Dickens | Dombey and Son
 Anthony Doerr | All The Light We Cannot See
 Faulkner | The Sound and the Fury
-Ford Maddox Ford | The Good Soldier
 Jonathan Franzen | Freedom
 Malcolm Gladwell | The Tipping Point
 Mohsin Hamid | Exit West
@@ -45,7 +44,6 @@ Patrick O'Brian | The Commodore
 DBC Pierre | Vernon God Little
 Edgar Allen Poe | Selected Tale
 Oliver Potzsch | The Hangman's Daughter
-Kim Stanley Robinson | Red Mars
 Shakespeare | Henry VI (part 1-3)
 Zadie Smith | White Tiger
 Wallace Stegner | Crossing to Safety

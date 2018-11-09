@@ -169,6 +169,7 @@ F. Scott Fitzgerald | The Great Gatsby | rr | 01/2011 | Y
 Jonathan Safran Foer | Eating Animals | r | 01/2011 | Y
 Jonathan Safran Foer | Everything is Illuminated | r | 09/2009 | Y
 Jonathan Safran Foer | Extremely Loud and Incredibly Close | r | 09/2010 | Y
+Ford Maddox Ford | The Good Soldier | r | 11/2018 | Y
 E. M. Forster | A Room with a View | r | 09/2016 | Y
 E. M. Forster | Where Angels Fear to Tread | r | 05/2017 | Y
 Fraction | Hawkeye 1 | r | 11/2017 | N
@@ -501,6 +502,7 @@ Anne Rice | Interview with a Vampire | r | 09/2010 | Y
 Douglas E. Richards | Wired | r | 07/2018 | N
 Keith Richards | Life | r | 03/2014 | Y
 Tom Robbins | Still Life With Woodpecker | r | 11/2011 | Y
+Kim Stanley Robinson | Red Mars | r | 10/2018 | Y
 Marilynne Robinson | Gilead | r | 03/2017 | Y
 Patrick Robinson | Kilo Class | r |  | Y
 Patrick Robinson | Nimitz Class | r |  | N
