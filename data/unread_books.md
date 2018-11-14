@@ -41,7 +41,6 @@ Patrick O'Brian | The Yellow Admiral
 Patrick O'Brian | The Hundred Days
 Patrick O'Brian | Blue at the Mizzen
 Patrick O'Brian | The Commodore
-DBC Pierre | Vernon God Little
 Edgar Allen Poe | Selected Tale
 Oliver Potzsch | The Hangman's Daughter
 Shakespeare | Henry VI (part 1-3)

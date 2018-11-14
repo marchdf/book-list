@@ -638,3 +638,4 @@ Mary Beard | SPQR | r | 10/2018 | Y
 John Banville | The Sea | r | 10/2018 | Y
 Kim Stanley Robinson | Red Mars | r | 10/2018 | Y
 Ford Maddox Ford | The Good Soldier | r | 11/2018 | Y
+DBC Pierre | Vernon God Little | r | 11/2018 | Y

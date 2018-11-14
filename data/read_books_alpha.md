@@ -472,6 +472,7 @@ Mervyn Peake | Titus Alone | r | 06/2010 | Y
 Mervyn Peake | Titus Groan | r |  | Y
 Matthew Pearl | The Dante Club | r |  | Y
 Georges Perec | Les Choses | r | 07/2010 | Y
+DBC Pierre | Vernon God Little | r | 11/2018 | Y
 Robert Pirsig | Zen and the Art of Motorcycle Maintenance | r | 08/2011 | Y
 Plato | The Republic | r |  | Y
 Edgar Allan Poe | Selected Tales | r | 06/2012 | Y
