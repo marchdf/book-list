@@ -22,25 +22,26 @@ Anthony Doerr | All The Light We Cannot See
 Faulkner | The Sound and the Fury
 Jonathan Franzen | Freedom
 Malcolm Gladwell | The Tipping Point
+David Grann | Killers of the Flower Moon
 Mohsin Hamid | Exit West
 Herodotus | The Histories
-Marlon James | A Brief History of Seven Killings
 James Joyce | A Portrait of the Artist as a Young Man
+David Kastan | On Color
 Barbara Kingsolver | The Bean Trees
 John LeCarre | The Looking Glass War
 John LeCarre | Russia House
 C.S. Lewis | The Great Divorce
+Malcolm Lowry | Under the Volcano
 Robert Ludlum | Bourne Supremacy
 Cyril Massarato | 100 pages blanches
 W. Somerset Maugham | Ashenden: Or the British Agent
 W. Somerset Maugham | Of Human Bondage
 Anne McCaffrey | Dragonflight
 China Mieville | The City and the City
-Nabokov | The Real Life of Sebastian Knight
 Patrick O'Brian | The Yellow Admiral
 Patrick O'Brian | The Hundred Days
 Patrick O'Brian | Blue at the Mizzen
-Patrick O'Brian | The Commodore
+Tommy Orange | There There
 Edgar Allen Poe | Selected Tale
 Oliver Potzsch | The Hangman's Daughter
 Shakespeare | Henry VI (part 1-3)

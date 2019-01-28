@@ -301,6 +301,7 @@ Brian Jacques | from Redwall to Taggerung | r |  | N
 Henry James | The Aspern Papers | r | 09/2014 | Y
 Henry James | The Portrait of a Lady | r |  | Y
 Henry James | The Turn of the Screw and other short fiction | r | 09/2013 | Y
+Marlon James | A Brief History of Seven Killings | r | 01/2019 | Y
 Jerome K. Jerome | Three Men in a Boat | r |  | Y
 Diane Johnson | Le Divorce | r | 10/2012 | Y
 J.V. Jones | A Cavern of Black Ice | r |  | Y
@@ -323,6 +324,7 @@ Jack Kerouac | On the Road | r | 06/2010 | Y
 Ken Kesey | One Flew Over the Cuckoo's Nest | r |  | Y
 Jeff Benedict and Armi Keteyan | The System | r | 09/2014 | Y
 Laurie King | Pirate King | r | 10/2017 | N
+Stephen King | The Gunslinger (The Dark Tower I) | r | 12/2018 | N
 Barbara Kingsolver | The Lacuna | r | 08/2012 | Y
 Barbara Kingsolver | The Poissonwood Bible | r | 12/2010 | Y
 Rudyard Kipling | Kim | r | 09/2018 | Y
@@ -428,6 +430,7 @@ Haruki Murakami | Hard-Boiled Wonderland and the End of the World | r | 11/2010 
 Haruki Murakami | The Wind-Up Bird Chronicle | r | 10/2009 | Y
 Robert Musil | Young Torless | r |  | Y
 Nabokov | Lolita | r |  | Y
+Vladimir Nabokov | Speak, Memory | r | 11/2018 | Y
 Vladimir Nabokov | The Real Life of Sebastian Knight | r | 09/2012 | Y
 Azar Nafisi | Reading Lolita in Tehran | r |  | Y
 Silvia Nasar | A Beautiful Mind | r |  | Y
@@ -441,6 +444,7 @@ Patrick O'Brian | Desolation Island | rr | 10/2012 | Y
 Patrick O'Brian | HMS Surprise | rr | 03/2012 | Y
 Patrick O'Brian | Master and Commander | rr | 07/2011 | Y
 Patrick O'Brian | Post Captain | rr | 11/2011 | Y
+Patrick O'Brian | The Commodore | rr | 01/2019 | Y
 Patrick O'Brian | The Far Side of the World | rr | 04/2016 | Y
 Patrick O'Brian | The Fortune of War | rr | 08/2013 | Y
 Patrick O'Brian | The Ionian Mission | rr | 04/2014 | Y
@@ -550,6 +554,7 @@ William Shakespeare | The Winter's Tale | r |  | Y
 William Shakespeare | Titus Andronicus | r | 01/2011 | Y
 William Shakespeare | Twelfth Night | r |  | Y
 Shelley | Frankenstein | r |  | Y
+Margot Lee Shetterly | Hidden Figures | r | 12/2018 | N
 Gary Shteyngart | The Russian Debutante's Handbook | r | 02/2013 | Y
 Upton Sinclair | The Jungle | r | 08/2012 | Y
 Jane Smiley | Moo | r |  | Y

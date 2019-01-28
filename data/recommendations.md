@@ -128,15 +128,17 @@ Hitchens | God is not great | rec. by Harish |
 Phil Kay | Redeployement | rec. by Jonathan |
 Kinder | A Ship of Gold in the Deeep Blue Sea | rec. by Tom |
 Dean King | A Sea of Words | Patrick O'Brian Lexicon |
+Robert Kurson | Rocket Men | rec. by Econ and Shashank |
 D. Lieven | Russia Against Napoleon | War and Peace by a historian |
 Fredrik Logevall | Embers of War | spy WWII, rec. by [the Economist](http://www.economist.com/node/21560841) |
 Macintyre | A Spy Among Friends | Philby, spy non fiction |
-Macintyre | The Spy and the Traitor | spy non fiction, MI6 |
+Macintyre | The Spy and the Traitor | spy non fiction, MI6, rec by Econ. |
 Mader | Human Biology | biology book in Pati's class |
 Steve McConnell | Code Complete | |
 Alexander McKee | Wreck of the Medusa | rec. by Tom |
 John Mullan | What Matters in Jane Austen? Twenty Crucial Puzzles Solved | rec. by [the Economist](http://www.economist.com/node/21559309) |
 Clare Mulley | The Spy Who Loved | spy WWII, rec. by [the Economist](http://www.economist.com/node/21560847) |
+Alec Nevala-Lee | Astounding | history of science fiction |
 Nietzsche | Gay Science | |
 Shedroff Noessel | Make it so | rec. by ep. 96 99pi, design in scifi |
 George Orwell | Homage to Catalonia | |

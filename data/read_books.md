@@ -639,3 +639,8 @@ John Banville | The Sea | r | 10/2018 | Y
 Kim Stanley Robinson | Red Mars | r | 10/2018 | Y
 Ford Maddox Ford | The Good Soldier | r | 11/2018 | Y
 DBC Pierre | Vernon God Little | r | 11/2018 | Y
+Vladimir Nabokov | Speak, Memory | r | 11/2018 | Y
+Stephen King | The Gunslinger (The Dark Tower I) | r | 12/2018 | N
+Margot Lee Shetterly | Hidden Figures | r | 12/2018 | N
+Patrick O'Brian | The Commodore | rr | 01/2019 | Y
+Marlon James | A Brief History of Seven Killings | r | 01/2019 | Y
