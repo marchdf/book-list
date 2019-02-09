@@ -644,3 +644,5 @@ Stephen King | The Gunslinger (The Dark Tower I) | r | 12/2018 | N
 Margot Lee Shetterly | Hidden Figures | r | 12/2018 | N
 Patrick O'Brian | The Commodore | rr | 01/2019 | Y
 Marlon James | A Brief History of Seven Killings | r | 01/2019 | Y
+Douglas Adams | So long, and thanks for all the fish | r | 01/2019 | Y
+Agatha Christie | Murder of Roger Ackroyd | r | 02/2019 | Y

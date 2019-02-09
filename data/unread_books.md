@@ -15,7 +15,6 @@ Michael Chabon | The Yiddish Policemen's Union
 Checkov | Five Plays
 Ron Chernow | Grant
 Agatha Christie | Death in the Clouds
-Agatha Christie | Murder of Roger Ackroyd
 Covey | Seven habits of highly effective people
 Charles Dickens | Dombey and Son
 Anthony Doerr | All The Light We Cannot See

@@ -6,6 +6,7 @@ Douglas Adams | Life, the Universe and Everything | r |  | Y
 Douglas Adams | Life, the Universe and Everything | rr | 07/2018 | Y
 Douglas Adams | Mostly Harmless | r |  | Y
 Douglas Adams | So long, and thanks for all the fish | r |  | Y
+Douglas Adams | So long, and thanks for all the fish | r | 01/2019 | Y
 Douglas Adams | The Hitchiker's Guide to the Galaxy | r |  | Y
 Douglas Adams | The Hitchiker's Guide to the Galaxy | rr | 07/2018 | Y
 Douglas Adams | The Long Dark Tea-time of the Soul | r |  | Y
@@ -87,6 +88,7 @@ Michael Chabon | Wonder Boys | r | 10/2015 | Y
 Chantecler | Le Monde en Laboratoir | r |  | Y
 Anton Checkov | Five Plays | r | 12/2013 | Y
 Ron Chernow | Hamilton | r | 06/2018 | N
+Agatha Christie | Murder of Roger Ackroyd | r | 02/2019 | Y
 Agatha Christie | Murder on the Orient Express | r | 04/2018 | Y
 Robert Cialdini | Influence, the Psychology of Persuasion | r | 02/2010 | Y
 Christopher Clark | The Sleepwalkers | r | 08/2017 | Y
