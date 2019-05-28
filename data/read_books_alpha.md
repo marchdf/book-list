@@ -131,6 +131,7 @@ Junot Diaz | The Brief Wondrous Life of Oscar Wao | r | 12/2017 | Y
 Philip K. Dick | Do Androids Dream of Electric Sheep? | r |  | Y
 Charles Dickens | Bleak House | r | 03/2010 | Y
 Charles Dickens | David Copperfield | r |  | N
+Charles Dickens | Dombey and Son | r | 05/2019 | Y
 Charles Dickens | Great Expectations | r |  | Y
 Charles Dickens | Hard Times | r | 06/2012 | Y
 Charles Dickens | Hard Times | rr | 12/2014 | Y
@@ -356,6 +357,7 @@ John LeCarre | The Honourable Schoolboy | rr | 03/2014 | Y
 John LeCarre | The Little Drummer Girl | r |  | Y
 John LeCarre | The Little Drummer Girl | rr | 09/2017 | Y
 John LeCarre | The Russia House | r |  | N
+John LeCarre | The Russia House | rr | 03/2019 | Y
 John LeCarre | The Spy Who Came in From the Cold | r | 08/2013| Y
 John LeCarre | Tinker, Tayor, Soldier, Spy | rr | 07/2012 | Y
 Ursula K LeGuin | The Left Hand of Darkness | r | 05/2018 | Y
@@ -427,6 +429,7 @@ Erin Morgenstern | The Night Circus | r | 07/2017 | Y
 John Mortimer | Clinging to the Wreckage | r | 09/2009 | N
 John Mortimer | The First Rumpole Omnibus | r | 06/2010 | Y
 Daniyal Mueenuddin | In Other Rooms, Other Wonders | r | 10/2012 | N
+Liza Mundy | Code Girls | r | 02/2019 | Y
 Haruki Murakami | 1Q84 | r | 05/2012 | Y
 Haruki Murakami | Hard-Boiled Wonderland and the End of the World | r | 11/2010 | Y
 Haruki Murakami | The Wind-Up Bird Chronicle | r | 10/2009 | Y
@@ -436,6 +439,7 @@ Vladimir Nabokov | Speak, Memory | r | 11/2018 | Y
 Vladimir Nabokov | The Real Life of Sebastian Knight | r | 09/2012 | Y
 Azar Nafisi | Reading Lolita in Tehran | r |  | Y
 Silvia Nasar | A Beautiful Mind | r |  | Y
+Kurt Nassau | The Physics and Chemistry of Color | r | 02/2019 | Y
 Stan Nichols | Orcs | r |  | Y
 Garth Nix | Abhorsen | r |  | Y
 Garth Nix | Lirael | r |  | Y
@@ -470,6 +474,7 @@ George Orwell | 1984 | rr | 01/2013 | Y
 George Orwell | Animal Farm | r |  | Y
 George Orwell | Animal Farm | rr | 08/2010 | Y
 George Orwell | Down and Out in Paris and London | r | 09/2013 | Y
+Delia Owens | Where the Crawdads Sing | r | 05/2019 | Y
 Chuck Palahniuk | Lullaby | r | 10/2010 | Y
 Orhan Pamuk | The Black Book | r | 01/2018 | Y
 Pamela Paul | My Life with Bob | r | 10/2017 | Y

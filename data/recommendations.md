@@ -103,7 +103,7 @@ Moore | From Hell | comics |
 Matthew Quirk | The 500 | rec. by [the Economist](http://www.economist.com/blogs/prospero/2012/07/new-summer-thriller?fsrc=gn_ep) |
 Kim Stanley Robinson | Green Mars, Blue Mars | Babbage says ``exquisite'' |
 Megan Whalen Turner | The Thief | fantasy rec. by [Vox](http://www.vox.com/2016/5/22/11693132/game-thrones-recs-george-martin-robin-mckinley-megan-whalen-turner-ellen-kushner) |
-Brandon Sanderson | The Way of Kings | good series, rec. by Tattered Cover |
+Brandon Sanderson | The Way of Kings | good series, rec. by Tattered Cover and Philip |
 Neal Stephenson | Anathem | rec. by Tattered Cover |
 
 ## Non-fiction

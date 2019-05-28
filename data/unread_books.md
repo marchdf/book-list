@@ -16,7 +16,6 @@ Checkov | Five Plays
 Ron Chernow | Grant
 Agatha Christie | Death in the Clouds
 Covey | Seven habits of highly effective people
-Charles Dickens | Dombey and Son
 Anthony Doerr | All The Light We Cannot See
 Faulkner | The Sound and the Fury
 Jonathan Franzen | Freedom
@@ -28,7 +27,6 @@ James Joyce | A Portrait of the Artist as a Young Man
 David Kastan | On Color
 Barbara Kingsolver | The Bean Trees
 John LeCarre | The Looking Glass War
-John LeCarre | Russia House
 C.S. Lewis | The Great Divorce
 Malcolm Lowry | Under the Volcano
 Robert Ludlum | Bourne Supremacy

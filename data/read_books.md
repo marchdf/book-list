@@ -646,3 +646,8 @@ Patrick O'Brian | The Commodore | rr | 01/2019 | Y
 Marlon James | A Brief History of Seven Killings | r | 01/2019 | Y
 Douglas Adams | So long, and thanks for all the fish | r | 01/2019 | Y
 Agatha Christie | Murder of Roger Ackroyd | r | 02/2019 | Y
+Kurt Nassau | The Physics and Chemistry of Color | r | 02/2019 | Y
+Liza Mundy | Code Girls | r | 02/2019 | Y
+John LeCarre | The Russia House | rr | 03/2019 | Y
+Charles Dickens | Dombey and Son | r | 05/2019 | Y
+Delia Owens | Where the Crawdads Sing | r | 05/2019 | Y
