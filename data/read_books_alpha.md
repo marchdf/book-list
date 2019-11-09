@@ -109,6 +109,7 @@ Joseph Conrad | The Secret Sharer | r | 03/2017 | N
 Frank Conroy | Stop-Time | r |  | Y
 Corneille | Le Cid | r |  | Y
 Bernard Cornwell | Azincourt | r | 06/2014 | Y
+Stephen Crane | The Red Badge of Courage | r | 11/2019 | Y
 Kevin Crossley-Holland | At the Crossing Places | r |  | Y
 Kevin Crossley-Holland | The Seeing Stone | r |  | N
 Thomas D'Agostino | Walking with Giants | r | 01/2013 | Y
@@ -218,6 +219,7 @@ Robert Graves | Wife to Mr Milton | r | 08/2012 | Y
 Graham Greene | Our Man in Havana | r | 03/2012 | Y
 Graham Greene | The End of the Affair | r | 10/2011 | Y
 Graham Greene | The Human Factor | r | 03/2011 | Y
+Graham Greene | The Ministry of Fear | r | 11/2019 | Y
 Graham Greene | The Orient Express | r |  | Y
 Graham Greene | The Power and the Glory | r | 02/2010 | Y
 Graham Greene | The Quiet American | r |  | Y
@@ -261,6 +263,7 @@ Frank Herbert | Heretics of Dune | r |  | Y
 Frank Herbert | The Eyes of Heisenberg | r |  | Y
 Frank Herbert | The Godmakers | r |  | Y
 Frank Herbert | Whipping Star | r |  | Y
+Mick Herron | Slow Horses | r | 09/2019 | N
 Stefan Hertmans | War and Turpentine | r | 07/2018 | Y
 Hesiod | Theogony | r | 11/2010 | Y
 Hesiod | Works and Days | r | 11/2010 | Y
@@ -323,6 +326,7 @@ Robert Jordan | Wheel of Time series until Knife of Dreams | r |  | Y
 Robert Jordan | Winter's Heart | rr | 09/2014 | Y
 Franz Kafka | The Metamorphisis | r |  | Y
 Franz Kafka | The Trial | r |  | N
+David Kastan | On Color | r | 06/2019 | Y
 Jack Kerouac | On the Road | r | 06/2010 | Y
 Ken Kesey | One Flew Over the Cuckoo's Nest | r |  | Y
 Jeff Benedict and Armi Keteyan | The System | r | 09/2014 | Y
@@ -360,6 +364,7 @@ John LeCarre | The Russia House | r |  | N
 John LeCarre | The Russia House | rr | 03/2019 | Y
 John LeCarre | The Spy Who Came in From the Cold | r | 08/2013| Y
 John LeCarre | Tinker, Tayor, Soldier, Spy | rr | 07/2012 | Y
+Ursula K LeGuin | A Wizard of Earthsea | r | 10/2019 | Y
 Ursula K LeGuin | The Left Hand of Darkness | r | 05/2018 | Y
 Harper Lee | To Kill a Mockinbird | r |  | Y
 Mikhail Lermontov | A Hero of Our Time | r | 07/2016 | Y
@@ -395,12 +400,14 @@ G.R.R. Martin | A Storm of Swords I| r |  | Y
 G.R.R. Martin | A Storm of Swords I | rr | 01/2013 | Y
 G.R.R. Martin | A Storm of Swords II| r |  | Y
 George R. R. Martin | A Dance with Dragons | r | 05/2015 | Y
+W. Somerset Maugham | Ashenden: Or the British Agent | r | 06/2019 | Y
 W. Somerset Maugham | Razor's Edge | r | 03/2011 | Y
 William Somerset Maugham | Cakes and Ale | r | 12/2012 | Y
 Maupassant | Le Horla | r |  | Y
 Simon Mawer | Tightrope | r | 12/2016 | Y
 Cormac McCarthy | All the Pretty Horses | r |  | Y
 Cormac McCarthy | All the Pretty Horses | rr | 05/2012 | Y
+Cormac McCarthy | Blood Meridian | r | 10/2019 | Y
 Cormac McCarthy | Cities of the Plain | r |  | N
 Cormac McCarthy | Cities of the Plain | rr | 01/2014 | Y
 Cormac McCarthy | No Country for Old Men | r |  | Y
@@ -415,6 +422,7 @@ Fiona McIntosh | Bridge of Souls | r |  | Y
 Fiona McIntosh | Myrren's Gift | r |  | Y
 Melville | Moby Dick | r |  | Y
 China Mieville | Perdido Street Station | r | 11/2013 | Y
+China Mieville | The City and the City | r | 07/2019 | Y
 Candice Millard | Hero of the Empire | r | 04/2017 | Y
 Frank Miller | A Dame to Kill For | r |  | Y
 Frank Miller | The Hard Goodbye | r |  | Y
@@ -430,6 +438,7 @@ John Mortimer | Clinging to the Wreckage | r | 09/2009 | N
 John Mortimer | The First Rumpole Omnibus | r | 06/2010 | Y
 Daniyal Mueenuddin | In Other Rooms, Other Wonders | r | 10/2012 | N
 Liza Mundy | Code Girls | r | 02/2019 | Y
+Randal Munroe | How To | r | 09/2019 | Y
 Haruki Murakami | 1Q84 | r | 05/2012 | Y
 Haruki Murakami | Hard-Boiled Wonderland and the End of the World | r | 11/2010 | Y
 Haruki Murakami | The Wind-Up Bird Chronicle | r | 10/2009 | Y
@@ -474,6 +483,7 @@ George Orwell | 1984 | rr | 01/2013 | Y
 George Orwell | Animal Farm | r |  | Y
 George Orwell | Animal Farm | rr | 08/2010 | Y
 George Orwell | Down and Out in Paris and London | r | 09/2013 | Y
+Emily Oster | Cribsheet | r | 10/2019 | Y
 Delia Owens | Where the Crawdads Sing | r | 05/2019 | Y
 Chuck Palahniuk | Lullaby | r | 10/2010 | Y
 Orhan Pamuk | The Black Book | r | 01/2018 | Y
@@ -520,6 +530,7 @@ Patrick Robinson | Kilo Class | r |  | Y
 Patrick Robinson | Nimitz Class | r |  | N
 Philip Roth | The Human Stain | r |  | Y
 Philip Roth | The Plot Against America | r |  | Y
+Arundhati Roy | The God of Small Things | r | 08/2019 | Y
 Salman Rushdie | Haroun and the Sea of Stories | r | 04/2013 | Y
 Salman Rushdie | The Satanic Verses | r |  | Y
 Richard Russo | Empire Falls | r | 10/2012 | Y

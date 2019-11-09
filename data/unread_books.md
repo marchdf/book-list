@@ -15,6 +15,7 @@ Michael Chabon | The Yiddish Policemen's Union
 Checkov | Five Plays
 Ron Chernow | Grant
 Agatha Christie | Death in the Clouds
+Liu Cixin | The Three-Body Problem
 Covey | Seven habits of highly effective people
 Anthony Doerr | All The Light We Cannot See
 Faulkner | The Sound and the Fury
@@ -24,17 +25,14 @@ David Grann | Killers of the Flower Moon
 Mohsin Hamid | Exit West
 Herodotus | The Histories
 James Joyce | A Portrait of the Artist as a Young Man
-David Kastan | On Color
 Barbara Kingsolver | The Bean Trees
 John LeCarre | The Looking Glass War
 C.S. Lewis | The Great Divorce
 Malcolm Lowry | Under the Volcano
 Robert Ludlum | Bourne Supremacy
 Cyril Massarato | 100 pages blanches
-W. Somerset Maugham | Ashenden: Or the British Agent
 W. Somerset Maugham | Of Human Bondage
 Anne McCaffrey | Dragonflight
-China Mieville | The City and the City
 Patrick O'Brian | The Yellow Admiral
 Patrick O'Brian | The Hundred Days
 Patrick O'Brian | Blue at the Mizzen

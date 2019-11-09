@@ -651,3 +651,14 @@ Liza Mundy | Code Girls | r | 02/2019 | Y
 John LeCarre | The Russia House | rr | 03/2019 | Y
 Charles Dickens | Dombey and Son | r | 05/2019 | Y
 Delia Owens | Where the Crawdads Sing | r | 05/2019 | Y
+David Kastan | On Color | r | 06/2019 | Y
+W. Somerset Maugham | Ashenden: Or the British Agent | r | 06/2019 | Y
+China Mieville | The City and the City | r | 07/2019 | Y
+Arundhati Roy | The God of Small Things | r | 08/2019 | Y
+Mick Herron | Slow Horses | r | 09/2019 | N
+Randal Munroe | How To | r | 09/2019 | Y
+Cormac McCarthy | Blood Meridian | r | 10/2019 | Y
+Emily Oster | Cribsheet | r | 10/2019 | Y
+Ursula K LeGuin | A Wizard of Earthsea | r | 10/2019 | Y
+Graham Greene | The Ministry of Fear | r | 11/2019 | Y
+Stephen Crane | The Red Badge of Courage | r | 11/2019 | Y

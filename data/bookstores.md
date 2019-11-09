@@ -17,6 +17,7 @@ new books but have some used books.
 - Pegasus Books Downtown - Berkeley
 - Shakespeare and Co - Berkeley
 - Half-Price Books - Dublin
+- Bookmark Bookstore - Oakland
 - Borderlands Books - San Francisco
 - City Lights - San Francisco
 - Dog-eared Books - San Francisco
