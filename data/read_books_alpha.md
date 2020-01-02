@@ -31,6 +31,7 @@ Jane Austen | Emma | r |  | Y
 Jane Austen | Pride and Prejudice | r |  | Y
 Jane Austen | Sense and Sensibility | r | 04/2010 | Y
 Mariama Ba | Une Si Longue Lettre | r | 02/2017 | N
+Colin Bailey | The Magic of Handwriting | r | 11/2019 | Y
 John Banville | The Sea | r | 10/2018 | Y
 Julian Barnes | The Sense of an Ending | r | 02/2014 | Y
 T.A. Barron | The Lost Years of Merlin and some other... | r |  | Y
@@ -40,6 +41,7 @@ Lauren Belfer | City of Light | r | 09/2018 | Y
 Saul Bellow | The Adventures of Augie March | r | 07/2010 | Y
 John Berger | Ways of Seeing | r |  | Y
 William Bernstein | The Four Pillars of Investing | r | 10/2013 | Y
+Isabella Bird | A Lady's Life in the Rocky Mountains | r | 11/2019 | N
 Pierre Bottero | D'un monde à l'autre | r | 01/2018 | N
 Pierre Bottero | Ellana | r | 08/2017 | N
 T.C Boyle | The Tortilla Curtain | r | 09/2011 | Y
@@ -64,6 +66,7 @@ Tim Buckley | Ctrl-alt-del vol 1 to 3 | r |  | Y
 Lois McMaster Bujold | The Curse of Chalion | r |  | Y
 Bulgakov | The Master and Margarita | r |  | Y
 Anthony Burgess | A Clockwork Orange | r |  | Y
+Anna Burns | Milkman | r | 11/2019 | Y
 Edgar Rice Burroughs | Tarzan of the Apes | r | 12/2010 | Y
 Albert Camus | Caligula et Le Malentendu | r |  | Y
 Albert Camus | L'Etranger | r |  | Y
@@ -180,6 +183,7 @@ Fraction | Hawkeye 1 | r | 11/2017 | N
 Fraction | Hawkeye 2 | r | 11/2017 | N
 Fraction | Hawkeye 3 | r | 11/2017 | N
 Fraction | Hawkeye 4 | r | 12/2017 | N
+Brubacker and Fraction | The Immortal Iron Fist | r | 12/2019 | N
 Jonathan Franzen | The Corrections | r | 12/2012 | Y
 Michael Frayn | Copenhagen | r | 04/2010 | N
 Alexandra Fuller | Don't Let's Go to the Dogs Tonight | r | 03/2011 | N
@@ -433,6 +437,9 @@ David Mitchell | The Thousand Autumns of Jacob De Zoet | r | 10/2015 | Y
 David Mitchell | number9dream | r | 04/2017 | Y
 Molière | Les Fourberies de Scapin | r |  | Y
 Montesquieu | Lettres Persannes | r |  | Y
+Alan Moore | V for Vendetta | r |  | N
+Alan Moore | Watchmen | r |  | N
+Alan Moore | Watchmen | rr | 12/2019 | N
 Erin Morgenstern | The Night Circus | r | 07/2017 | Y
 John Mortimer | Clinging to the Wreckage | r | 09/2009 | N
 John Mortimer | The First Rumpole Omnibus | r | 06/2010 | Y

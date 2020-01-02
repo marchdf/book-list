@@ -155,6 +155,8 @@ Herman Hesse | Demian | r |  | Y
 Bertold Brecht | The Treepenny Opera | r |  | Y
 Anne Fadiman | Ex Libris | r |  | Y
 Ngugi Wa Thongo | A Grain of Wheat | r |  | Y
+Alan Moore | V for Vendetta | r |  | N
+Alan Moore | Watchmen | r |  | N
 Jean-Francois Revel | Histoire de la Philosophie Occidentale | r |  | Y
 Bruce Lawrence | The Quran | r |  | Y
 Charles Seife | Zero | r |  | Y
@@ -662,3 +664,8 @@ Emily Oster | Cribsheet | r | 10/2019 | Y
 Ursula K LeGuin | A Wizard of Earthsea | r | 10/2019 | Y
 Graham Greene | The Ministry of Fear | r | 11/2019 | Y
 Stephen Crane | The Red Badge of Courage | r | 11/2019 | Y
+Isabella Bird | A Lady's Life in the Rocky Mountains | r | 11/2019 | N
+Colin Bailey | The Magic of Handwriting | r | 11/2019 | Y
+Anna Burns | Milkman | r | 11/2019 | Y
+Brubacker and Fraction | The Immortal Iron Fist | r | 12/2019 | N
+Alan Moore | Watchmen | rr | 12/2019 | N
