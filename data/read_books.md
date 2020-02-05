@@ -669,3 +669,5 @@ Colin Bailey | The Magic of Handwriting | r | 11/2019 | Y
 Anna Burns | Milkman | r | 11/2019 | Y
 Brubacker and Fraction | The Immortal Iron Fist | r | 12/2019 | N
 Alan Moore | Watchmen | rr | 12/2019 | N
+Margaret Atwood | The Handmaid's Tale | r | 01/2010 | Y
+Alan Moore | From Hell | r | 01/2020 | N

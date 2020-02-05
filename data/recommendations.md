@@ -104,6 +104,7 @@ Kim Stanley Robinson | Green Mars, Blue Mars | Babbage says ``exquisite'' |
 Megan Whalen Turner | The Thief | fantasy rec. by [Vox](http://www.vox.com/2016/5/22/11693132/game-thrones-recs-george-martin-robin-mckinley-megan-whalen-turner-ellen-kushner) |
 Brandon Sanderson | The Way of Kings | good series, rec. by Tattered Cover and Philip |
 Neal Stephenson | Anathem | rec. by Tattered Cover |
+Seishi Yokomizo | The Honjin Murders | rec. by [Economist](https://www.economist.com/books-and-arts/2019/12/18/a-beloved-japanese-detective-at-last-appears-in-english) |
 
 ## Non-fiction
 

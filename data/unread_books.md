@@ -5,7 +5,6 @@ Author | Title
 Alcott | Little Women
 Isable Allende | The Infinite Plan
 Kate Atkinson | A God in Ruins
-Margaret Atwood | The Handmaid's Tale
 Kate Beaton | Hark! A Vagrant
 Samuel Beckett | Waiting for Godot
 Bradbury and Greaves | Emotional Intelligence

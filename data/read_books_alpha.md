@@ -27,6 +27,7 @@ Isaac Asimov | The Stars, Like Dust | r |  | Y
 Kate Atkinson | Life after Life | r | 03/2016 | Y
 Margaret Atwood | Cat's Eye | r | 05/2017 | Y
 Margaret Atwood | The Blind Assassin | r |  | Y
+Margaret Atwood | The Handmaid's Tale | r | 01/2010 | Y
 Jane Austen | Emma | r |  | Y
 Jane Austen | Pride and Prejudice | r |  | Y
 Jane Austen | Sense and Sensibility | r | 04/2010 | Y
@@ -437,6 +438,7 @@ David Mitchell | The Thousand Autumns of Jacob De Zoet | r | 10/2015 | Y
 David Mitchell | number9dream | r | 04/2017 | Y
 Molière | Les Fourberies de Scapin | r |  | Y
 Montesquieu | Lettres Persannes | r |  | Y
+Alan Moore | From Hell | r | 01/2020 | N
 Alan Moore | V for Vendetta | r |  | N
 Alan Moore | Watchmen | r |  | N
 Alan Moore | Watchmen | rr | 12/2019 | N
