@@ -671,3 +671,4 @@ Brubacker and Fraction | The Immortal Iron Fist | r | 12/2019 | N
 Alan Moore | Watchmen | rr | 12/2019 | N
 Margaret Atwood | The Handmaid's Tale | r | 01/2010 | Y
 Alan Moore | From Hell | r | 01/2020 | N
+Owen Matthews | An Impeccable Spy | r | 02/2019 | Y

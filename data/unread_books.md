@@ -31,7 +31,6 @@ C.S. Lewis | The Great Divorce
 Malcolm Lowry | Under the Volcano
 Robert Ludlum | Bourne Supremacy
 Cyril Massarato | 100 pages blanches
-Owen Matthews | An Impeccable Spy
 W. Somerset Maugham | Of Human Bondage
 Anne McCaffrey | Dragonflight
 Patrick O'Brian | The Yellow Admiral
