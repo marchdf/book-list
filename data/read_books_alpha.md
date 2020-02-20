@@ -27,7 +27,7 @@ Isaac Asimov | The Stars, Like Dust | r |  | Y
 Kate Atkinson | Life after Life | r | 03/2016 | Y
 Margaret Atwood | Cat's Eye | r | 05/2017 | Y
 Margaret Atwood | The Blind Assassin | r |  | Y
-Margaret Atwood | The Handmaid's Tale | r | 01/2010 | Y
+Margaret Atwood | The Handmaid's Tale | r | 01/2020 | Y
 Jane Austen | Emma | r |  | Y
 Jane Austen | Pride and Prejudice | r |  | Y
 Jane Austen | Sense and Sensibility | r | 04/2010 | Y
@@ -95,6 +95,7 @@ Ron Chernow | Hamilton | r | 06/2018 | N
 Agatha Christie | Murder of Roger Ackroyd | r | 02/2019 | Y
 Agatha Christie | Murder on the Orient Express | r | 04/2018 | Y
 Robert Cialdini | Influence, the Psychology of Persuasion | r | 02/2010 | Y
+Liu Cixin | The Three-Body Problem | r | 02/2020 | Y
 Christopher Clark | The Sleepwalkers | r | 08/2017 | Y
 Susanna Clarke | Jonathan Strange and Mr. Norrell | r | 03/2011 | Y
 Hugo Claus | Le Chagrin des Belges | r |  | Y
@@ -268,6 +269,7 @@ Frank Herbert | Heretics of Dune | r |  | Y
 Frank Herbert | The Eyes of Heisenberg | r |  | Y
 Frank Herbert | The Godmakers | r |  | Y
 Frank Herbert | Whipping Star | r |  | Y
+Mick Herron | Dead Lions | r | 03/2020 | N
 Mick Herron | Slow Horses | r | 09/2019 | N
 Stefan Hertmans | War and Turpentine | r | 07/2018 | Y
 Hesiod | Theogony | r | 11/2010 | Y
@@ -376,6 +378,7 @@ Mikhail Lermontov | A Hero of Our Time | r | 07/2016 | Y
 Michael Lewis | Flash Boys | r | 10/2016 | Y
 Michael Lewis | Moneyball | r | 08/2018 | Y
 Alan Lightman | Einstein's Dreams | r |  | Y
+Renae De Liz | The Legend of Wonder Woman | r | 02/2020 | N
 David Lodge | Nice Work | r | 02/2018 | Y
 David Lodge | The Art of Fiction | r | 07/2016 | Y
 David Lodge | Therapy | r | 09/2010 | Y
@@ -405,7 +408,7 @@ G.R.R. Martin | A Storm of Swords I| r |  | Y
 G.R.R. Martin | A Storm of Swords I | rr | 01/2013 | Y
 G.R.R. Martin | A Storm of Swords II| r |  | Y
 George R. R. Martin | A Dance with Dragons | r | 05/2015 | Y
-Owen Matthews | An Impeccable Spy | r | 02/2019 | Y
+Owen Matthews | An Impeccable Spy | r | 02/2020 | Y
 W. Somerset Maugham | Ashenden: Or the British Agent | r | 06/2019 | Y
 W. Somerset Maugham | Razor's Edge | r | 03/2011 | Y
 William Somerset Maugham | Cakes and Ale | r | 12/2012 | Y
@@ -429,6 +432,7 @@ Fiona McIntosh | Myrren's Gift | r |  | Y
 Melville | Moby Dick | r |  | Y
 China Mieville | Perdido Street Station | r | 11/2013 | Y
 China Mieville | The City and the City | r | 07/2019 | Y
+Mike Mignola | Hellboy in Hell | r | 03/2020 | N
 Candice Millard | Hero of the Empire | r | 04/2017 | Y
 Frank Miller | A Dame to Kill For | r |  | Y
 Frank Miller | The Hard Goodbye | r |  | Y
@@ -488,6 +492,7 @@ Tim O'Brien | In the Lake of the Woods | r |  | Y
 Tim O'Brien | The Things They Carried | r |  | Y
 Editor Joyce Carrol Oates | The Oxford Book of American Short Stories | r | 11/2010 | Y
 Tea Obreht | The Tiger's Wife | r | 02/2012 | N
+Susan Orlean | The Library Book | r | 03/2020 | Y
 George Orwell | 1984 | r |  | Y
 George Orwell | 1984 | rr | 01/2013 | Y
 George Orwell | Animal Farm | r |  | Y

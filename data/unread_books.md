@@ -14,7 +14,6 @@ Michael Chabon | The Yiddish Policemen's Union
 Checkov | Five Plays
 Ron Chernow | Grant
 Agatha Christie | Death in the Clouds
-Liu Cixin | The Three-Body Problem
 Covey | Seven habits of highly effective people
 Anthony Doerr | All The Light We Cannot See
 Faulkner | The Sound and the Fury
@@ -37,7 +36,6 @@ Patrick O'Brian | The Yellow Admiral
 Patrick O'Brian | The Hundred Days
 Patrick O'Brian | Blue at the Mizzen
 Tommy Orange | There There
-Susan Orlean | The Library Book
 Edgar Allen Poe | Selected Tale
 Oliver Potzsch | The Hangman's Daughter
 Shakespeare | Henry VI (part 1-3)
