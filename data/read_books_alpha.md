@@ -33,6 +33,7 @@ Jane Austen | Pride and Prejudice | r |  | Y
 Jane Austen | Sense and Sensibility | r | 04/2010 | Y
 Mariama Ba | Une Si Longue Lettre | r | 02/2017 | N
 Colin Bailey | The Magic of Handwriting | r | 11/2019 | Y
+Gretchen Bakke | The Grid | r | 04/2020 | N
 John Banville | The Sea | r | 10/2018 | Y
 Julian Barnes | The Sense of an Ending | r | 02/2014 | Y
 T.A. Barron | The Lost Years of Merlin and some other... | r |  | Y
@@ -92,6 +93,7 @@ Michael Chabon | Wonder Boys | r | 10/2015 | Y
 Chantecler | Le Monde en Laboratoir | r |  | Y
 Anton Checkov | Five Plays | r | 12/2013 | Y
 Ron Chernow | Hamilton | r | 06/2018 | N
+Agatha Christie | Death in the Clouds | r | 05/2020 | Y
 Agatha Christie | Murder of Roger Ackroyd | r | 02/2019 | Y
 Agatha Christie | Murder on the Orient Express | r | 04/2018 | Y
 Robert Cialdini | Influence, the Psychology of Persuasion | r | 02/2010 | Y
@@ -248,6 +250,7 @@ Robert Harris | An Officer and a Spy | r | 04/2018 | Y
 Robert Harris | Pompeii | r | 05/2016 | Y
 Stephen Hawking | A Brief History of Time | r |  | Y
 Nathaniel Hawthorne | The Scarlet Letter | r |  | Y
+Robert Heinlein | Stranger in a Strange Land | r | 04/2020 | Y
 Robert Heinlein | The Cat Who Walks Through Walls | r | 10/2016 | Y
 Joseph Heller | Catch-22 | r |  | Y
 Joseph Heller | Closing Time | r |  | Y
@@ -382,6 +385,7 @@ Renae De Liz | The Legend of Wonder Woman | r | 02/2020 | N
 David Lodge | Nice Work | r | 02/2018 | Y
 David Lodge | The Art of Fiction | r | 07/2016 | Y
 David Lodge | Therapy | r | 09/2010 | Y
+Malcolm Lowry | Under the Volcano | r | 05/2020 | Y
 Robert Ludlum | The Bourne Identity | r | 01/2018 | Y
 Maddox | The Alphabet of Manliness | r |  | Y
 Norman Mailer | An American Dream | r |  | Y

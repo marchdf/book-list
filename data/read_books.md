@@ -677,3 +677,7 @@ Renae De Liz | The Legend of Wonder Woman | r | 02/2020 | N
 Susan Orlean | The Library Book | r | 03/2020 | Y
 Mike Mignola | Hellboy in Hell | r | 03/2020 | N
 Mick Herron | Dead Lions | r | 03/2020 | N
+Robert Heinlein | Stranger in a Strange Land | r | 04/2020 | Y
+Gretchen Bakke | The Grid | r | 04/2020 | N
+Agatha Christie | Death in the Clouds | r | 05/2020 | Y
+Malcolm Lowry | Under the Volcano | r | 05/2020 | Y

@@ -13,7 +13,6 @@ Camus | l'envers et l'endroit
 Michael Chabon | The Yiddish Policemen's Union
 Checkov | Five Plays
 Ron Chernow | Grant
-Agatha Christie | Death in the Clouds
 Covey | Seven habits of highly effective people
 Anthony Doerr | All The Light We Cannot See
 Faulkner | The Sound and the Fury
@@ -27,7 +26,6 @@ Barbara Kingsolver | The Bean Trees
 John LeCarre | The Looking Glass War
 Ben Lerner | The Topeka School
 C.S. Lewis | The Great Divorce
-Malcolm Lowry | Under the Volcano
 Robert Ludlum | Bourne Supremacy
 Cyril Massarato | 100 pages blanches
 W. Somerset Maugham | Of Human Bondage
