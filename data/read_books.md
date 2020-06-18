@@ -681,3 +681,5 @@ Robert Heinlein | Stranger in a Strange Land | r | 04/2020 | Y
 Gretchen Bakke | The Grid | r | 04/2020 | N
 Agatha Christie | Death in the Clouds | r | 05/2020 | Y
 Malcolm Lowry | Under the Volcano | r | 05/2020 | Y
+Michelle Obama | Becoming | r | 06/2020 | Y
+Mohsin Hamid | Exit West | r | 06/2020 | Y

@@ -19,7 +19,6 @@ Faulkner | The Sound and the Fury
 Jonathan Franzen | Freedom
 Malcolm Gladwell | The Tipping Point
 David Grann | Killers of the Flower Moon
-Mohsin Hamid | Exit West
 Herodotus | The Histories
 James Joyce | A Portrait of the Artist as a Young Man
 Barbara Kingsolver | The Bean Trees

@@ -235,6 +235,7 @@ Jan Guillou | The Knight Templar | r |  | Y
 Jan Guillou | The Road to Jerusalem | r |  | N
 Peter Guralnick | Sam Phillips | r | 10/2017 | Y
 N. John Hall | Correspondence | r | 10/2012 | N
+Mohsin Hamid | Exit West | r | 06/2020 | Y
 Van Hamme | Largo Winch: La voie et la vertu | r |  | Y
 Dashiell Hammet | The Maltese Falcon | r | 04/2015 | Y
 Dashiell Hammett | Red Harvest | r | 04/2016 | Y
@@ -495,6 +496,7 @@ Tim O'Brien | Going After Cacciato | r | 04/2010 | Y
 Tim O'Brien | In the Lake of the Woods | r |  | Y
 Tim O'Brien | The Things They Carried | r |  | Y
 Editor Joyce Carrol Oates | The Oxford Book of American Short Stories | r | 11/2010 | Y
+Michelle Obama | Becoming | r | 06/2020 | Y
 Tea Obreht | The Tiger's Wife | r | 02/2012 | N
 Susan Orlean | The Library Book | r | 03/2020 | Y
 George Orwell | 1984 | r |  | Y
