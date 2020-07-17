@@ -683,3 +683,9 @@ Agatha Christie | Death in the Clouds | r | 05/2020 | Y
 Malcolm Lowry | Under the Volcano | r | 05/2020 | Y
 Michelle Obama | Becoming | r | 06/2020 | Y
 Mohsin Hamid | Exit West | r | 06/2020 | Y
+David Grann | Killers of the Flower Moon | r | 06/2020 | Y
+Anne McCaffrey | Dragonflight | r | 06/2020 | Y
+Anne McCaffrey | Dragonquest | r | 06/2020 | Y
+Anne McCaffrey | The White Dragon | r | 07/2020 | Y
+Charles Portis | True Grit | r | 07/2020 | N
+Robert Sutton | The No Asshole Rule | r | 07/2020 | N

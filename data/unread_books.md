@@ -18,7 +18,6 @@ Anthony Doerr | All The Light We Cannot See
 Faulkner | The Sound and the Fury
 Jonathan Franzen | Freedom
 Malcolm Gladwell | The Tipping Point
-David Grann | Killers of the Flower Moon
 Herodotus | The Histories
 James Joyce | A Portrait of the Artist as a Young Man
 Barbara Kingsolver | The Bean Trees
@@ -28,7 +27,6 @@ C.S. Lewis | The Great Divorce
 Robert Ludlum | Bourne Supremacy
 Cyril Massarato | 100 pages blanches
 W. Somerset Maugham | Of Human Bondage
-Anne McCaffrey | Dragonflight
 Patrick O'Brian | The Yellow Admiral
 Patrick O'Brian | The Hundred Days
 Patrick O'Brian | Blue at the Mizzen

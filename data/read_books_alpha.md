@@ -214,6 +214,7 @@ Nikolai Gogol | The Diary of a Madman and Other Stories | r | 11/2013 | Y
 Arthur Golden | Memoirs of a Geisha | r |  | Y
 William Golding | Lord of the Flies | r |  | Y
 William Golding | Pincher Martin | r | 09/2016 | Y
+David Grann | Killers of the Flower Moon | r | 06/2020 | Y
 Joseph Graph | Kama | r |  | Y
 Robert Graves | Claudius the God | r |  | Y
 Robert Graves | Claudius the God | rr | 02/2016 | Y
@@ -419,6 +420,9 @@ W. Somerset Maugham | Razor's Edge | r | 03/2011 | Y
 William Somerset Maugham | Cakes and Ale | r | 12/2012 | Y
 Maupassant | Le Horla | r |  | Y
 Simon Mawer | Tightrope | r | 12/2016 | Y
+Anne McCaffrey | Dragonflight | r | 06/2020 | Y
+Anne McCaffrey | Dragonquest | r | 06/2020 | Y
+Anne McCaffrey | The White Dragon | r | 07/2020 | Y
 Cormac McCarthy | All the Pretty Horses | r |  | Y
 Cormac McCarthy | All the Pretty Horses | rr | 05/2012 | Y
 Cormac McCarthy | Blood Meridian | r | 10/2019 | Y
@@ -519,6 +523,7 @@ Robert Pirsig | Zen and the Art of Motorcycle Maintenance | r | 08/2011 | Y
 Plato | The Republic | r |  | Y
 Edgar Allan Poe | Selected Tales | r | 06/2012 | Y
 Michael Pollan | The Omnivore's Dilemma | r | 11/2014 | Y
+Charles Portis | True Grit | r | 07/2020 | N
 Terry Pratchett | Mort | r |  | Y
 Terry Pratchett | Thief of Time | r |  | Y
 Francine Prose | Reading Like a Writer | r | 10/2011 | Y
@@ -614,6 +619,7 @@ Robert Louis Stevenson | The Black Arrow | r | 04/2014 | N
 Robert Louis Stevenson | Treasure Island | r |  | Y
 Bram Stoker | Dracula | r |  | Y
 Elizabeth Strout | The Burgess Boys | r | 12/2017 | Y
+Robert Sutton | The No Asshole Rule | r | 07/2020 | N
 James Swanson | Manhunt | r | 05/2012 | Y
 Jonathan Swift | Gulliver's Travels | r | 10/2010 | Y
 Josephine Tey | The Daughter of Time | r |  | Y
