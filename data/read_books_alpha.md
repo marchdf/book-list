@@ -388,6 +388,7 @@ David Lodge | Nice Work | r | 02/2018 | Y
 David Lodge | The Art of Fiction | r | 07/2016 | Y
 David Lodge | Therapy | r | 09/2010 | Y
 Malcolm Lowry | Under the Volcano | r | 05/2020 | Y
+Robert Ludlum | Bourne Supremacy | r | 08/2020 | Y
 Robert Ludlum | The Bourne Identity | r | 01/2018 | Y
 Maddox | The Alphabet of Manliness | r |  | Y
 Norman Mailer | An American Dream | r |  | Y
@@ -502,6 +503,7 @@ Tim O'Brien | The Things They Carried | r |  | Y
 Editor Joyce Carrol Oates | The Oxford Book of American Short Stories | r | 11/2010 | Y
 Michelle Obama | Becoming | r | 06/2020 | Y
 Tea Obreht | The Tiger's Wife | r | 02/2012 | N
+Tommy Orange | There There | r | 08/2020 | Y
 Susan Orlean | The Library Book | r | 03/2020 | Y
 George Orwell | 1984 | r |  | Y
 George Orwell | 1984 | rr | 01/2013 | Y
@@ -556,6 +558,7 @@ Patrick Robinson | Kilo Class | r |  | Y
 Patrick Robinson | Nimitz Class | r |  | N
 Philip Roth | The Human Stain | r |  | Y
 Philip Roth | The Plot Against America | r |  | Y
+J.K. Rowling | Harry Potter and the Sorcerer's Stone | rrrrrrr | 08/2020 | Y
 Arundhati Roy | The God of Small Things | r | 08/2019 | Y
 Salman Rushdie | Haroun and the Sea of Stories | r | 04/2013 | Y
 Salman Rushdie | The Satanic Verses | r |  | Y

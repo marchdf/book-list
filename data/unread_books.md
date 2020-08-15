@@ -24,13 +24,11 @@ Barbara Kingsolver | The Bean Trees
 John LeCarre | The Looking Glass War
 Ben Lerner | The Topeka School
 C.S. Lewis | The Great Divorce
-Robert Ludlum | Bourne Supremacy
 Cyril Massarato | 100 pages blanches
 W. Somerset Maugham | Of Human Bondage
 Patrick O'Brian | The Yellow Admiral
 Patrick O'Brian | The Hundred Days
 Patrick O'Brian | Blue at the Mizzen
-Tommy Orange | There There
 Edgar Allen Poe | Selected Tale
 Oliver Potzsch | The Hangman's Daughter
 Shakespeare | Henry VI (part 1-3)

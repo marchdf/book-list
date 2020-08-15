@@ -689,3 +689,6 @@ Anne McCaffrey | Dragonquest | r | 06/2020 | Y
 Anne McCaffrey | The White Dragon | r | 07/2020 | Y
 Charles Portis | True Grit | r | 07/2020 | N
 Robert Sutton | The No Asshole Rule | r | 07/2020 | N
+Robert Ludlum | Bourne Supremacy | r | 08/2020 | Y
+J.K. Rowling | Harry Potter and the Sorcerer's Stone | rrrrrrr | 08/2020 | Y
+Tommy Orange | There There | r | 08/2020 | Y
