@@ -692,3 +692,4 @@ Robert Sutton | The No Asshole Rule | r | 07/2020 | N
 Robert Ludlum | Bourne Supremacy | r | 08/2020 | Y
 J.K. Rowling | Harry Potter and the Sorcerer's Stone | rrrrrrr | 08/2020 | Y
 Tommy Orange | There There | r | 08/2020 | Y
+Jo Nesbo | Knife | r | 08/2020 | Y

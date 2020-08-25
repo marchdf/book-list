@@ -473,6 +473,7 @@ Vladimir Nabokov | The Real Life of Sebastian Knight | r | 09/2012 | Y
 Azar Nafisi | Reading Lolita in Tehran | r |  | Y
 Silvia Nasar | A Beautiful Mind | r |  | Y
 Kurt Nassau | The Physics and Chemistry of Color | r | 02/2019 | Y
+Jo Nesbo | Knife | r | 08/2020 | Y
 Stan Nichols | Orcs | r |  | Y
 Garth Nix | Abhorsen | r |  | Y
 Garth Nix | Lirael | r |  | Y
