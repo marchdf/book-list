@@ -496,6 +496,7 @@ Patrick O'Brian | The Surgeon's Mate | rr | 12/2013 | Y
 Patrick O'Brian | The Thirteen Gun Salute | rr | 03/2017 | Y
 Patrick O'Brian | The Truelove | r | 01/2018 | Y
 Patrick O'Brian | The Wine Dark Sea | r | 07/2018 | Y
+Patrick O'Brian | The Yellow Admiral | r | 09/2020 | Y
 Patrick O'Brian | Treason's Harbour | rr | 09/2015 | Y
 Patrick O'Brian | from Master and Commander to the Commodore | r |  | N
 Tim O'Brien | Going After Cacciato | r | 04/2010 | Y

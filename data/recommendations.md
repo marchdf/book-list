@@ -49,6 +49,7 @@ Helen MacInnes | Assignment in Brittany | spy fiction |
 Thomas Malory | La Morte d'Arthur |  |
 Javier Marias | A Heart So White | rec. by mom and Aku |
 Simon Mawer | The Glass Room | shortlisted for Booker |
+Jean-Patrick Manchette | Nada or The Prone Gunman or Three to Kill | rec. [the Economist](https://www.economist.com/books-and-arts/2020/09/03/discover-the-taut-political-thrillers-of-jean-patrick-manchette?frsc=dg|e) |
 Helen McDonald | H is for Hawk | rec. by NYT 2015 Top books |
 Ian McEwan | Nutshell | rec. by Economist |
 James Meek | The Heart Broke In | rec. by economist Dec. 1 2012 |
