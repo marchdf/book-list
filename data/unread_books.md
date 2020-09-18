@@ -35,7 +35,6 @@ Edgar Allen Poe | Selected Tale
 Oliver Potzsch | The Hangman's Daughter
 Shakespeare | Henry VI (part 1-3)
 Zadie Smith | White Tiger
-Wallace Stegner | Crossing to Safety
 Robert Louis Stevenson | The Black Arrow
 Elizabeth Strout | Olive Kitteridge
 Mark Twain | The Best Short Works

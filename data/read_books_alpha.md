@@ -560,6 +560,7 @@ Patrick Robinson | Kilo Class | r |  | Y
 Patrick Robinson | Nimitz Class | r |  | N
 Philip Roth | The Human Stain | r |  | Y
 Philip Roth | The Plot Against America | r |  | Y
+J.K. Rowling | Harry Potter and the Chamber of Secrets | rrrrrrr | 09/2020 | Y
 J.K. Rowling | Harry Potter and the Sorcerer's Stone | rrrrrrr | 08/2020 | Y
 Arundhati Roy | The God of Small Things | r | 08/2019 | Y
 Salman Rushdie | Haroun and the Sea of Stories | r | 04/2013 | Y
@@ -612,6 +613,7 @@ Alexander Solzhenitsyn | One Day in the Life of Ivan Denisovich | r | 06/2010 | 
 Alexandr Solzhenitsyn | The First Circle | r | 01/2010 | Y
 Scott Spencer | A Ship Made of Paper | r | 07/2014 | Y
 Wallace Stegner | Angle of Repose | r | 05/2011 | N
+Wallace Stegner | Crossing to Safety | r | 09/2020 | Y
 John Steinbeck | East of Eden | r | 04/2011 | Y
 John Steinbeck | Of Mice and Men | r |  | Y
 John Steinbeck | The Grapes of Wrath | r |  | Y
