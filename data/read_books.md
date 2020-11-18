@@ -696,3 +696,11 @@ Jo Nesbo | Knife | r | 08/2020 | Y
 Patrick O'Brian | The Yellow Admiral | r | 09/2020 | Y
 J.K. Rowling | Harry Potter and the Chamber of Secrets | rrrrrrr | 09/2020 | Y
 Wallace Stegner | Crossing to Safety | r | 09/2020 | Y
+J.K. Rowling | Harry Potter and the Prisoner of Azkaban | rrrrrrr | 09/2020 | Y
+Emily St John Mandel | The Glass Hotel | r | 09/2020 | Y
+Isable Allende | The Infinite Plan | r | 10/2020 | Y
+J.K. Rowling | Harry Potter and the Goblet of Fire | rrrrrrr | 10/2020 | Y
+Ta-Nehisi Coates | Between the World and Me | r | 10/2020 | N
+Olga Tokarczuk | Drive Your Plow Over the Bones of the Dead | r | 10/2020 | Y
+Donna Tartt | The Goldfinch | r | 11/2020 | Y
+James Baldwin | The Fire Next Time | r | 11/2020 | N

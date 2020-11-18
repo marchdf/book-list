@@ -66,6 +66,7 @@ Yulian Semyonov | Seventeen Moments of Spring | spy fiction |
 Jane Smiley | Some Luck | rec by Aku |
 Kate Summerscale | The Wicked Boy | crime fiction, rec. by Economist |
 John Steinbeck | Log of the Sea of Cortez| rec. by Erik |
+Emily St John Mandel | Station Eleven | |
 Amor Towles | A Gentleman in Moscow | rec. by Kenton |
 Trollope | The way we live now | |
 Brian Van Reet | Spoils | rec by The Economist |

@@ -50,5 +50,5 @@ Turgenev  |
 Maupassant  |
 Hawthorne | 
 Austen |  got Emma, PnP,  SnS
-Smollet  | Humphrey Clinker 
-         | Peregrine Pickle 
+Smollet | Humphrey Clinker
+Smollet | Peregrine Pickle

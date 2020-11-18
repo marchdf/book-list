@@ -3,7 +3,6 @@
 Author | Title 
 :------ |:------
 Alcott | Little Women
-Isable Allende | The Infinite Plan
 Kate Atkinson | A God in Ruins
 Kate Atkinson | Big Sky
 Kate Beaton | Hark! A Vagrant
@@ -27,7 +26,6 @@ John LeCarre | The Looking Glass War
 Ben Lerner | The Topeka School
 C.S. Lewis | The Great Divorce
 Cyril Massarato | 100 pages blanches
-Emily St John Mandel | The Glass Hotel
 W. Somerset Maugham | Of Human Bondage
 Patrick O'Brian | The Hundred Days
 Patrick O'Brian | Blue at the Mizzen

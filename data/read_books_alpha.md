@@ -14,6 +14,7 @@ Douglas Adams | The Restaurant at the End of the Universe | r |  | Y
 Douglas Adams | The Restaurant at the End of the Universe | rr | 07/2018 | Y
 Brian Aldiss | Helliconia Spring | r |  | Y
 Lloyd Alexander | the Chronicles of Prydain | r |  | N
+Isable Allende | The Infinite Plan | r | 10/2020 | Y
 John Altman | A Game of Spies | r |  | Y
 Karen Armstrong | A History of God | r | 12/2009 | Y
 Karen Armstrong | Muhammad | r | 12/2014 | Y
@@ -34,6 +35,7 @@ Jane Austen | Sense and Sensibility | r | 04/2010 | Y
 Mariama Ba | Une Si Longue Lettre | r | 02/2017 | N
 Colin Bailey | The Magic of Handwriting | r | 11/2019 | Y
 Gretchen Bakke | The Grid | r | 04/2020 | N
+James Baldwin | The Fire Next Time | r | 11/2020 | N
 John Banville | The Sea | r | 10/2018 | Y
 Julian Barnes | The Sense of an Ending | r | 02/2014 | Y
 T.A. Barron | The Lost Years of Merlin and some other... | r |  | Y
@@ -105,6 +107,7 @@ James Clavell | Gai-Jin | r |  | Y
 James Clavell | King Rat | r | 08/2009 | Y
 James Clavell | Shogun | r |  | Y
 James Clavell | Tai-Pan | r |  | Y
+Ta-Nehisi Coates | Between the World and Me | r | 10/2020 | N
 Albert Cohen | La Belle du Seigneur | r |  | Y
 Suzanne Collins | Catching Fire | r | 02/2018 | N
 Suzanne Collins | Mockingjay | r | 02/2018 | N
@@ -394,6 +397,7 @@ Maddox | The Alphabet of Manliness | r |  | Y
 Norman Mailer | An American Dream | r |  | Y
 Norman Mailer | The Naked and the Dead | r |  | Y
 Andre Malraux | La Condition Humaine | r |  | Y
+Emily St John Mandel | The Glass Hotel | r | 09/2020 | Y
 Valerio Manfredi | Alexandre le Grand (3 vol.) | r |  | Y
 Thomas Mann | The Holy Sinner | r |  | Y
 Hilary Mantel | A Place of Greater Safety | r | 04/2015 | Y
@@ -561,6 +565,8 @@ Patrick Robinson | Nimitz Class | r |  | N
 Philip Roth | The Human Stain | r |  | Y
 Philip Roth | The Plot Against America | r |  | Y
 J.K. Rowling | Harry Potter and the Chamber of Secrets | rrrrrrr | 09/2020 | Y
+J.K. Rowling | Harry Potter and the Goblet of Fire | rrrrrrr | 10/2020 | Y
+J.K. Rowling | Harry Potter and the Prisoner of Azkaban | rrrrrrr | 09/2020 | Y
 J.K. Rowling | Harry Potter and the Sorcerer's Stone | rrrrrrr | 08/2020 | Y
 Arundhati Roy | The God of Small Things | r | 08/2019 | Y
 Salman Rushdie | Haroun and the Sea of Stories | r | 04/2013 | Y
@@ -629,6 +635,7 @@ Elizabeth Strout | The Burgess Boys | r | 12/2017 | Y
 Robert Sutton | The No Asshole Rule | r | 07/2020 | N
 James Swanson | Manhunt | r | 05/2012 | Y
 Jonathan Swift | Gulliver's Travels | r | 10/2010 | Y
+Donna Tartt | The Goldfinch | r | 11/2020 | Y
 Josephine Tey | The Daughter of Time | r |  | Y
 William Makepeace Thackeray | Vanity Fair | r | 05/2010 | Y
 Richard Thaler | Nudge | r | 11/2013 | N
@@ -637,6 +644,7 @@ Thoreau | Walden | r |  | Y
 Alexis de Tocqueville | De la democratie en Amerique | r |  | Y
 Emmanuel Todd | Apres L'empire | r |  | Y
 Colm Toibin | The Master | r | 01/2013 | Y
+Olga Tokarczuk | Drive Your Plow Over the Bones of the Dead | r | 10/2020 | Y
 JRR Tolkien | Lord of the Rings | r |  | Y
 JRR Tolkien | The Silmarillion | r |  | Y
 JRR Tolkien | The Silmarillion | rrr | 10/2015 | Y
