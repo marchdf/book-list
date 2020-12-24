@@ -94,6 +94,7 @@ Michael Chabon | The Amazing Adventures of Kavalier and Clay | r | 05/2012 | Y
 Michael Chabon | Wonder Boys | r | 10/2015 | Y
 Chantecler | Le Monde en Laboratoir | r |  | Y
 Anton Checkov | Five Plays | r | 12/2013 | Y
+Ron Chernow | Grant | r | 12/2020 | Y
 Ron Chernow | Hamilton | r | 06/2018 | N
 Agatha Christie | Death in the Clouds | r | 05/2020 | Y
 Agatha Christie | Murder of Roger Ackroyd | r | 02/2019 | Y
@@ -566,6 +567,7 @@ Philip Roth | The Human Stain | r |  | Y
 Philip Roth | The Plot Against America | r |  | Y
 J.K. Rowling | Harry Potter and the Chamber of Secrets | rrrrrrr | 09/2020 | Y
 J.K. Rowling | Harry Potter and the Goblet of Fire | rrrrrrr | 10/2020 | Y
+J.K. Rowling | Harry Potter and the Order of the Phoenix | rrrrrrr | 11/2020 | Y
 J.K. Rowling | Harry Potter and the Prisoner of Azkaban | rrrrrrr | 09/2020 | Y
 J.K. Rowling | Harry Potter and the Sorcerer's Stone | rrrrrrr | 08/2020 | Y
 Arundhati Roy | The God of Small Things | r | 08/2019 | Y

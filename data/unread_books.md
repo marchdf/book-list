@@ -12,7 +12,6 @@ Geraldine Brooks | March
 Camus | l'envers et l'endroit
 Michael Chabon | The Yiddish Policemen's Union
 Checkov | Five Plays
-Ron Chernow | Grant
 Covey | Seven habits of highly effective people
 Anthony Doerr | All The Light We Cannot See
 Faulkner | The Sound and the Fury
