@@ -123,6 +123,7 @@ Ernest K. Gann | Fate is the Hunter | rec. by Tom |
 Peter Godfrey-Smith | Other minds : the octopus, the sea, and the deep origins of consciousness | rec. by Alex |
 Greaber | Debt | Kate Green |
 RLG | You Are What you Speak | rec. by Econ 10/12/11 |
+Richard Greene | Russian Roulette: the Life and Times of Graham Greene | |
 David Halberstam | The Coldest Winter | rec. by Tom |
 Chip Heath | Made to stick | rec. by Brandon |
 Laura Hillenbrand | Unbroken | highly rec. by Tom |
