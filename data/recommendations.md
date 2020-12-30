@@ -80,7 +80,6 @@ Stephan Zweig | Beware of Pity | rec. by mom |
 
 Author | Title | Notes |
 :------|:------|:----- |
- | Doom Patrol; Shade, The Changing Girl; Cave Carson Has a Cybernetic Eye; Mother Panic | comics rec. by [Vox](http://www.vox.com/culture/2016/10/13/13256938/gerard-way-young-animal) |
 Isacc Asimov | The Last Question | rec. by TJ |
 Isaac Asimov | Foundation and Earth, Prelude to Foundation, Forward to Foundation, The Galactic Empire Novels (have vol. 1 The Stars, Like Dust) | the ones I am missing |
 Leigh Bardugo | Six of Crows | rec. by Tim Buckley of CAD |
@@ -98,12 +97,9 @@ Steven King | Dark Tower | Brandon |
 Ursula K LeGuin | Earthsea series | have A Wizard of Earthsea |
 Robert Ludlum | Bourne Ultimatum | vol 3 of trilogy
 G.R.R Martin  |  | last read = A dance with dragons |
-Robin McKinley | The Hero and the Crown | fantasy rec. by [Vox](http://www.vox.com/2016/5/22/11693132/game-thrones-recs-george-martin-robin-mckinley-megan-whalen-turner-ellen-kushner) |
 China Mieville | The Scar, Iron Council, King Rat |
-Moore | From Hell | comics |
 Matthew Quirk | The 500 | rec. by [the Economist](http://www.economist.com/blogs/prospero/2012/07/new-summer-thriller?fsrc=gn_ep) |
 Kim Stanley Robinson | Green Mars, Blue Mars | Babbage says ``exquisite'' |
-Megan Whalen Turner | The Thief | fantasy rec. by [Vox](http://www.vox.com/2016/5/22/11693132/game-thrones-recs-george-martin-robin-mckinley-megan-whalen-turner-ellen-kushner) |
 Brandon Sanderson | The Way of Kings | good series, rec. by Tattered Cover and Philip |
 Neal Stephenson | Anathem | rec. by Tattered Cover |
 Seishi Yokomizo | The Honjin Murders | rec. by [Economist](https://www.economist.com/books-and-arts/2019/12/18/a-beloved-japanese-detective-at-last-appears-in-english) |
