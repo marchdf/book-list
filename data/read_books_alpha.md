@@ -492,6 +492,7 @@ Patrick O'Brian | Post Captain | rr | 11/2011 | Y
 Patrick O'Brian | The Commodore | rr | 01/2019 | Y
 Patrick O'Brian | The Far Side of the World | rr | 04/2016 | Y
 Patrick O'Brian | The Fortune of War | rr | 08/2013 | Y
+Patrick O'Brian | The Hundred Days | r | 12/2020 | Y
 Patrick O'Brian | The Ionian Mission | rr | 04/2014 | Y
 Patrick O'Brian | The Letter of Marque | rr | 11/2016 | Y
 Patrick O'Brian | The Mauritius Command | rr | 06/2012 | Y

@@ -29,7 +29,6 @@ C.S. Lewis | The Great Divorce
 Hilary Mantel | The Mirror and the Light
 Cyril Massarato | 100 pages blanches
 W. Somerset Maugham | Of Human Bondage
-Patrick O'Brian | The Hundred Days
 Patrick O'Brian | Blue at the Mizzen
 Edgar Allen Poe | Selected Tale
 Oliver Potzsch | The Hangman's Daughter
