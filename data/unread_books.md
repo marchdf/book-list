@@ -23,7 +23,6 @@ Herodotus | The Histories
 Anthony Horowitz | The Sentence is Death
 James Joyce | A Portrait of the Artist as a Young Man
 Barbara Kingsolver | The Bean Trees
-John LeCarre | The Looking Glass War
 Ben Lerner | The Topeka School
 C.S. Lewis | The Great Divorce
 Hilary Mantel | The Mirror and the Light

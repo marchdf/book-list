@@ -707,3 +707,5 @@ James Baldwin | The Fire Next Time | r | 11/2020 | N
 J.K. Rowling | Harry Potter and the Order of the Phoenix | rrrrrrr | 11/2020 | Y
 Ron Chernow | Grant | r | 12/2020 | Y
 Patrick O'Brian | The Hundred Days | r | 12/2020 | Y
+Claude Steele | Whistling Vivaldi | r | 01/2021 | N
+John LeCarre | The Looking Glass War | r | 01/2021 | Y

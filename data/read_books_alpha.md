@@ -376,6 +376,7 @@ John LeCarre | The Honourable Schoolboy | r |  | N
 John LeCarre | The Honourable Schoolboy | rr | 03/2014 | Y
 John LeCarre | The Little Drummer Girl | r |  | Y
 John LeCarre | The Little Drummer Girl | rr | 09/2017 | Y
+John LeCarre | The Looking Glass War | r | 01/2021 | Y
 John LeCarre | The Russia House | r |  | N
 John LeCarre | The Russia House | rr | 03/2019 | Y
 John LeCarre | The Spy Who Came in From the Cold | r | 08/2013| Y
@@ -621,6 +622,7 @@ Zadie Smith | Swing Time | r | 01/2017 | Y
 Alexander Solzhenitsyn | One Day in the Life of Ivan Denisovich | r | 06/2010 | Y
 Alexandr Solzhenitsyn | The First Circle | r | 01/2010 | Y
 Scott Spencer | A Ship Made of Paper | r | 07/2014 | Y
+Claude Steele | Whistling Vivaldi | r | 01/2021 | N
 Wallace Stegner | Angle of Repose | r | 05/2011 | N
 Wallace Stegner | Crossing to Safety | r | 09/2020 | Y
 John Steinbeck | East of Eden | r | 04/2011 | Y
