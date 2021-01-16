@@ -30,7 +30,6 @@ Cyril Massarato | 100 pages blanches
 W. Somerset Maugham | Of Human Bondage
 Patrick O'Brian | Blue at the Mizzen
 Edgar Allen Poe | Selected Tale
-Oliver Potzsch | The Hangman's Daughter
 Shakespeare | Henry VI (part 1-3)
 Zadie Smith | White Tiger
 Robert Louis Stevenson | The Black Arrow

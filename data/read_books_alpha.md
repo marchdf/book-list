@@ -535,6 +535,7 @@ Plato | The Republic | r |  | Y
 Edgar Allan Poe | Selected Tales | r | 06/2012 | Y
 Michael Pollan | The Omnivore's Dilemma | r | 11/2014 | Y
 Charles Portis | True Grit | r | 07/2020 | N
+Oliver Potzsch | The Hangman's Daughter | r | 01/2021 | Y
 Terry Pratchett | Mort | r |  | Y
 Terry Pratchett | Thief of Time | r |  | Y
 Francine Prose | Reading Like a Writer | r | 10/2011 | Y
