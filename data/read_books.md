@@ -710,3 +710,8 @@ Patrick O'Brian | The Hundred Days | r | 12/2020 | Y
 Claude Steele | Whistling Vivaldi | r | 01/2021 | N
 John LeCarre | The Looking Glass War | r | 01/2021 | Y
 Oliver Potzsch | The Hangman's Daughter | r | 01/2021 | Y
+Michael Chabon | The Yiddish Policemen's Union | r | 01/2021 | Y
+Flea | Acid for the Children | r | 02/2021 | N
+J.K. Rowling | Harry Potter and the Half Blood Prince | 02/2021 | Y
+Anthony Doerr | All The Light We Cannot See | r | 03/2021 | Y
+Anthony Horowitz | The Sentence is Death | r | 03/2021 | Y

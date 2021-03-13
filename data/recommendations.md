@@ -44,10 +44,10 @@ Victor Hugo | Les miserables| |
 Kazuo Ishiguro | Never Let Me Go | [Time top books](http://entertainment.time.com/2009/12/29/the-10-best-books-of-the-decade/#never-let-me-go-2005-by-kazuo-ishiguro-2) |
 Han Kang | The Vegetarian | rec. by Economist |
 Milan Kundera | The Unbearable Lightness of Being | Alicia |
-Erik Larson | Dead Wake | rec. by Louise |
 Helen MacInnes | Assignment in Brittany | spy fiction |
 Thomas Malory | La Morte d'Arthur |  |
 Javier Marias | A Heart So White | rec. by mom and Aku |
+David Maurer | The Dying Place | very hard to find... |
 Simon Mawer | The Glass Room | shortlisted for Booker |
 Jean-Patrick Manchette | Nada or The Prone Gunman or Three to Kill | rec. [the Economist](https://www.economist.com/books-and-arts/2020/09/03/discover-the-taut-political-thrillers-of-jean-patrick-manchette?frsc=dg|e) |
 Helen McDonald | H is for Hawk | rec. by NYT 2015 Top books |
@@ -113,7 +113,6 @@ Beckert | Empire of Cotton | rec. by NYT 2015 Top books |
 David Bellos | Is That a Fish in Your Ear | rec. by Econ 10/12/11 |
 Edward Conard | Unintended Consequences | rec. by [Mankiw](http://gregmankiw.blogspot.com/2012/07/what-ive-been-reading.html) |
 Brian Cox | Quantum Universe | rec. by Econ 10/12/11 |
-Josh Dean | The Taking of K-129 | rec. by Louise |
 Christopher Evans | third reich trilogy | rec. by Jonathan |
 Ernest K. Gann | Fate is the Hunter | rec. by Tom |
 Peter Godfrey-Smith | Other minds : the octopus, the sea, and the deep origins of consciousness | rec. by Alex |
@@ -130,7 +129,6 @@ Dean King | A Sea of Words | Patrick O'Brian Lexicon |
 Robert Kurson | Rocket Men | rec. by Econ and Shashank |
 D. Lieven | Russia Against Napoleon | War and Peace by a historian |
 Fredrik Logevall | Embers of War | spy WWII, rec. by [the Economist](http://www.economist.com/node/21560841) |
-Macintyre | A Spy Among Friends | Philby, spy non fiction |
 Macintyre | The Spy and the Traitor | spy non fiction, MI6, rec by Econ. |
 Mader | Human Biology | biology book in Pati's class |
 Steve McConnell | Code Complete | |

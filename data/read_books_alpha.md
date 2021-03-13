@@ -91,6 +91,7 @@ Eleanor Catton | The Luminaries | r | 03/2018 | Y
 Celine | Voyage au Bout de la Nuit | r |  | Y
 Cervantes | Don Quixote | r |  | Y
 Michael Chabon | The Amazing Adventures of Kavalier and Clay | r | 05/2012 | Y
+Michael Chabon | The Yiddish Policemen's Union | r | 01/2021 | Y
 Michael Chabon | Wonder Boys | r | 10/2015 | Y
 Chantecler | Le Monde en Laboratoir | r |  | Y
 Anton Checkov | Five Plays | r | 12/2013 | Y
@@ -153,6 +154,7 @@ Charles Dickens | Our Mutual Friend | r | 06/2013 | Y
 Charles Dickens | The Pickwick Papers | r |  | Y
 Charles Dickens | The Tale of Two Cities | r |  | Y
 E. L. Doctorow | The March | r | 02/2017 | Y
+Anthony Doerr | All The Light We Cannot See | r | 03/2021 | Y
 Fyodor Dostoyevsky | Crime and Punishment | r |  | Y
 Fyodor Dostoyevsky | The Brothers Karamazov | r |  | Y
 Fyodor Dostoyevsky | The House of the Dead | r | 07/2010 | Y
@@ -181,6 +183,7 @@ Richard Feynman | Surely You're Joking, Mr. Feynman! | r |  | Y
 Richard Feynman | The Meaning of It All | r |  | Y
 F. Scott Fitzgerald | Tender is the Night | r | 12/2009 | Y
 F. Scott Fitzgerald | The Great Gatsby | rr | 01/2011 | Y
+Flea | Acid for the Children | r | 02/2021 | N
 Jonathan Safran Foer | Eating Animals | r | 01/2011 | Y
 Jonathan Safran Foer | Everything is Illuminated | r | 09/2009 | Y
 Jonathan Safran Foer | Extremely Loud and Incredibly Close | r | 09/2010 | Y
@@ -303,6 +306,7 @@ Robin Hobb | The Golden Fool | r |  | Y
 Robin Hobb | The Mad Ship | r |  | Y
 Homer | The Odyssey | r |  | Y
 Anthony Horowitz | Magpie Murders | r | 02/2018 | Y
+Anthony Horowitz | The Sentence is Death | r | 03/2021 | Y
 Khaled Hosseini | The Kite Runner | r | 06/2011 | Y
 Aldous Huxley | Brave New World | r |  | Y
 Aldous Huxley | Eyeless in Gaza | r | 06/2011 | Y
@@ -570,6 +574,7 @@ Philip Roth | The Human Stain | r |  | Y
 Philip Roth | The Plot Against America | r |  | Y
 J.K. Rowling | Harry Potter and the Chamber of Secrets | rrrrrrr | 09/2020 | Y
 J.K. Rowling | Harry Potter and the Goblet of Fire | rrrrrrr | 10/2020 | Y
+J.K. Rowling | Harry Potter and the Half Blood Prince | 02/2021 | Y|
 J.K. Rowling | Harry Potter and the Order of the Phoenix | rrrrrrr | 11/2020 | Y
 J.K. Rowling | Harry Potter and the Prisoner of Azkaban | rrrrrrr | 09/2020 | Y
 J.K. Rowling | Harry Potter and the Sorcerer's Stone | rrrrrrr | 08/2020 | Y
