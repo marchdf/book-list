@@ -715,3 +715,4 @@ Flea | Acid for the Children | r | 02/2021 | N
 J.K. Rowling | Harry Potter and the Half Blood Prince | 02/2021 | Y
 Anthony Doerr | All The Light We Cannot See | r | 03/2021 | Y
 Anthony Horowitz | The Sentence is Death | r | 03/2021 | Y
+David Foster Wallace | Consider the Lobster | r | 03/2021 | Y

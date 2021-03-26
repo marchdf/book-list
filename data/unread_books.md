@@ -34,5 +34,4 @@ Robert Louis Stevenson | The Black Arrow
 Elizabeth Strout | Olive Kitteridge
 Mark Twain | The Best Short Works
 Mark Twain | Letters from Earth
-David Foster Wallace | Consider the Lobster
 Jess Walter | The Cold Millions

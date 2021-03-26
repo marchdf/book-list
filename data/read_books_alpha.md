@@ -675,6 +675,7 @@ John Updike | Rabbit, Run | r | 06/2010 | Y
 Voltaire | Candide | r |  | Y
 Kurt Vonnegut | Cat's Cradle | r | 01/2010 | Y
 Kurt Vonnegut | Slaughterhouse-Five | r |  | Y
+David Foster Wallace | Consider the Lobster | r | 03/2021 | Y
 Robert Penn Warren | All The King's Men | rr | 06/2014 | Y
 Robert Penn Warren | All the King's Men | r |  | Y
 Bill Watterson | The Authorative Calvin and Hobbes | r |  | Y
