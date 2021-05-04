@@ -716,3 +716,6 @@ J.K. Rowling | Harry Potter and the Half Blood Prince | 02/2021 | Y
 Anthony Doerr | All The Light We Cannot See | r | 03/2021 | Y
 Anthony Horowitz | The Sentence is Death | r | 03/2021 | Y
 David Foster Wallace | Consider the Lobster | r | 03/2021 | Y
+Kate Atkinson | A God in Ruins | r | 04/2021 | Y
+Michael Crichton | Jurassic Park | r | 04/2021 | N
+J.K. Rowling | Harry Potter and the Deathly Hallows | 05/2021 | Y

@@ -25,6 +25,7 @@ Isaac Asimov | Foundation's Edge (IV) | r |  | Y
 Isaac Asimov | Second Foundation | r | 06/2010 | Y
 Isaac Asimov | The Second Foundation (III) | r |  | Y
 Isaac Asimov | The Stars, Like Dust | r |  | Y
+Kate Atkinson | A God in Ruins | r | 04/2021 | Y
 Kate Atkinson | Life after Life | r | 03/2016 | Y
 Margaret Atwood | Cat's Eye | r | 05/2017 | Y
 Margaret Atwood | The Blind Assassin | r |  | Y
@@ -122,6 +123,7 @@ Frank Conroy | Stop-Time | r |  | Y
 Corneille | Le Cid | r |  | Y
 Bernard Cornwell | Azincourt | r | 06/2014 | Y
 Stephen Crane | The Red Badge of Courage | r | 11/2019 | Y
+Michael Crichton | Jurassic Park | r | 04/2021 | N
 Kevin Crossley-Holland | At the Crossing Places | r |  | Y
 Kevin Crossley-Holland | The Seeing Stone | r |  | N
 Thomas D'Agostino | Walking with Giants | r | 01/2013 | Y
@@ -573,6 +575,7 @@ Patrick Robinson | Nimitz Class | r |  | N
 Philip Roth | The Human Stain | r |  | Y
 Philip Roth | The Plot Against America | r |  | Y
 J.K. Rowling | Harry Potter and the Chamber of Secrets | rrrrrrr | 09/2020 | Y
+J.K. Rowling | Harry Potter and the Deathly Hallows | 05/2021 | Y|
 J.K. Rowling | Harry Potter and the Goblet of Fire | rrrrrrr | 10/2020 | Y
 J.K. Rowling | Harry Potter and the Half Blood Prince | 02/2021 | Y|
 J.K. Rowling | Harry Potter and the Order of the Phoenix | rrrrrrr | 11/2020 | Y

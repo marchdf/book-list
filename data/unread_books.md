@@ -3,7 +3,6 @@
 Author | Title 
 :------ |:------
 Alcott | Little Women
-Kate Atkinson | A God in Ruins
 Kate Atkinson | Big Sky
 Kate Beaton | Hark! A Vagrant
 Samuel Beckett | Waiting for Godot
