@@ -52,6 +52,7 @@ Simon Mawer | The Glass Room | shortlisted for Booker |
 Jean-Patrick Manchette | Nada or The Prone Gunman or Three to Kill | rec. [the Economist](https://www.economist.com/books-and-arts/2020/09/03/discover-the-taut-political-thrillers-of-jean-patrick-manchette?frsc=dg|e) |
 Helen McDonald | H is for Hawk | rec. by NYT 2015 Top books |
 Ian McEwan | Nutshell | rec. by Economist |
+Larry McMurtry | Dead Man's Walk, Comanche Moon, Streets of Laredo | |
 James Meek | The Heart Broke In | rec. by economist Dec. 1 2012 |
 A.D. Miller | Snowdrops | rec. by Econ 10/12/11 |
 Jan Morris | Conundrum |  rec. by mom |

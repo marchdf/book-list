@@ -12,6 +12,8 @@
 ## Lists
 - [Francine Prose](http://www.giraffedays.com?page_id=5899)
 - [Powells, Portland](http://www.powells.com/staff-picks)
+- [NPR best SciFi and Fantasy (2011)](https://www.npr.org/2011/08/11/139085843/your-picks-top-100-science-fiction-fantasy-books)
+- [NPR best SciFi and Fantasy of last decade](https://www.npr.org/2021/08/18/1027159166/best-books-science-fiction-fantasy-past-decade)
 
 ## Consensus cloud
 <img src="./information_is_beautiful_checked.png" alt="consensus cloud" width="800">

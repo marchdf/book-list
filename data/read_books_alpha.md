@@ -65,6 +65,7 @@ Geraldine Brooks | Nine Parts of Desire | r | 10/2017 | N
 Terry Brooks | Jarka Ruus | r |  | Y
 Terry Brooks | Original Shannara Trilogy, Heritage of Shannara Tetralogy, Prequel to the Original Shannara Trilogy, Voyage of the Jerle Shannara, Magic Kingdom of Landover (from Magic Kingdom for Sale -- Sold! to Wizard at Large) | r |  | N
 Terry Brooks | Tanequil | r |  | Y
+Craig Brown | 150 Glimpses of the Beatles | 05/2021 | Y|
 Daniel James Brown | The Boys in the Boat | r | 05/2016 | Y
 Bill Bryson | Shakespeare | r |  | Y
 Tim Buckley | Ctrl-alt-del vol 1 to 3 | r |  | Y
@@ -186,6 +187,7 @@ Richard Feynman | The Meaning of It All | r |  | Y
 F. Scott Fitzgerald | Tender is the Night | r | 12/2009 | Y
 F. Scott Fitzgerald | The Great Gatsby | rr | 01/2011 | Y
 Flea | Acid for the Children | r | 02/2021 | N
+Ian Fleming | Moonraker | 09/2021 | N|
 Jonathan Safran Foer | Eating Animals | r | 01/2011 | Y
 Jonathan Safran Foer | Everything is Illuminated | r | 09/2009 | Y
 Jonathan Safran Foer | Extremely Loud and Incredibly Close | r | 09/2010 | Y
@@ -295,6 +297,7 @@ Weis and Hickman | Dragonlance Legends (3 vol.)| r |  | Y
 Weis and Hickman | Heroes vol 1 | r |  | Y
 Weis and Hickman | Tales (3 vol.) | r |  | Y
 Weis and Hicman | Preludes II vol.3 | r |  | Y
+Patricia Highsmith | The Talented Mr Ripley | 05/2021 | N|
 Robin Hobb | Assassin's Apprentice | r |  | Y
 Robin Hobb | Assassin's Quest | r |  | Y
 Robin Hobb | Fool's Errand | r |  | Y
@@ -399,8 +402,10 @@ David Lodge | Nice Work | r | 02/2018 | Y
 David Lodge | The Art of Fiction | r | 07/2016 | Y
 David Lodge | Therapy | r | 09/2010 | Y
 Malcolm Lowry | Under the Volcano | r | 05/2020 | Y
-Robert Ludlum | Bourne Supremacy | r | 08/2020 | Y
 Robert Ludlum | The Bourne Identity | r | 01/2018 | Y
+Robert Ludlum | The Bourne Supremacy | r | 08/2020 | Y
+Robert Ludlum | The Bourne Ultimatum | r | 06/2021 | N
+Ben Macintyre | A Spy Among Friends | 09/2021 | Y|
 Maddox | The Alphabet of Manliness | r |  | Y
 Norman Mailer | An American Dream | r |  | Y
 Norman Mailer | The Naked and the Dead | r |  | Y
@@ -429,6 +434,7 @@ G.R.R. Martin | A Storm of Swords II| r |  | Y
 George R. R. Martin | A Dance with Dragons | r | 05/2015 | Y
 Owen Matthews | An Impeccable Spy | r | 02/2020 | Y
 W. Somerset Maugham | Ashenden: Or the British Agent | r | 06/2019 | Y
+W. Somerset Maugham | Of Human Bondage | r | 09/2021 | Y
 W. Somerset Maugham | Razor's Edge | r | 03/2011 | Y
 William Somerset Maugham | Cakes and Ale | r | 12/2012 | Y
 Maupassant | Le Horla | r |  | Y
@@ -451,6 +457,7 @@ Jay McInerney | Bright Lights Big City | r | 12/2011 | Y
 Fiona McIntosh | Blood and Memory | r |  | Y
 Fiona McIntosh | Bridge of Souls | r |  | Y
 Fiona McIntosh | Myrren's Gift | r |  | Y
+Larry McMurtry | Lonesome Dove | r | 08/2021 | N
 Melville | Moby Dick | r |  | Y
 China Mieville | Perdido Street Station | r | 11/2013 | Y
 China Mieville | The City and the City | r | 07/2019 | Y
@@ -486,6 +493,7 @@ Azar Nafisi | Reading Lolita in Tehran | r |  | Y
 Silvia Nasar | A Beautiful Mind | r |  | Y
 Kurt Nassau | The Physics and Chemistry of Color | r | 02/2019 | Y
 Jo Nesbo | Knife | r | 08/2020 | Y
+Viet Thanh Nguyen | The Sympathizer | r | 07/2021 | N
 Stan Nichols | Orcs | r |  | Y
 Garth Nix | Abhorsen | r |  | Y
 Garth Nix | Lirael | r |  | Y
@@ -679,6 +687,7 @@ Voltaire | Candide | r |  | Y
 Kurt Vonnegut | Cat's Cradle | r | 01/2010 | Y
 Kurt Vonnegut | Slaughterhouse-Five | r |  | Y
 David Foster Wallace | Consider the Lobster | r | 03/2021 | Y
+Bruce Conforth & Gayle Dean Wardlow | Up Jumped the Devil | 08/2021 | N|
 Robert Penn Warren | All The King's Men | rr | 06/2014 | Y
 Robert Penn Warren | All the King's Men | r |  | Y
 Bill Watterson | The Authorative Calvin and Hobbes | r |  | Y
@@ -694,6 +703,7 @@ Bernard Werber | La Revolution des Fourmis | r |  | N
 Bernard Werber | Le Jour des Fourmis | r |  | N
 Bernard Werber | Les Fourmis | r |  | Y
 Bernard Werber | Les Thanatonautes | r |  | Y
+Tara Westover | Educated | 05/2012 | N|
 Edith Wharton | The Age of Innocence | r |  | Y
 Edith Wharton | The House of Mirth | r |  | Y
 Oscar Wilde | The Importance of Being Earnest and Other Plays | r |  | Y

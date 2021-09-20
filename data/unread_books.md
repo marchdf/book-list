@@ -8,7 +8,6 @@ Kate Beaton | Hark! A Vagrant
 Samuel Beckett | Waiting for Godot
 Bradbury and Greaves | Emotional Intelligence
 Geraldine Brooks | March
-Craig Brown | 150 Glimpses of the Beatles
 Camus | l'envers et l'endroit
 Checkov | Five Plays
 Covey | Seven habits of highly effective people
@@ -18,14 +17,17 @@ Jonathan Franzen | Freedom
 Malcolm Gladwell | The Tipping Point
 Herodotus | The Histories
 James Joyce | A Portrait of the Artist as a Young Man
+Steven King | The Drawing of the Three
 Barbara Kingsolver | The Bean Trees
 Ben Lerner | The Topeka School
 C.S. Lewis | The Great Divorce
-Macintyre | A Spy Among Friends
+Ben Macintyre | The Spy and The Traitor
 Hilary Mantel | The Mirror and the Light
 Cyril Massarato | 100 pages blanches
-W. Somerset Maugham | Of Human Bondage
+David Mitchell | The Bone Clocks
+Joyce Carol Oates | We Were the Mulvaneys
 Patrick O'Brian | Blue at the Mizzen
+Michael Ondaatje | The Cat's Table
 Edgar Allen Poe | Selected Tale
 Shakespeare | Henry VI (part 1-3)
 Zadie Smith | White Tiger

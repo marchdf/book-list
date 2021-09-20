@@ -689,7 +689,7 @@ Anne McCaffrey | Dragonquest | r | 06/2020 | Y
 Anne McCaffrey | The White Dragon | r | 07/2020 | Y
 Charles Portis | True Grit | r | 07/2020 | N
 Robert Sutton | The No Asshole Rule | r | 07/2020 | N
-Robert Ludlum | Bourne Supremacy | r | 08/2020 | Y
+Robert Ludlum | The Bourne Supremacy | r | 08/2020 | Y
 J.K. Rowling | Harry Potter and the Sorcerer's Stone | rrrrrrr | 08/2020 | Y
 Tommy Orange | There There | r | 08/2020 | Y
 Jo Nesbo | Knife | r | 08/2020 | Y
@@ -719,3 +719,13 @@ David Foster Wallace | Consider the Lobster | r | 03/2021 | Y
 Kate Atkinson | A God in Ruins | r | 04/2021 | Y
 Michael Crichton | Jurassic Park | r | 04/2021 | N
 J.K. Rowling | Harry Potter and the Deathly Hallows | 05/2021 | Y
+Patricia Highsmith | The Talented Mr Ripley | 05/2021 | N
+Craig Brown | 150 Glimpses of the Beatles | 05/2021 | Y
+Tara Westover | Educated | 05/2012 | N
+Robert Ludlum | The Bourne Ultimatum | r | 06/2021 | N
+Viet Thanh Nguyen | The Sympathizer | r | 07/2021 | N
+Larry McMurtry | Lonesome Dove | r | 08/2021 | N
+Bruce Conforth & Gayle Dean Wardlow | Up Jumped the Devil | 08/2021 | N
+Ben Macintyre | A Spy Among Friends | 09/2021 | Y
+Ian Fleming | Moonraker | 09/2021 | N
+W. Somerset Maugham | Of Human Bondage | r | 09/2021 | Y
