@@ -106,6 +106,7 @@ Robert Cialdini | Influence, the Psychology of Persuasion | r | 02/2010 | Y
 Liu Cixin | The Three-Body Problem | r | 02/2020 | Y
 Christopher Clark | The Sleepwalkers | r | 08/2017 | Y
 Susanna Clarke | Jonathan Strange and Mr. Norrell | r | 03/2011 | Y
+Susanna Clarke | Piranesi | r | 10/2021 | N
 Hugo Claus | Le Chagrin des Belges | r |  | Y
 James Clavell | Gai-Jin | r |  | Y
 James Clavell | King Rat | r | 08/2009 | Y
@@ -333,6 +334,7 @@ Henry James | The Aspern Papers | r | 09/2014 | Y
 Henry James | The Portrait of a Lady | r |  | Y
 Henry James | The Turn of the Screw and other short fiction | r | 09/2013 | Y
 Marlon James | A Brief History of Seven Killings | r | 01/2019 | Y
+N. K Jemisin | The Fifth Season | r | 10/2021 | N
 Jerome K. Jerome | Three Men in a Boat | r |  | Y
 Diane Johnson | Le Divorce | r | 10/2012 | Y
 J.V. Jones | A Cavern of Black Ice | r |  | Y
@@ -580,6 +582,7 @@ Kim Stanley Robinson | Red Mars | r | 10/2018 | Y
 Marilynne Robinson | Gilead | r | 03/2017 | Y
 Patrick Robinson | Kilo Class | r |  | Y
 Patrick Robinson | Nimitz Class | r |  | N
+Adam Rogers | Full Spectrum | r | 10/2021 | N
 Philip Roth | The Human Stain | r |  | Y
 Philip Roth | The Plot Against America | r |  | Y
 J.K. Rowling | Harry Potter and the Chamber of Secrets | rrrrrrr | 09/2020 | Y

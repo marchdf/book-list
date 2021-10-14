@@ -729,3 +729,6 @@ Bruce Conforth & Gayle Dean Wardlow | Up Jumped the Devil | 08/2021 | N
 Ben Macintyre | A Spy Among Friends | 09/2021 | Y
 Ian Fleming | Moonraker | 09/2021 | N
 W. Somerset Maugham | Of Human Bondage | r | 09/2021 | Y
+N. K Jemisin | The Fifth Season | r | 10/2021 | N
+Adam Rogers | Full Spectrum | r | 10/2021 | N
+Susanna Clarke | Piranesi | r | 10/2021 | N
