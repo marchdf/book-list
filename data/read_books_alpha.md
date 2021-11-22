@@ -335,6 +335,8 @@ Henry James | The Portrait of a Lady | r |  | Y
 Henry James | The Turn of the Screw and other short fiction | r | 09/2013 | Y
 Marlon James | A Brief History of Seven Killings | r | 01/2019 | Y
 N. K Jemisin | The Fifth Season | r | 10/2021 | N
+N. K Jemisin | The Obelisk Gate | r | 10/2021 | N
+N. K Jemisin | The Stone Sky | r | 11/2021 | N
 Jerome K. Jerome | Three Men in a Boat | r |  | Y
 Diane Johnson | Le Divorce | r | 10/2012 | Y
 J.V. Jones | A Cavern of Black Ice | r |  | Y
@@ -522,6 +524,7 @@ Patrick O'Brian | The Wine Dark Sea | r | 07/2018 | Y
 Patrick O'Brian | The Yellow Admiral | r | 09/2020 | Y
 Patrick O'Brian | Treason's Harbour | rr | 09/2015 | Y
 Patrick O'Brian | from Master and Commander to the Commodore | r |  | N
+Keith O'Brien | Fly Girls | 11/2021 | N|
 Tim O'Brien | Going After Cacciato | r | 04/2010 | Y
 Tim O'Brien | In the Lake of the Woods | r |  | Y
 Tim O'Brien | The Things They Carried | r |  | Y
@@ -726,6 +729,7 @@ Tom Wolfe | The Bonfire of the Vanities | r | 02/2010 | Y
 Tom Wolfe | The Electric Kool-Aid Acid Test | r | 12/2013 | Y
 Tobias Wolff | Old School | r |  | Y
 Tobias Wolff | This Boy's Life | r |  | Y
+Nigel Poor and Erlonne Woods | This is Ear Hustle | r | 11/2021 | Y
 Virginia Woolf | Mrs Dalloway | r |  | Y
 Virginia Woolf | To The Lighthouse | r | 05/2014 | Y
 Mo Yan | Frog | r | 10/2016 | Y
