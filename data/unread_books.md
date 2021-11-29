@@ -31,6 +31,7 @@ Michael Ondaatje | The Cat's Table
 Edgar Allen Poe | Selected Tale
 Shakespeare | Henry VI (part 1-3)
 Zadie Smith | White Tiger
+Neal Stephenson | Cryptonomicon
 Robert Louis Stevenson | The Black Arrow
 Elizabeth Strout | Olive Kitteridge
 Mark Twain | The Best Short Works

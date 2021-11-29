@@ -414,6 +414,7 @@ Maddox | The Alphabet of Manliness | r |  | Y
 Norman Mailer | An American Dream | r |  | Y
 Norman Mailer | The Naked and the Dead | r |  | Y
 Andre Malraux | La Condition Humaine | r |  | Y
+Emily St John Mandel | Station Eleven | 11/2021 | N|
 Emily St John Mandel | The Glass Hotel | r | 09/2020 | Y
 Valerio Manfredi | Alexandre le Grand (3 vol.) | r |  | Y
 Thomas Mann | The Holy Sinner | r |  | Y
