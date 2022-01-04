@@ -8,6 +8,7 @@ Kate Beaton | Hark! A Vagrant
 Samuel Beckett | Waiting for Godot
 Bradbury and Greaves | Emotional Intelligence
 Geraldine Brooks | March
+Ronald Brownstein | Rock Me on the Water
 Camus | l'envers et l'endroit
 Checkov | Five Plays
 Covey | Seven habits of highly effective people
@@ -36,4 +37,3 @@ Robert Louis Stevenson | The Black Arrow
 Elizabeth Strout | Olive Kitteridge
 Mark Twain | The Best Short Works
 Mark Twain | Letters from Earth
-Jess Walter | The Cold Millions

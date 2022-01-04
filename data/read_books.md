@@ -737,3 +737,6 @@ Nigel Poor and Erlonne Woods | This is Ear Hustle | r | 11/2021 | Y
 N. K Jemisin | The Stone Sky | r | 11/2021 | N
 Keith O'Brien | Fly Girls | 11/2021 | N
 Emily St John Mandel | Station Eleven | 11/2021 | N
+Arkady Martine | A Memory Called Empire | 12/2021 | N
+T. C. Boyle | East is East | 12/2021 | N
+Jess Walter | The Cold Millions | 01/2022 | Y
