@@ -2,6 +2,7 @@
 
 Author | Title | Status | Date read | Owned? 
 :------ |:------|:------:|:---------:|:------:
+Joe Abercrombie | The Blade Itself | 01/2022 | N|
 Douglas Adams | Life, the Universe and Everything | r |  | Y
 Douglas Adams | Life, the Universe and Everything | rr | 07/2018 | Y
 Douglas Adams | Mostly Harmless | r |  | Y
@@ -49,6 +50,7 @@ William Bernstein | The Four Pillars of Investing | r | 10/2013 | Y
 Isabella Bird | A Lady's Life in the Rocky Mountains | r | 11/2019 | N
 Pierre Bottero | D'un monde à l'autre | r | 01/2018 | N
 Pierre Bottero | Ellana | r | 08/2017 | N
+T. C. Boyle | East is East | 12/2021 | N|
 T.C Boyle | The Tortilla Curtain | r | 09/2011 | Y
 Ray Bradbury | Fahrenheit 451 | r |  | N
 Ray Bradbury | Fahrenheit 451 | rr | 10/2011 | Y
@@ -157,6 +159,7 @@ Charles Dickens | Oliver Twist | r |  | Y
 Charles Dickens | Our Mutual Friend | r | 06/2013 | Y
 Charles Dickens | The Pickwick Papers | r |  | Y
 Charles Dickens | The Tale of Two Cities | r |  | Y
+Seth Dickinson | The Traitor Baru Cormorant | 01/2022 | N|
 E. L. Doctorow | The March | r | 02/2017 | Y
 Anthony Doerr | All The Light We Cannot See | r | 03/2021 | Y
 Fyodor Dostoyevsky | Crime and Punishment | r |  | Y
@@ -437,6 +440,8 @@ G.R.R. Martin | A Storm of Swords I| r |  | Y
 G.R.R. Martin | A Storm of Swords I | rr | 01/2013 | Y
 G.R.R. Martin | A Storm of Swords II| r |  | Y
 George R. R. Martin | A Dance with Dragons | r | 05/2015 | Y
+Arkady Martine | A Desolation Called Peace | 01/2022 | N|
+Arkady Martine | A Memory Called Empire | 12/2021 | N|
 Owen Matthews | An Impeccable Spy | r | 02/2020 | Y
 W. Somerset Maugham | Ashenden: Or the British Agent | r | 06/2019 | Y
 W. Somerset Maugham | Of Human Bondage | r | 09/2021 | Y
@@ -694,6 +699,7 @@ Voltaire | Candide | r |  | Y
 Kurt Vonnegut | Cat's Cradle | r | 01/2010 | Y
 Kurt Vonnegut | Slaughterhouse-Five | r |  | Y
 David Foster Wallace | Consider the Lobster | r | 03/2021 | Y
+Jess Walter | The Cold Millions | 01/2022 | Y|
 Bruce Conforth & Gayle Dean Wardlow | Up Jumped the Devil | 08/2021 | N|
 Robert Penn Warren | All The King's Men | rr | 06/2014 | Y
 Robert Penn Warren | All the King's Men | r |  | Y

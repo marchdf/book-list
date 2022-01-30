@@ -740,3 +740,6 @@ Emily St John Mandel | Station Eleven | 11/2021 | N
 Arkady Martine | A Memory Called Empire | 12/2021 | N
 T. C. Boyle | East is East | 12/2021 | N
 Jess Walter | The Cold Millions | 01/2022 | Y
+Arkady Martine | A Desolation Called Peace | 01/2022 | N
+Joe Abercrombie | The Blade Itself | 01/2022 | N
+Seth Dickinson | The Traitor Baru Cormorant | 01/2022 | N

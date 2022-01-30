@@ -37,3 +37,4 @@ Robert Louis Stevenson | The Black Arrow
 Elizabeth Strout | Olive Kitteridge
 Mark Twain | The Best Short Works
 Mark Twain | Letters from Earth
+John Williams | Augustus
