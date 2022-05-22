@@ -2,7 +2,9 @@
 
 Author | Title | Status | Date read | Owned? 
 :------ |:------|:------:|:---------:|:------:
+Joe Abercrombie | Before They Are Hanged | 02/2022 | N|
 Joe Abercrombie | The Blade Itself | 01/2022 | N|
+Joe Abercrombie | The Last Argument of Kings | 03/2022 | N|
 Douglas Adams | Life, the Universe and Everything | r |  | Y
 Douglas Adams | Life, the Universe and Everything | rr | 07/2018 | Y
 Douglas Adams | Mostly Harmless | r |  | Y
@@ -85,6 +87,7 @@ Truman Capote | In Cold Blood | r |  | Y
 Orson Scott Card | Ender's Game | r | 07/2012 | Y
 Peter Carey | Oscar and Lucinda | r | 11/2012 | Y
 Peter Carey | True History of the Kelley Gang | r | 10/2011 | Y
+John Carreyrou | Bad Blood | 02/2022 | N|
 Lewis Carroll | Alice's Adventures in Wonderland | r | 04/2010 | Y
 Lewis Carroll | The Annotated Alice (Alice in Wonderland) | rr | 12/2016 | Y
 Lewis Carroll | Through the Looking-Glass | r | 04/2010 | Y
@@ -159,7 +162,9 @@ Charles Dickens | Oliver Twist | r |  | Y
 Charles Dickens | Our Mutual Friend | r | 06/2013 | Y
 Charles Dickens | The Pickwick Papers | r |  | Y
 Charles Dickens | The Tale of Two Cities | r |  | Y
+Seth Dickinson | The Monster Baru Cormorant | 03/2022 | N|
 Seth Dickinson | The Traitor Baru Cormorant | 01/2022 | N|
+Seth Dickinson | The Tyrant Baru Cormorant | 05/2022 | N|
 E. L. Doctorow | The March | r | 02/2017 | Y
 Anthony Doerr | All The Light We Cannot See | r | 03/2021 | Y
 Fyodor Dostoyevsky | Crime and Punishment | r |  | Y
@@ -333,6 +338,7 @@ Kazuo Ishiguro | When We Were Orphans | r | 12/2010 | Y
 Howard Jacobson | The Finkler Question | r | 01/2015 | Y
 Brian Jacques | The Legend of Luke | r |  | Y
 Brian Jacques | from Redwall to Taggerung | r |  | N
+Spencer Jakab | The Revolution That Wasn't | 03/2022 | N|
 Henry James | The Aspern Papers | r | 09/2014 | Y
 Henry James | The Portrait of a Lady | r |  | Y
 Henry James | The Turn of the Screw and other short fiction | r | 09/2013 | Y
@@ -510,6 +516,7 @@ Garth Nix | Lirael | r |  | Y
 Garth Nix | Sabriel | r |  | N
 Garth Nix | Shade's Children | r |  | N
 M. Nouschi | Petit Atlas Historique du 20ieme siecle | r |  | Y
+Patrick O'Brian | Blue at the Mizzen | r | 02/2022 | Y
 Patrick O'Brian | Desolation Island | rr | 10/2012 | Y
 Patrick O'Brian | HMS Surprise | rr | 03/2012 | Y
 Patrick O'Brian | Master and Commander | rr | 07/2011 | Y
@@ -591,6 +598,7 @@ Kim Stanley Robinson | Red Mars | r | 10/2018 | Y
 Marilynne Robinson | Gilead | r | 03/2017 | Y
 Patrick Robinson | Kilo Class | r |  | Y
 Patrick Robinson | Nimitz Class | r |  | N
+Oliver Roeder | Seven Games | 04/2022 | N|
 Adam Rogers | Full Spectrum | r | 10/2021 | N
 Philip Roth | The Human Stain | r |  | Y
 Philip Roth | The Plot Against America | r |  | Y
@@ -695,6 +703,9 @@ Barbara Tuchman | A Distant Mirror | r |  | Y
 Barbara Tuchman | The Guns of August | r |  | Y
 Sun Tzu | The Art of War | r |  | Y
 John Updike | Rabbit, Run | r | 06/2010 | Y
+Jeff VanderMeer | Acceptance. | 05/2022 | N|
+Jeff VanderMeer | Annihilation | 05/2022 | N|
+Jeff VanderMeer | Authority | 05/2022 | N|
 Voltaire | Candide | r |  | Y
 Kurt Vonnegut | Cat's Cradle | r | 01/2010 | Y
 Kurt Vonnegut | Slaughterhouse-Five | r |  | Y

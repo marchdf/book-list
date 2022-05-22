@@ -743,3 +743,14 @@ Jess Walter | The Cold Millions | 01/2022 | Y
 Arkady Martine | A Desolation Called Peace | 01/2022 | N
 Joe Abercrombie | The Blade Itself | 01/2022 | N
 Seth Dickinson | The Traitor Baru Cormorant | 01/2022 | N
+John Carreyrou | Bad Blood | 02/2022 | N
+Joe Abercrombie | Before They Are Hanged | 02/2022 | N
+Patrick O'Brian | Blue at the Mizzen | r | 02/2022 | Y
+Seth Dickinson | The Monster Baru Cormorant | 03/2022 | N
+Joe Abercrombie | The Last Argument of Kings | 03/2022 | N
+Spencer Jakab | The Revolution That Wasn't | 03/2022 | N
+Oliver Roeder | Seven Games | 04/2022 | N
+Seth Dickinson | The Tyrant Baru Cormorant | 05/2022 | N
+Jeff VanderMeer | Annihilation | 05/2022 | N
+Jeff VanderMeer | Authority | 05/2022 | N
+Jeff VanderMeer | Acceptance. | 05/2022 | N
