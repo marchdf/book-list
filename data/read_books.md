@@ -753,4 +753,6 @@ Oliver Roeder | Seven Games | 04/2022 | N
 Seth Dickinson | The Tyrant Baru Cormorant | 05/2022 | N
 Jeff VanderMeer | Annihilation | 05/2022 | N
 Jeff VanderMeer | Authority | 05/2022 | N
-Jeff VanderMeer | Acceptance. | 05/2022 | N
+Jeff VanderMeer | Acceptance | 05/2022 | N
+John Williams | Augustus | 06/2022 | Y
+Neal Stephenson | Cryptonomicon | 07/2022 | Y

@@ -668,6 +668,7 @@ John Steinbeck | The Grapes of Wrath | r |  | Y
 John Steinbeck | Tortilla Flat | r | 11/2013 | N
 Stendhal | La Chartreuse de Parme | r | 09/2016 | Y
 Stendhal | Le Rouge et le Noir | r |  | Y
+Neal Stephenson | Cryptonomicon | 07/2022 | Y|
 Robert Louis Stevenson | Around the World in 80 Days | r |  | Y
 Robert Louis Stevenson | Kidnapped | r |  | Y
 Robert Louis Stevenson | The Black Arrow | r | 04/2014 | N
@@ -703,7 +704,7 @@ Barbara Tuchman | A Distant Mirror | r |  | Y
 Barbara Tuchman | The Guns of August | r |  | Y
 Sun Tzu | The Art of War | r |  | Y
 John Updike | Rabbit, Run | r | 06/2010 | Y
-Jeff VanderMeer | Acceptance. | 05/2022 | N|
+Jeff VanderMeer | Acceptance | 05/2022 | N|
 Jeff VanderMeer | Annihilation | 05/2022 | N|
 Jeff VanderMeer | Authority | 05/2022 | N|
 Voltaire | Candide | r |  | Y
@@ -734,6 +735,7 @@ Oscar Wilde | The Importance of Being Earnest and Other Plays | r |  | Y
 Oscar Wilde | The Picture of Dorian Gray | rr | 01/2011 | Y
 Oscar Wilde | The Portrait of Dorian Grey | r |  | Y
 Isabel Wilkerson | The Warmth of Other Suns | r | 08/2015 | Y
+John Williams | Augustus | 06/2022 | Y|
 John Williams | Stoner | r | 04/2017 | Y
 Robert Shea and R.A. Wilson | The Illuminatus! Trilogy | r |  | Y
 Robert Shea and R.A. Wilson | The Illuminatus! Trilogy | rr | 04/2011 | Y
