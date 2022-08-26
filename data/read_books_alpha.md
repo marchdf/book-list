@@ -544,6 +544,7 @@ Tim O'Brien | The Things They Carried | r |  | Y
 Editor Joyce Carrol Oates | The Oxford Book of American Short Stories | r | 11/2010 | Y
 Michelle Obama | Becoming | r | 06/2020 | Y
 Tea Obreht | The Tiger's Wife | r | 02/2012 | N
+Michael Ondaatje | The Cat's Table | 08/2022 | Y|
 Tommy Orange | There There | r | 08/2020 | Y
 Susan Orlean | The Library Book | r | 03/2020 | Y
 George Orwell | 1984 | r |  | Y

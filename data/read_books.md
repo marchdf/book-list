@@ -756,3 +756,4 @@ Jeff VanderMeer | Authority | 05/2022 | N
 Jeff VanderMeer | Acceptance | 05/2022 | N
 John Williams | Augustus | 06/2022 | Y
 Neal Stephenson | Cryptonomicon | 07/2022 | Y
+Michael Ondaatje | The Cat's Table | 08/2022 | Y
