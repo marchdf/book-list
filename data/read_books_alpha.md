@@ -71,6 +71,7 @@ Terry Brooks | Original Shannara Trilogy, Heritage of Shannara Tetralogy, Preque
 Terry Brooks | Tanequil | r |  | Y
 Craig Brown | 150 Glimpses of the Beatles | 05/2021 | Y|
 Daniel James Brown | The Boys in the Boat | r | 05/2016 | Y
+Ronald Brownstein | Rock Me on the Water | 08/2022 | Y|
 Bill Bryson | Shakespeare | r |  | Y
 Tim Buckley | Ctrl-alt-del vol 1 to 3 | r |  | Y
 Lois McMaster Bujold | The Curse of Chalion | r |  | Y
