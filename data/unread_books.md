@@ -3,7 +3,6 @@
 Author | Title 
 :------ |:------
 Alcott | Little Women
-Kate Atkinson | Big Sky
 Kate Beaton | Hark! A Vagrant
 Samuel Beckett | Waiting for Godot
 Bradbury and Greaves | Emotional Intelligence
@@ -21,7 +20,6 @@ Steven King | The Drawing of the Three
 Barbara Kingsolver | The Bean Trees
 Ben Lerner | The Topeka School
 C.S. Lewis | The Great Divorce
-Ben Macintyre | The Spy and The Traitor
 Hilary Mantel | The Mirror and the Light
 Cyril Massarato | 100 pages blanches
 David Mitchell | The Bone Clocks

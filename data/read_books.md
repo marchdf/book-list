@@ -758,3 +758,5 @@ John Williams | Augustus | 06/2022 | Y
 Neal Stephenson | Cryptonomicon | 07/2022 | Y
 Ronald Brownstein | Rock Me on the Water | 08/2022 | Y
 Michael Ondaatje | The Cat's Table | 08/2022 | Y
+Ben Macintyre | The Spy and The Traitor | 09/2022 | Y
+Kate Atkinson | Big Sky | 09/2022 | Y

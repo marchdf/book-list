@@ -29,6 +29,7 @@ Isaac Asimov | Second Foundation | r | 06/2010 | Y
 Isaac Asimov | The Second Foundation (III) | r |  | Y
 Isaac Asimov | The Stars, Like Dust | r |  | Y
 Kate Atkinson | A God in Ruins | r | 04/2021 | Y
+Kate Atkinson | Big Sky | 09/2022 | Y|
 Kate Atkinson | Life after Life | r | 03/2016 | Y
 Margaret Atwood | Cat's Eye | r | 05/2017 | Y
 Margaret Atwood | The Blind Assassin | r |  | Y
@@ -420,6 +421,7 @@ Robert Ludlum | The Bourne Identity | r | 01/2018 | Y
 Robert Ludlum | The Bourne Supremacy | r | 08/2020 | Y
 Robert Ludlum | The Bourne Ultimatum | r | 06/2021 | N
 Ben Macintyre | A Spy Among Friends | 09/2021 | Y|
+Ben Macintyre | The Spy and The Traitor | 09/2022 | Y|
 Maddox | The Alphabet of Manliness | r |  | Y
 Norman Mailer | An American Dream | r |  | Y
 Norman Mailer | The Naked and the Dead | r |  | Y
