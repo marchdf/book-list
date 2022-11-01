@@ -345,6 +345,7 @@ Henry James | The Aspern Papers | r | 09/2014 | Y
 Henry James | The Portrait of a Lady | r |  | Y
 Henry James | The Turn of the Screw and other short fiction | r | 09/2013 | Y
 Marlon James | A Brief History of Seven Killings | r | 01/2019 | Y
+Marlon James | Black Leopard Red Wolf | 10/2022 | N|
 N. K Jemisin | The Fifth Season | r | 10/2021 | N
 N. K Jemisin | The Obelisk Gate | r | 10/2021 | N
 N. K Jemisin | The Stone Sky | r | 11/2021 | N
@@ -377,6 +378,7 @@ Barbara Kingsolver | The Poissonwood Bible | r | 12/2010 | Y
 Rudyard Kipling | Kim | r | 09/2018 | Y
 Herman Koch | The Dinner | r | 12/2014 | Y
 Arthur Koestler | Darkness at Noon | r |  | Y
+Mary Robinette Kowal | The Calculating Stars | 10/2022 | N|
 Mark Kublanski | Salt | r | 02/2017 | Y
 Ellen Kushner | Swordspoint | r | 12/2016 | Y
 Bruno L'Her | Meutres pour l'impunite | r | 07/2017 | N
