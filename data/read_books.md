@@ -762,3 +762,6 @@ Ben Macintyre | The Spy and The Traitor | 09/2022 | Y
 Kate Atkinson | Big Sky | 09/2022 | Y
 Mary Robinette Kowal | The Calculating Stars | 10/2022 | N
 Marlon James | Black Leopard Red Wolf | 10/2022 | N
+Fonda Lee | Jade City | 11/2022 | N
+V. E. Schwab | A Darker Shade of Magic | 11/2022 | N
+Marlon James | Moon Witch Spider King | 12/2022 | N

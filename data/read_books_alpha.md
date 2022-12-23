@@ -346,6 +346,7 @@ Henry James | The Portrait of a Lady | r |  | Y
 Henry James | The Turn of the Screw and other short fiction | r | 09/2013 | Y
 Marlon James | A Brief History of Seven Killings | r | 01/2019 | Y
 Marlon James | Black Leopard Red Wolf | 10/2022 | N|
+Marlon James | Moon Witch Spider King | 12/2022 | N|
 N. K Jemisin | The Fifth Season | r | 10/2021 | N
 N. K Jemisin | The Obelisk Gate | r | 10/2021 | N
 N. K Jemisin | The Stone Sky | r | 11/2021 | N
@@ -409,6 +410,7 @@ John LeCarre | The Spy Who Came in From the Cold | r | 08/2013| Y
 John LeCarre | Tinker, Tayor, Soldier, Spy | rr | 07/2012 | Y
 Ursula K LeGuin | A Wizard of Earthsea | r | 10/2019 | Y
 Ursula K LeGuin | The Left Hand of Darkness | r | 05/2018 | Y
+Fonda Lee | Jade City | 11/2022 | N|
 Harper Lee | To Kill a Mockinbird | r |  | Y
 Mikhail Lermontov | A Hero of Our Time | r | 07/2016 | Y
 Michael Lewis | Flash Boys | r | 10/2016 | Y
@@ -636,6 +638,7 @@ Jean-Paul Sartre | Huis Close | r |  | Y
 Jean-Paul Sartre | Les Mains Sales | r |  | Y
 George Saunders | Tenth of December | r | 04/2015 | Y
 Arthur Schoppenhauer | The Art of Always Being Right | r |  | Y
+V. E. Schwab | A Darker Shade of Magic | 11/2022 | N|
 Sir Walter Scott | Ivanhoe | r | 05/2010 | Y
 Sir Walter Scott | Rob Roy | r |  | Y
 David Sedaris | Naked | r | 09/2011 | Y
