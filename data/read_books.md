@@ -765,3 +765,5 @@ Marlon James | Black Leopard Red Wolf | 10/2022 | N
 Fonda Lee | Jade City | 11/2022 | N
 V. E. Schwab | A Darker Shade of Magic | 11/2022 | N
 Marlon James | Moon Witch Spider King | 12/2022 | N
+Brian Sanderson | Mistborn: The Final Empire | 12/2022 | N
+Fonda Lee | Jade War | 01/2023 | N
