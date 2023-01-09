@@ -411,6 +411,7 @@ John LeCarre | Tinker, Tayor, Soldier, Spy | rr | 07/2012 | Y
 Ursula K LeGuin | A Wizard of Earthsea | r | 10/2019 | Y
 Ursula K LeGuin | The Left Hand of Darkness | r | 05/2018 | Y
 Fonda Lee | Jade City | 11/2022 | N|
+Fonda Lee | Jade War | 01/2023 | N|
 Harper Lee | To Kill a Mockinbird | r |  | Y
 Mikhail Lermontov | A Hero of Our Time | r | 07/2016 | Y
 Michael Lewis | Flash Boys | r | 10/2016 | Y
@@ -631,6 +632,7 @@ J.D. Salinger | The Catcher in the Rye | r |  | Y
 R.A. Salvatore | Exile | r |  | Y
 R.A. Salvatore | Homeland | r |  | Y
 R.A. Salvatore | Sojourn | r |  | Y
+Brian Sanderson | Mistborn: The Final Empire | 12/2022 | N|
 Luc Sante | The Factory of Facts | r |  | Y
 Jose Saramago | The Elephant's Journey | r | 10/2013 | Y
 Jose Saramago | The Gospel According to Jesus Christ | r | 06/2011 | N
