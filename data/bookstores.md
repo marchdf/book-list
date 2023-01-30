@@ -1,6 +1,6 @@
 # Cool used bookstores
 
-This is a list of used bookstores that we like. A couple focus on
+This is a list of used bookstores that we like. Several focus on
 new books but have some used books.
 
 #### Belgium

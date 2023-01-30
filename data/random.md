@@ -18,39 +18,54 @@
 ## Consensus cloud
 <img src="./information_is_beautiful_checked.png" alt="consensus cloud" width="800">
 
+## Series to be continued
+Author | Series name | Next book
+:------ |:------ |:------
+Joe Abercrombie | Age of Madness |
+Seth Dickinson | Masquerade |
+James Edward Gordon | | Structures
+Mick Herron | The Slough House | Real Tigers
+Marlon James | | White Wing, Dark Star
+N. K. Jemisin | |
+Robert Jordan | A Wheel of Time |
+Steven King | The Dark Tower | The Drawing of the Three
+Fonda Lee | Green Bones Saga | Jade Legacy
+G.R.R. Martin | A Song of Ice and Fire | |
+Arkady Martine | Teixcalaan series |
+Kim Stanley Robinson | Mars trilogy | Green Mars
+Brian Sanderson | Mistborn | The Well of Ascension
+V. E. Schwab | Shades of Magic | A Gathering of Shadows
 
 ## Other
-Author | Title 
+Author | Title
 :------ |:------
-Zadie Smith | White Teeth
-Ellen Kushner | next up: The Privilege of the Sword
-Terry Pratchett  | 
-David Denby   | Great Books 
-Robert Heinlein  | 
-H.P Lovecraft  | 
-Gabriel Garcia Marquez  |
-Proust  | 
-Thoreau  | 
-Baudelaire   | Les Fleurs du Mal
-Joyce  |
-Camus  |
-Nietzsche  | 
-Henry James  |
-Voltaire  |
-Alexander Pope  | 
-Oscar Wilde  | 
-Kipling  | 
-H.G Wells  |
-E.A. Poe  |
-Ralph Waldo Emerson  |
-Moliere  |
-Malraux  |
-Sartre  |
-Fleming  |
-P.G Wodehouse  |
-Turgenev  |
-Maupassant  |
-Hawthorne | 
-Austen |  got Emma, PnP,  SnS
+Terry Pratchett |
+David Denby | Great Books
+Robert Heinlein |
+H.P Lovecraft |
+Gabriel Garcia Marquez |
+Proust |
+Thoreau |
+Baudelaire | Les Fleurs du Mal
+Joyce |
+Camus |
+Nietzsche |
+Henry James |
+Voltaire |
+Alexander Pope |
+Oscar Wilde |
+Kipling |
+H.G Wells |
+E.A. Poe |
+Ralph Waldo Emerson |
+Moliere |
+Malraux |
+Sartre |
+Fleming |
+P.G Wodehouse |
+Turgenev |
+Maupassant |
+Hawthorne |
+Austen | got Emma, PnP, SnS
 Smollet | Humphrey Clinker
 Smollet | Peregrine Pickle

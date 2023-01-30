@@ -35,7 +35,7 @@ Frayn | The Trick of It | mentioned in Art of Fiction |
 Robert Galbraith | The Cuckoo's Calling | rec. by mom/Va, JK Rowling book |
 Gardner | Grendel | Beowulf told by other side |
 Elizabeth Gilbert | The Signature of All Things | rec. by Kate |
-Gogol  | The Nose | |
+Gogol | The Nose | |
 John Hall | Correspondence | rec. by Aku |
 Thomas Hardy | A Pair of Blue Eyes | mentioned in Art of Fiction |
 LP Hartley | The Go-Between | rec. by mom |
@@ -45,7 +45,7 @@ Kazuo Ishiguro | Never Let Me Go | [Time top books](http://entertainment.time.co
 Han Kang | The Vegetarian | rec. by Economist |
 Milan Kundera | The Unbearable Lightness of Being | Alicia |
 Helen MacInnes | Assignment in Brittany | spy fiction |
-Thomas Malory | La Morte d'Arthur |  |
+Thomas Malory | La Morte d'Arthur | |
 Javier Marias | A Heart So White | rec. by mom and Aku |
 David Maurer | The Dying Place | very hard to find... |
 Simon Mawer | The Glass Room | shortlisted for Booker |
@@ -55,11 +55,11 @@ Ian McEwan | Nutshell | rec. by Economist |
 Larry McMurtry | Dead Man's Walk, Comanche Moon, Streets of Laredo | |
 James Meek | The Heart Broke In | rec. by economist Dec. 1 2012 |
 A.D. Miller | Snowdrops | rec. by Econ 10/12/11 |
-Jan Morris | Conundrum |  rec. by mom |
+Jan Morris | Conundrum | rec. by mom |
 Viet Thanh Nguyen | The Sympathizer | rec by mom |
 Joyce Carol Oates | We were the Mulvaney's | Alicia
 Lauren Owen | The Quick | rec. by [the Economist](http://www.economist.com/news/books-and-arts/21600094-scary-debut-fans-wilkie-collins-and-sir-arthur-conan-doyle-go-gothic) |
-Boris Pasternak  | Docteur Zhivago  | |
+Boris Pasternak | Docteur Zhivago | |
 George Perec | La vie, mode d'emploi | |
 George Perec | La disparition | lipogramme, sans e |
 Richard Price | Lush Life | Time top books |
@@ -74,7 +74,7 @@ Brian Van Reet | Spoils | rec by The Economist |
 David Foster Wallace | The Pale King | Erik |
 David Foster Wallace | A Supposidely Funny Thing... | rec. by Jess (2) |
 David Foster Wallace | Brief Interviews... | rec. by Jess (3) |
-Virginia Woolf  | Orlando  | |
+Virginia Woolf | Orlando | |
 Stephan Zweig | Beware of Pity | rec. by mom |
 
 ## Science-fiction, fantasy, and mystery
@@ -97,7 +97,7 @@ Jean-Philippe Jaworski | [Janua Vera +](http://www.cafardcosmique.com/Janua-Vera
 Steven King | Dark Tower | Brandon |
 Ursula K LeGuin | Earthsea series | have A Wizard of Earthsea |
 Robert Ludlum | Bourne Ultimatum | vol 3 of trilogy
-G.R.R Martin  |  | last read = A dance with dragons |
+G.R.R Martin | | last read = A dance with dragons |
 China Mieville | The Scar, Iron Council, King Rat |
 Matthew Quirk | The 500 | rec. by [the Economist](http://www.economist.com/blogs/prospero/2012/07/new-summer-thriller?fsrc=gn_ep) |
 Kim Stanley Robinson | Green Mars, Blue Mars | Babbage says ``exquisite'' |
@@ -146,5 +146,5 @@ Roach | Grunt | |
 Sotomayor | My Beloved World | rec. by Aku |
 Jeffrey Toobin | The Nine | rec. by Jonathan |
 Jay Winik | April 1865 | rec. by Tom |
-Irvin Yalom |  When Nietzsche Wept | rec. by Claire |
+Irvin Yalom | When Nietzsche Wept | rec. by Claire |
 Irvin Yalom | Love´s Executioner | non-fiction rec. by Claire |
