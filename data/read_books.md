@@ -712,22 +712,22 @@ John LeCarre | The Looking Glass War | r | 01/2021 | Y
 Oliver Potzsch | The Hangman's Daughter | r | 01/2021 | Y
 Michael Chabon | The Yiddish Policemen's Union | r | 01/2021 | Y
 Flea | Acid for the Children | r | 02/2021 | N
-J.K. Rowling | Harry Potter and the Half Blood Prince | 02/2021 | Y
+J.K. Rowling | Harry Potter and the Half Blood Prince | rrrrrrr | 02/2021 | Y
 Anthony Doerr | All The Light We Cannot See | r | 03/2021 | Y
 Anthony Horowitz | The Sentence is Death | r | 03/2021 | Y
 David Foster Wallace | Consider the Lobster | r | 03/2021 | Y
 Kate Atkinson | A God in Ruins | r | 04/2021 | Y
 Michael Crichton | Jurassic Park | r | 04/2021 | N
-J.K. Rowling | Harry Potter and the Deathly Hallows | 05/2021 | Y
-Patricia Highsmith | The Talented Mr Ripley | 05/2021 | N
-Craig Brown | 150 Glimpses of the Beatles | 05/2021 | Y
-Tara Westover | Educated | 05/2012 | N
+J.K. Rowling | Harry Potter and the Deathly Hallows | rrrrrrr | 05/2021 | Y
+Patricia Highsmith | The Talented Mr Ripley | r | 05/2021 | N
+Craig Brown | 150 Glimpses of the Beatles | r | 05/2021 | Y
+Tara Westover | Educated | r | 05/2012 | N
 Robert Ludlum | The Bourne Ultimatum | r | 06/2021 | N
 Viet Thanh Nguyen | The Sympathizer | r | 07/2021 | N
 Larry McMurtry | Lonesome Dove | r | 08/2021 | N
-Bruce Conforth & Gayle Dean Wardlow | Up Jumped the Devil | 08/2021 | N
-Ben Macintyre | A Spy Among Friends | 09/2021 | Y
-Ian Fleming | Moonraker | 09/2021 | N
+Bruce Conforth & Gayle Dean Wardlow | Up Jumped the Devil | r | 08/2021 | N
+Ben Macintyre | A Spy Among Friends | r | 09/2021 | Y
+Ian Fleming | Moonraker | r | 09/2021 | N
 W. Somerset Maugham | Of Human Bondage | r | 09/2021 | Y
 N. K Jemisin | The Fifth Season | r | 10/2021 | N
 Adam Rogers | Full Spectrum | r | 10/2021 | N
@@ -735,37 +735,38 @@ Susanna Clarke | Piranesi | r | 10/2021 | N
 N. K Jemisin | The Obelisk Gate | r | 10/2021 | N
 Nigel Poor and Erlonne Woods | This is Ear Hustle | r | 11/2021 | Y
 N. K Jemisin | The Stone Sky | r | 11/2021 | N
-Keith O'Brien | Fly Girls | 11/2021 | N
-Emily St John Mandel | Station Eleven | 11/2021 | N
-Arkady Martine | A Memory Called Empire | 12/2021 | N
-T. C. Boyle | East is East | 12/2021 | N
-Jess Walter | The Cold Millions | 01/2022 | Y
-Arkady Martine | A Desolation Called Peace | 01/2022 | N
-Joe Abercrombie | The Blade Itself | 01/2022 | N
-Seth Dickinson | The Traitor Baru Cormorant | 01/2022 | N
-John Carreyrou | Bad Blood | 02/2022 | N
-Joe Abercrombie | Before They Are Hanged | 02/2022 | N
+Keith O'Brien | Fly Girls | r | 11/2021 | N
+Emily St John Mandel | Station Eleven | r | 11/2021 | N
+Arkady Martine | A Memory Called Empire | r | 12/2021 | N
+T. C. Boyle | East is East | r | 12/2021 | N
+Jess Walter | The Cold Millions | r | 01/2022 | Y
+Arkady Martine | A Desolation Called Peace | r | 01/2022 | N
+Joe Abercrombie | The Blade Itself | r | 01/2022 | N
+Seth Dickinson | The Traitor Baru Cormorant | r | 01/2022 | N
+John Carreyrou | Bad Blood | r | 02/2022 | N
+Joe Abercrombie | Before They Are Hanged | r | 02/2022 | N
 Patrick O'Brian | Blue at the Mizzen | r | 02/2022 | Y
-Seth Dickinson | The Monster Baru Cormorant | 03/2022 | N
-Joe Abercrombie | The Last Argument of Kings | 03/2022 | N
-Spencer Jakab | The Revolution That Wasn't | 03/2022 | N
-Oliver Roeder | Seven Games | 04/2022 | N
-Seth Dickinson | The Tyrant Baru Cormorant | 05/2022 | N
-Jeff VanderMeer | Annihilation | 05/2022 | N
-Jeff VanderMeer | Authority | 05/2022 | N
-Jeff VanderMeer | Acceptance | 05/2022 | N
-John Williams | Augustus | 06/2022 | Y
-Neal Stephenson | Cryptonomicon | 07/2022 | Y
-Ronald Brownstein | Rock Me on the Water | 08/2022 | Y
-Michael Ondaatje | The Cat's Table | 08/2022 | Y
-Ben Macintyre | The Spy and The Traitor | 09/2022 | Y
-Kate Atkinson | Big Sky | 09/2022 | Y
-Mary Robinette Kowal | The Calculating Stars | 10/2022 | N
-Marlon James | Black Leopard Red Wolf | 10/2022 | N
-Fonda Lee | Jade City | 11/2022 | N
-V. E. Schwab | A Darker Shade of Magic | 11/2022 | N
-Marlon James | Moon Witch Spider King | 12/2022 | N
-Brian Sanderson | Mistborn: The Final Empire | 12/2022 | N
-Fonda Lee | Jade War | 01/2023 | N
-Kate Atkinson | Transcription | 01/2023 | Y
-James Edward Gordon | The New Science of Strong Materials | 01/2023 | N
+Seth Dickinson | The Monster Baru Cormorant | r | 03/2022 | N
+Joe Abercrombie | The Last Argument of Kings | r | 03/2022 | N
+Spencer Jakab | The Revolution That Wasn't | r | 03/2022 | N
+Oliver Roeder | Seven Games | r | 04/2022 | N
+Seth Dickinson | The Tyrant Baru Cormorant | r | 05/2022 | N
+Jeff VanderMeer | Annihilation | r | 05/2022 | N
+Jeff VanderMeer | Authority | r | 05/2022 | N
+Jeff VanderMeer | Acceptance | r | 05/2022 | N
+John Williams | Augustus | r | 06/2022 | Y
+Neal Stephenson | Cryptonomicon | r | 07/2022 | Y
+Ronald Brownstein | Rock Me on the Water | r | 08/2022 | Y
+Michael Ondaatje | The Cat's Table | r | 08/2022 | Y
+Ben Macintyre | The Spy and The Traitor | r | 09/2022 | Y
+Kate Atkinson | Big Sky | r | 09/2022 | Y
+Mary Robinette Kowal | The Calculating Stars | r | 10/2022 | N
+Marlon James | Black Leopard Red Wolf | r | 10/2022 | N
+Fonda Lee | Jade City | 11/2022 | r | N
+V. E. Schwab | A Darker Shade of Magic | r | 11/2022 | N
+Marlon James | Moon Witch Spider King | r | 12/2022 | N
+Brian Sanderson | Mistborn: The Final Empire | r | 12/2022 | N
+Fonda Lee | Jade War | r | 01/2023 | N
+Kate Atkinson | Transcription | r | 01/2023 | Y
+James Edward Gordon | The New Science of Strong Materials | r | 01/2023 | N
+James S. A. Corey | Leviathan Wakes | r | 02/2023 | N

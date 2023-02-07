@@ -2,9 +2,9 @@
 
 Author | Title | Status | Date read | Owned?
 :------ |:------|:------:|:---------:|:------:
-Joe Abercrombie | Before They Are Hanged | 02/2022 | N|
-Joe Abercrombie | The Blade Itself | 01/2022 | N|
-Joe Abercrombie | The Last Argument of Kings | 03/2022 | N|
+Joe Abercrombie | Before They Are Hanged | r | 02/2022 | N
+Joe Abercrombie | The Blade Itself | r | 01/2022 | N
+Joe Abercrombie | The Last Argument of Kings | r | 03/2022 | N
 Douglas Adams | Life, the Universe and Everything | r | | Y
 Douglas Adams | Life, the Universe and Everything | rr | 07/2018 | Y
 Douglas Adams | Mostly Harmless | r | | Y
@@ -29,9 +29,9 @@ Isaac Asimov | Second Foundation | r | 06/2010 | Y
 Isaac Asimov | The Second Foundation (III) | r | | Y
 Isaac Asimov | The Stars, Like Dust | r | | Y
 Kate Atkinson | A God in Ruins | r | 04/2021 | Y
-Kate Atkinson | Big Sky | 09/2022 | Y|
+Kate Atkinson | Big Sky | r | 09/2022 | Y
 Kate Atkinson | Life after Life | r | 03/2016 | Y
-Kate Atkinson | Transcription | 01/2023 | Y|
+Kate Atkinson | Transcription | r | 01/2023 | Y
 Margaret Atwood | Cat's Eye | r | 05/2017 | Y
 Margaret Atwood | The Blind Assassin | r | | Y
 Margaret Atwood | The Handmaid's Tale | r | 01/2020 | Y
@@ -54,7 +54,7 @@ William Bernstein | The Four Pillars of Investing | r | 10/2013 | Y
 Isabella Bird | A Lady's Life in the Rocky Mountains | r | 11/2019 | N
 Pierre Bottero | D'un monde à l'autre | r | 01/2018 | N
 Pierre Bottero | Ellana | r | 08/2017 | N
-T. C. Boyle | East is East | 12/2021 | N|
+T. C. Boyle | East is East | r | 12/2021 | N
 T.C Boyle | The Tortilla Curtain | r | 09/2011 | Y
 Ray Bradbury | Fahrenheit 451 | r | | N
 Ray Bradbury | Fahrenheit 451 | rr | 10/2011 | Y
@@ -71,9 +71,9 @@ Geraldine Brooks | Nine Parts of Desire | r | 10/2017 | N
 Terry Brooks | Jarka Ruus | r | | Y
 Terry Brooks | Original Shannara Trilogy, Heritage of Shannara Tetralogy, Prequel to the Original Shannara Trilogy, Voyage of the Jerle Shannara, Magic Kingdom of Landover (from Magic Kingdom for Sale -- Sold! to Wizard at Large) | r | | N
 Terry Brooks | Tanequil | r | | Y
-Craig Brown | 150 Glimpses of the Beatles | 05/2021 | Y|
+Craig Brown | 150 Glimpses of the Beatles | r | 05/2021 | Y
 Daniel James Brown | The Boys in the Boat | r | 05/2016 | Y
-Ronald Brownstein | Rock Me on the Water | 08/2022 | Y|
+Ronald Brownstein | Rock Me on the Water | r | 08/2022 | Y
 Bill Bryson | Shakespeare | r | | Y
 Tim Buckley | Ctrl-alt-del vol 1 to 3 | r | | Y
 Lois McMaster Bujold | The Curse of Chalion | r | | Y
@@ -90,7 +90,7 @@ Truman Capote | In Cold Blood | r | | Y
 Orson Scott Card | Ender's Game | r | 07/2012 | Y
 Peter Carey | Oscar and Lucinda | r | 11/2012 | Y
 Peter Carey | True History of the Kelley Gang | r | 10/2011 | Y
-John Carreyrou | Bad Blood | 02/2022 | N|
+John Carreyrou | Bad Blood | r | 02/2022 | N
 Lewis Carroll | Alice's Adventures in Wonderland | r | 04/2010 | Y
 Lewis Carroll | The Annotated Alice (Alice in Wonderland) | rr | 12/2016 | Y
 Lewis Carroll | Through the Looking-Glass | r | 04/2010 | Y
@@ -130,6 +130,7 @@ Joseph Conrad | Heart of Darkness | r | | Y
 Joseph Conrad | Heart of Darkness | rr | 03/2017 | Y
 Joseph Conrad | The Secret Sharer | r | 03/2017 | N
 Frank Conroy | Stop-Time | r | | Y
+James S. A. Corey | Leviathan Wakes | r | 02/2023 | N
 Corneille | Le Cid | r | | Y
 Bernard Cornwell | Azincourt | r | 06/2014 | Y
 Stephen Crane | The Red Badge of Courage | r | 11/2019 | Y
@@ -165,9 +166,9 @@ Charles Dickens | Oliver Twist | r | | Y
 Charles Dickens | Our Mutual Friend | r | 06/2013 | Y
 Charles Dickens | The Pickwick Papers | r | | Y
 Charles Dickens | The Tale of Two Cities | r | | Y
-Seth Dickinson | The Monster Baru Cormorant | 03/2022 | N|
-Seth Dickinson | The Traitor Baru Cormorant | 01/2022 | N|
-Seth Dickinson | The Tyrant Baru Cormorant | 05/2022 | N|
+Seth Dickinson | The Monster Baru Cormorant | r | 03/2022 | N
+Seth Dickinson | The Traitor Baru Cormorant | r | 01/2022 | N
+Seth Dickinson | The Tyrant Baru Cormorant | r | 05/2022 | N
 E. L. Doctorow | The March | r | 02/2017 | Y
 Anthony Doerr | All The Light We Cannot See | r | 03/2021 | Y
 Fyodor Dostoyevsky | Crime and Punishment | r | | Y
@@ -199,7 +200,7 @@ Richard Feynman | The Meaning of It All | r | | Y
 F. Scott Fitzgerald | Tender is the Night | r | 12/2009 | Y
 F. Scott Fitzgerald | The Great Gatsby | rr | 01/2011 | Y
 Flea | Acid for the Children | r | 02/2021 | N
-Ian Fleming | Moonraker | 09/2021 | N|
+Ian Fleming | Moonraker | r | 09/2021 | N
 Jonathan Safran Foer | Eating Animals | r | 01/2011 | Y
 Jonathan Safran Foer | Everything is Illuminated | r | 09/2009 | Y
 Jonathan Safran Foer | Extremely Loud and Incredibly Close | r | 09/2010 | Y
@@ -237,7 +238,7 @@ Nikolai Gogol | The Diary of a Madman and Other Stories | r | 11/2013 | Y
 Arthur Golden | Memoirs of a Geisha | r | | Y
 William Golding | Lord of the Flies | r | | Y
 William Golding | Pincher Martin | r | 09/2016 | Y
-James Edward Gordon | The New Science of Strong Materials | 01/2023 | N|
+James Edward Gordon | The New Science of Strong Materials | r | 01/2023 | N
 David Grann | Killers of the Flower Moon | r | 06/2020 | Y
 Joseph Graph | Kama | r | | Y
 Robert Graves | Claudius the God | r | | Y
@@ -310,7 +311,7 @@ Weis and Hickman | Dragonlance Legends (3 vol.)| r | | Y
 Weis and Hickman | Heroes vol 1 | r | | Y
 Weis and Hickman | Tales (3 vol.) | r | | Y
 Weis and Hicman | Preludes II vol.3 | r | | Y
-Patricia Highsmith | The Talented Mr Ripley | 05/2021 | N|
+Patricia Highsmith | The Talented Mr Ripley | r | 05/2021 | N
 Robin Hobb | Assassin's Apprentice | r | | Y
 Robin Hobb | Assassin's Quest | r | | Y
 Robin Hobb | Fool's Errand | r | | Y
@@ -342,13 +343,13 @@ Kazuo Ishiguro | When We Were Orphans | r | 12/2010 | Y
 Howard Jacobson | The Finkler Question | r | 01/2015 | Y
 Brian Jacques | The Legend of Luke | r | | Y
 Brian Jacques | from Redwall to Taggerung | r | | N
-Spencer Jakab | The Revolution That Wasn't | 03/2022 | N|
+Spencer Jakab | The Revolution That Wasn't | r | 03/2022 | N
 Henry James | The Aspern Papers | r | 09/2014 | Y
 Henry James | The Portrait of a Lady | r | | Y
 Henry James | The Turn of the Screw and other short fiction | r | 09/2013 | Y
 Marlon James | A Brief History of Seven Killings | r | 01/2019 | Y
-Marlon James | Black Leopard Red Wolf | 10/2022 | N|
-Marlon James | Moon Witch Spider King | 12/2022 | N|
+Marlon James | Black Leopard Red Wolf | r | 10/2022 | N
+Marlon James | Moon Witch Spider King | r | 12/2022 | N
 N. K Jemisin | The Fifth Season | r | 10/2021 | N
 N. K Jemisin | The Obelisk Gate | r | 10/2021 | N
 N. K Jemisin | The Stone Sky | r | 11/2021 | N
@@ -381,7 +382,7 @@ Barbara Kingsolver | The Poissonwood Bible | r | 12/2010 | Y
 Rudyard Kipling | Kim | r | 09/2018 | Y
 Herman Koch | The Dinner | r | 12/2014 | Y
 Arthur Koestler | Darkness at Noon | r | | Y
-Mary Robinette Kowal | The Calculating Stars | 10/2022 | N|
+Mary Robinette Kowal | The Calculating Stars | r | 10/2022 | N
 Mark Kublanski | Salt | r | 02/2017 | Y
 Ellen Kushner | Swordspoint | r | 12/2016 | Y
 Bruno L'Her | Meutres pour l'impunite | r | 07/2017 | N
@@ -412,8 +413,8 @@ John LeCarre | The Spy Who Came in From the Cold | r | 08/2013| Y
 John LeCarre | Tinker, Tayor, Soldier, Spy | rr | 07/2012 | Y
 Ursula K LeGuin | A Wizard of Earthsea | r | 10/2019 | Y
 Ursula K LeGuin | The Left Hand of Darkness | r | 05/2018 | Y
-Fonda Lee | Jade City | 11/2022 | N|
-Fonda Lee | Jade War | 01/2023 | N|
+Fonda Lee | Jade City | 11/2022 | r | N
+Fonda Lee | Jade War | r | 01/2023 | N
 Harper Lee | To Kill a Mockinbird | r | | Y
 Mikhail Lermontov | A Hero of Our Time | r | 07/2016 | Y
 Michael Lewis | Flash Boys | r | 10/2016 | Y
@@ -427,13 +428,13 @@ Malcolm Lowry | Under the Volcano | r | 05/2020 | Y
 Robert Ludlum | The Bourne Identity | r | 01/2018 | Y
 Robert Ludlum | The Bourne Supremacy | r | 08/2020 | Y
 Robert Ludlum | The Bourne Ultimatum | r | 06/2021 | N
-Ben Macintyre | A Spy Among Friends | 09/2021 | Y|
-Ben Macintyre | The Spy and The Traitor | 09/2022 | Y|
+Ben Macintyre | A Spy Among Friends | r | 09/2021 | Y
+Ben Macintyre | The Spy and The Traitor | r | 09/2022 | Y
 Maddox | The Alphabet of Manliness | r | | Y
 Norman Mailer | An American Dream | r | | Y
 Norman Mailer | The Naked and the Dead | r | | Y
 Andre Malraux | La Condition Humaine | r | | Y
-Emily St John Mandel | Station Eleven | 11/2021 | N|
+Emily St John Mandel | Station Eleven | r | 11/2021 | N
 Emily St John Mandel | The Glass Hotel | r | 09/2020 | Y
 Valerio Manfredi | Alexandre le Grand (3 vol.) | r | | Y
 Thomas Mann | The Holy Sinner | r | | Y
@@ -456,8 +457,8 @@ G.R.R. Martin | A Storm of Swords I| r | | Y
 G.R.R. Martin | A Storm of Swords I | rr | 01/2013 | Y
 G.R.R. Martin | A Storm of Swords II| r | | Y
 George R. R. Martin | A Dance with Dragons | r | 05/2015 | Y
-Arkady Martine | A Desolation Called Peace | 01/2022 | N|
-Arkady Martine | A Memory Called Empire | 12/2021 | N|
+Arkady Martine | A Desolation Called Peace | r | 01/2022 | N
+Arkady Martine | A Memory Called Empire | r | 12/2021 | N
 Owen Matthews | An Impeccable Spy | r | 02/2020 | Y
 W. Somerset Maugham | Ashenden: Or the British Agent | r | 06/2019 | Y
 W. Somerset Maugham | Of Human Bondage | r | 09/2021 | Y
@@ -547,14 +548,14 @@ Patrick O'Brian | The Wine Dark Sea | r | 07/2018 | Y
 Patrick O'Brian | The Yellow Admiral | r | 09/2020 | Y
 Patrick O'Brian | Treason's Harbour | rr | 09/2015 | Y
 Patrick O'Brian | from Master and Commander to the Commodore | r | | N
-Keith O'Brien | Fly Girls | 11/2021 | N|
+Keith O'Brien | Fly Girls | r | 11/2021 | N
 Tim O'Brien | Going After Cacciato | r | 04/2010 | Y
 Tim O'Brien | In the Lake of the Woods | r | | Y
 Tim O'Brien | The Things They Carried | r | | Y
 Editor Joyce Carrol Oates | The Oxford Book of American Short Stories | r | 11/2010 | Y
 Michelle Obama | Becoming | r | 06/2020 | Y
 Tea Obreht | The Tiger's Wife | r | 02/2012 | N
-Michael Ondaatje | The Cat's Table | 08/2022 | Y|
+Michael Ondaatje | The Cat's Table | r | 08/2022 | Y
 Tommy Orange | There There | r | 08/2020 | Y
 Susan Orlean | The Library Book | r | 03/2020 | Y
 George Orwell | 1984 | r | | Y
@@ -609,14 +610,14 @@ Kim Stanley Robinson | Red Mars | r | 10/2018 | Y
 Marilynne Robinson | Gilead | r | 03/2017 | Y
 Patrick Robinson | Kilo Class | r | | Y
 Patrick Robinson | Nimitz Class | r | | N
-Oliver Roeder | Seven Games | 04/2022 | N|
+Oliver Roeder | Seven Games | r | 04/2022 | N
 Adam Rogers | Full Spectrum | r | 10/2021 | N
 Philip Roth | The Human Stain | r | | Y
 Philip Roth | The Plot Against America | r | | Y
 J.K. Rowling | Harry Potter and the Chamber of Secrets | rrrrrrr | 09/2020 | Y
-J.K. Rowling | Harry Potter and the Deathly Hallows | 05/2021 | Y|
+J.K. Rowling | Harry Potter and the Deathly Hallows | rrrrrrr | 05/2021 | Y
 J.K. Rowling | Harry Potter and the Goblet of Fire | rrrrrrr | 10/2020 | Y
-J.K. Rowling | Harry Potter and the Half Blood Prince | 02/2021 | Y|
+J.K. Rowling | Harry Potter and the Half Blood Prince | rrrrrrr | 02/2021 | Y
 J.K. Rowling | Harry Potter and the Order of the Phoenix | rrrrrrr | 11/2020 | Y
 J.K. Rowling | Harry Potter and the Prisoner of Azkaban | rrrrrrr | 09/2020 | Y
 J.K. Rowling | Harry Potter and the Sorcerer's Stone | rrrrrrr | 08/2020 | Y
@@ -634,7 +635,7 @@ J.D. Salinger | The Catcher in the Rye | r | | Y
 R.A. Salvatore | Exile | r | | Y
 R.A. Salvatore | Homeland | r | | Y
 R.A. Salvatore | Sojourn | r | | Y
-Brian Sanderson | Mistborn: The Final Empire | 12/2022 | N|
+Brian Sanderson | Mistborn: The Final Empire | r | 12/2022 | N
 Luc Sante | The Factory of Facts | r | | Y
 Jose Saramago | The Elephant's Journey | r | 10/2013 | Y
 Jose Saramago | The Gospel According to Jesus Christ | r | 06/2011 | N
@@ -642,7 +643,7 @@ Jean-Paul Sartre | Huis Close | r | | Y
 Jean-Paul Sartre | Les Mains Sales | r | | Y
 George Saunders | Tenth of December | r | 04/2015 | Y
 Arthur Schoppenhauer | The Art of Always Being Right | r | | Y
-V. E. Schwab | A Darker Shade of Magic | 11/2022 | N|
+V. E. Schwab | A Darker Shade of Magic | r | 11/2022 | N
 Sir Walter Scott | Ivanhoe | r | 05/2010 | Y
 Sir Walter Scott | Rob Roy | r | | Y
 David Sedaris | Naked | r | 09/2011 | Y
@@ -681,7 +682,7 @@ John Steinbeck | The Grapes of Wrath | r | | Y
 John Steinbeck | Tortilla Flat | r | 11/2013 | N
 Stendhal | La Chartreuse de Parme | r | 09/2016 | Y
 Stendhal | Le Rouge et le Noir | r | | Y
-Neal Stephenson | Cryptonomicon | 07/2022 | Y|
+Neal Stephenson | Cryptonomicon | r | 07/2022 | Y
 Robert Louis Stevenson | Around the World in 80 Days | r | | Y
 Robert Louis Stevenson | Kidnapped | r | | Y
 Robert Louis Stevenson | The Black Arrow | r | 04/2014 | N
@@ -717,15 +718,15 @@ Barbara Tuchman | A Distant Mirror | r | | Y
 Barbara Tuchman | The Guns of August | r | | Y
 Sun Tzu | The Art of War | r | | Y
 John Updike | Rabbit, Run | r | 06/2010 | Y
-Jeff VanderMeer | Acceptance | 05/2022 | N|
-Jeff VanderMeer | Annihilation | 05/2022 | N|
-Jeff VanderMeer | Authority | 05/2022 | N|
+Jeff VanderMeer | Acceptance | r | 05/2022 | N
+Jeff VanderMeer | Annihilation | r | 05/2022 | N
+Jeff VanderMeer | Authority | r | 05/2022 | N
 Voltaire | Candide | r | | Y
 Kurt Vonnegut | Cat's Cradle | r | 01/2010 | Y
 Kurt Vonnegut | Slaughterhouse-Five | r | | Y
 David Foster Wallace | Consider the Lobster | r | 03/2021 | Y
-Jess Walter | The Cold Millions | 01/2022 | Y|
-Bruce Conforth & Gayle Dean Wardlow | Up Jumped the Devil | 08/2021 | N|
+Jess Walter | The Cold Millions | r | 01/2022 | Y
+Bruce Conforth & Gayle Dean Wardlow | Up Jumped the Devil | r | 08/2021 | N
 Robert Penn Warren | All The King's Men | rr | 06/2014 | Y
 Robert Penn Warren | All the King's Men | r | | Y
 Bill Watterson | The Authorative Calvin and Hobbes | r | | Y
@@ -741,14 +742,14 @@ Bernard Werber | La Revolution des Fourmis | r | | N
 Bernard Werber | Le Jour des Fourmis | r | | N
 Bernard Werber | Les Fourmis | r | | Y
 Bernard Werber | Les Thanatonautes | r | | Y
-Tara Westover | Educated | 05/2012 | N|
+Tara Westover | Educated | r | 05/2012 | N
 Edith Wharton | The Age of Innocence | r | | Y
 Edith Wharton | The House of Mirth | r | | Y
 Oscar Wilde | The Importance of Being Earnest and Other Plays | r | | Y
 Oscar Wilde | The Picture of Dorian Gray | rr | 01/2011 | Y
 Oscar Wilde | The Portrait of Dorian Grey | r | | Y
 Isabel Wilkerson | The Warmth of Other Suns | r | 08/2015 | Y
-John Williams | Augustus | 06/2022 | Y|
+John Williams | Augustus | r | 06/2022 | Y
 John Williams | Stoner | r | 04/2017 | Y
 Robert Shea and R.A. Wilson | The Illuminatus! Trilogy | r | | Y
 Robert Shea and R.A. Wilson | The Illuminatus! Trilogy | rr | 04/2011 | Y
