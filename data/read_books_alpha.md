@@ -371,6 +371,7 @@ Robert Jordan | Wheel of Time series until Knife of Dreams | r | | Y
 Robert Jordan | Winter's Heart | rr | 09/2014 | Y
 Franz Kafka | The Metamorphisis | r | | Y
 Franz Kafka | The Trial | r | | N
+Shehan Karunatilaka | The Seven Moons of Maali Almeida | r | 02/2023 | Y
 David Kastan | On Color | r | 06/2019 | Y
 Jack Kerouac | On the Road | r | 06/2010 | Y
 Ken Kesey | One Flew Over the Cuckoo's Nest | r | | Y
@@ -509,6 +510,7 @@ John Mortimer | The First Rumpole Omnibus | r | 06/2010 | Y
 Daniyal Mueenuddin | In Other Rooms, Other Wonders | r | 10/2012 | N
 Liza Mundy | Code Girls | r | 02/2019 | Y
 Randal Munroe | How To | r | 09/2019 | Y
+Randal Munroe | What If 2 | r | 02/2023 | Y
 Haruki Murakami | 1Q84 | r | 05/2012 | Y
 Haruki Murakami | Hard-Boiled Wonderland and the End of the World | r | 11/2010 | Y
 Haruki Murakami | The Wind-Up Bird Chronicle | r | 10/2009 | Y

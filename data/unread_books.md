@@ -15,7 +15,6 @@ Faulkner | The Sound and the Fury
 Malcolm Gladwell | The Tipping Point
 Herodotus | The Histories
 James Joyce | A Portrait of the Artist as a Young Man
-Shehan Karunatilaka | The Seven Moons of Maali Almeida
 Steven King | The Drawing of the Three
 Ben Lerner | The Topeka School
 Hilary Mantel | The Mirror and the Light
