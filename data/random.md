@@ -24,7 +24,7 @@ Author | Series name | Next book
 Joe Abercrombie | Age of Madness |
 Seth Dickinson | Masquerade |
 James Edward Gordon | | Structures
-Mick Herron | The Slough House | Real Tigers
+Mick Herron | The Slough House | Spook Street
 Marlon James | | White Wing, Dark Star
 N. K. Jemisin | |
 Robert Jordan | A Wheel of Time |
