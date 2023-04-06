@@ -130,6 +130,7 @@ Joseph Conrad | Heart of Darkness | r | | Y
 Joseph Conrad | Heart of Darkness | rr | 03/2017 | Y
 Joseph Conrad | The Secret Sharer | r | 03/2017 | N
 Frank Conroy | Stop-Time | r | | Y
+James S. A. Corey | Caliban's War | r | 03/2023 | N
 James S. A. Corey | Leviathan Wakes | r | 02/2023 | N
 Corneille | Le Cid | r | | Y
 Bernard Cornwell | Azincourt | r | 06/2014 | Y
@@ -265,6 +266,7 @@ Mohsin Hamid | Exit West | r | 06/2020 | Y
 Van Hamme | Largo Winch: La voie et la vertu | r | | Y
 Dashiell Hammet | The Maltese Falcon | r | 04/2015 | Y
 Dashiell Hammett | Red Harvest | r | 04/2016 | Y
+Nino Haratischwili | The Eighth Life | r | 04/2023 | N
 Blaine Harden | Escape from Camp 2014 | r | 06/2015 | Y
 Paul Harding | Tinkers | r | 02/2014 | Y
 Thomas Hardy | Far From the Madding Crowd | r | | N
@@ -696,6 +698,7 @@ Robert Sutton | The No Asshole Rule | r | 07/2020 | N
 James Swanson | Manhunt | r | 05/2012 | Y
 Jonathan Swift | Gulliver's Travels | r | 10/2010 | Y
 Donna Tartt | The Goldfinch | r | 11/2020 | Y
+Herve Le Tellier | L'Anomalie | r | 02/2023 | Y
 Josephine Tey | The Daughter of Time | r | | Y
 William Makepeace Thackeray | Vanity Fair | r | 05/2010 | Y
 Richard Thaler | Nudge | r | 11/2013 | N
