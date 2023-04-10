@@ -33,7 +33,7 @@ Fonda Lee | Green Bones Saga | Jade Legacy
 G.R.R. Martin | A Song of Ice and Fire | |
 Arkady Martine | Teixcalaan series |
 Kim Stanley Robinson | Mars trilogy | Green Mars
-Brian Sanderson | Mistborn | The Well of Ascension
+Brian Sanderson | Mistborn | The Hero of Ages
 V. E. Schwab | Shades of Magic | A Gathering of Shadows
 
 ## Other
