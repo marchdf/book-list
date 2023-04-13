@@ -24,6 +24,5 @@ Joyce Carol Oates | We Were the Mulvaneys
 Edgar Allen Poe | Selected Tale
 George Saunders | Lincoln in the Bardo
 Shakespeare | Henry VI (part 1-3)
-Emily St John Mandel | Sea of Tranquility
 Zadie Smith | White Tiger
 Elizabeth Strout | Olive Kitteridge

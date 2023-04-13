@@ -777,3 +777,4 @@ Mick Herron | Real Tigers | r | 03/2023 | N
 James S. A. Corey | Caliban's War | r | 03/2023 | N
 Nino Haratischwili | The Eighth Life | r | 04/2023 | N
 Gabrielle Zevin | Tomorrow, and Tomorrow, and Tomorrow| r | 04/2023 | N
+Emily St John Mandel | Sea of Tranquility | r | 04/2023 | Y
