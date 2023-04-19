@@ -360,6 +360,7 @@ Jerome K. Jerome | Three Men in a Boat | r | | Y
 Diane Johnson | Le Divorce | r | 10/2012 | Y
 J.V. Jones | A Cavern of Black Ice | r | | Y
 J.V. Jones | A Fortress of Grey Ice | r | | Y
+Tayari Jones | An American Marriage | r | 04/2023 | Y
 Robert Jordan | A Crown of Swords | rr | 12/2011 | Y
 Robert Jordan | Crossroads of Twilight | r | 01/2015 | Y
 Robert Jordan | Lord of Chaos | rr | 05/2011 | Y
