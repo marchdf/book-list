@@ -779,3 +779,4 @@ Nino Haratischwili | The Eighth Life | r | 04/2023 | N
 Gabrielle Zevin | Tomorrow, and Tomorrow, and Tomorrow| r | 04/2023 | N
 Emily St John Mandel | Sea of Tranquility | r | 04/2023 | Y
 Tayari Jones | An American Marriage | r | 04/2023 | Y
+V. E. Schwab | A Gathering of Shadows | r | 04/2023 | N
