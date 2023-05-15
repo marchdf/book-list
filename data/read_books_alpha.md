@@ -643,6 +643,8 @@ R.A. Salvatore | Exile | r | | Y
 R.A. Salvatore | Homeland | r | | Y
 R.A. Salvatore | Sojourn | r | | Y
 Brian Sanderson | Mistborn: The Final Empire | r | 12/2022 | N
+Brian Sanderson | Mistborn: The Hero of Ages | r | 05/2023 | N
+Brian Sanderson | Mistborn: The Well of Ascension | r | 03/2023 | N
 Luc Sante | The Factory of Facts | r | | Y
 Jose Saramago | The Elephant's Journey | r | 10/2013 | Y
 Jose Saramago | The Gospel According to Jesus Christ | r | 06/2011 | N

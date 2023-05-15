@@ -773,6 +773,7 @@ James S. A. Corey | Leviathan Wakes | r | 02/2023 | N
 Shehan Karunatilaka | The Seven Moons of Maali Almeida | r | 02/2023 | Y
 Randal Munroe | What If 2 | r | 02/2023 | Y
 Herve Le Tellier | L'Anomalie | r | 02/2023 | Y
+Brian Sanderson | Mistborn: The Well of Ascension | r | 03/2023 | N
 Mick Herron | Real Tigers | r | 03/2023 | N
 James S. A. Corey | Caliban's War | r | 03/2023 | N
 Nino Haratischwili | The Eighth Life | r | 04/2023 | N
@@ -780,3 +781,4 @@ Gabrielle Zevin | Tomorrow, and Tomorrow, and Tomorrow| r | 04/2023 | N
 Emily St John Mandel | Sea of Tranquility | r | 04/2023 | Y
 Tayari Jones | An American Marriage | r | 04/2023 | Y
 V. E. Schwab | A Gathering of Shadows | r | 04/2023 | N
+Brian Sanderson | Mistborn: The Hero of Ages | r | 05/2023 | N
