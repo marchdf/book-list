@@ -34,7 +34,7 @@ G.R.R. Martin | A Song of Ice and Fire | |
 Arkady Martine | Teixcalaan series |
 Kim Stanley Robinson | Mars trilogy | Green Mars
 Brian Sanderson | Mistborn | The Alloy of Law
-V. E. Schwab | Shades of Magic | A Conjuring of Light
+V. E. Schwab | Threads of Power Series | The Fragile Threads of Power
 
 ## Other
 Author | Title

@@ -652,6 +652,7 @@ Jean-Paul Sartre | Huis Close | r | | Y
 Jean-Paul Sartre | Les Mains Sales | r | | Y
 George Saunders | Tenth of December | r | 04/2015 | Y
 Arthur Schoppenhauer | The Art of Always Being Right | r | | Y
+V. E. Schwab | A Conjuring of Light | r | 06/2023 | N
 V. E. Schwab | A Darker Shade of Magic | r | 11/2022 | N
 V. E. Schwab | A Gathering of Shadows | r | 04/2023 | N
 Sir Walter Scott | Ivanhoe | r | 05/2010 | Y
