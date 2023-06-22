@@ -9,7 +9,6 @@ Geraldine Brooks | March
 Camus | l'envers et l'endroit
 Checkov | Five Plays
 Covey | Seven habits of highly effective people
-Anthony Doerr | Cloud Cuckoo Land
 Wolfram Eilenberger | Time of the Magicians
 Faulkner | The Sound and the Fury
 Malcolm Gladwell | The Tipping Point

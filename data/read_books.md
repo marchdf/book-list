@@ -783,3 +783,4 @@ Tayari Jones | An American Marriage | r | 04/2023 | Y
 V. E. Schwab | A Gathering of Shadows | r | 04/2023 | N
 Brian Sanderson | Mistborn: The Hero of Ages | r | 05/2023 | N
 V. E. Schwab | A Conjuring of Light | r | 06/2023 | N
+Anthony Doerr | Cloud Cuckoo Land | r | 06/2023 | Y
