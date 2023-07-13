@@ -22,6 +22,7 @@
 Author | Series name | Next book
 :------ |:------ |:------
 Joe Abercrombie | Age of Madness |
+James S. A. Corey | The Expanse | Cibola Burn
 Seth Dickinson | Masquerade |
 James Edward Gordon | | Structures
 Mick Herron | The Slough House | Spook Street

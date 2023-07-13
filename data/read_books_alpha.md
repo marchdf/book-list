@@ -130,6 +130,7 @@ Joseph Conrad | Heart of Darkness | r | | Y
 Joseph Conrad | Heart of Darkness | rr | 03/2017 | Y
 Joseph Conrad | The Secret Sharer | r | 03/2017 | N
 Frank Conroy | Stop-Time | r | | Y
+James S. A. Corey | Abaddon's Gate | r | 07/2023 | N
 James S. A. Corey | Caliban's War | r | 03/2023 | N
 James S. A. Corey | Leviathan Wakes | r | 02/2023 | N
 Corneille | Le Cid | r | | Y
