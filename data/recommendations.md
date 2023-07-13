@@ -97,10 +97,13 @@ Grimwood | Replay | rec. by Tom |
 Jean-Philippe Jaworski | [Janua Vera +](http://www.cafardcosmique.com/Janua-Vera-de-Jean-Philippe,1306) | rec. by Julien INSA |
 Steven King | Dark Tower | Brandon |
 R.F. Kuang | Babel | Colt |
+Ann Leckie | Ancillary Justice | |
 Ursula K LeGuin | Earthsea series | have A Wizard of Earthsea |
 Robert Ludlum | Bourne Ultimatum | vol 3 of trilogy
 G.R.R Martin | | last read = A dance with dragons |
 China Mieville | The Scar, Iron Council, King Rat |
+Naomi Novik | His Majesty's Dragon | |
+Naomi Novik | Uprooted | |
 Matthew Quirk | The 500 | rec. by [the Economist](http://www.economist.com/blogs/prospero/2012/07/new-summer-thriller?fsrc=gn_ep) |
 Kim Stanley Robinson | Green Mars, Blue Mars | Babbage says ``exquisite'' |
 Brandon Sanderson | The Way of Kings | good series, rec. by Tattered Cover and Philip |
