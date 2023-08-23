@@ -450,6 +450,7 @@ Hilary Mantel | A Place of Greater Safety | r | 04/2015 | Y
 Hilary Mantel | Bring Up the Bodies | r | 09/2013 | Y
 Hilary Mantel | Wolf Hall | r | 07/2011 | Y
 Greil Marcus | Lipstick Traces | r | 08/2013 | Y
+Javier Marias | Tomas Nevinson | r | 08/2023 | N
 Gabriel Garcia Marquez | Chronicle of a Death Foretold | r | 05/2018 | Y
 Gabriel Garcia Marquez | Love in the Time of Cholera | r | 06/2010 | Y
 Gabriel Garcia Marquez | One Hundred Years of Solitude | r | | Y
