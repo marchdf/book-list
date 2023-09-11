@@ -24,6 +24,7 @@ Author | Series name | Next book
 Joe Abercrombie | Age of Madness |
 James S. A. Corey | The Expanse | Cibola Burn
 Seth Dickinson | Masquerade |
+Steve Erikson | Malazan Book of the Fallen | Deadhouse Gates
 James Edward Gordon | | Structures
 Mick Herron | The Slough House | Spook Street
 Marlon James | | White Wing, Dark Star

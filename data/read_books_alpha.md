@@ -192,6 +192,7 @@ George Eliot | Adam Bede | r | 12/2017 | Y
 George Eliot | Middlemarch | r | | Y
 Ralph Ellison | Invisible Man | r | 01/2010 | Y
 Hans Enzensberger | The Number Devil | r | | Y
+Steve Erikson | Gardens of the Moon | r | 09/2023 | N
 Jeffrey Eugenides | Middlesex | r | 04/2011 | N
 Jeffrey Eugenides | The Marriage Plot | r | 03/2015 | Y
 Anne Fadiman | Ex Libris | r | | Y
