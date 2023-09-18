@@ -787,3 +787,4 @@ Anthony Doerr | Cloud Cuckoo Land | r | 06/2023 | Y
 James S. A. Corey | Abaddon's Gate | r | 07/2023 | N
 Javier Marias | Tomas Nevinson | r | 08/2023 | N
 Steve Erikson | Gardens of the Moon | r | 09/2023 | N
+David Grann | The Wager | r | 09/2023 | N
