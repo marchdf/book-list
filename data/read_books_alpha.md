@@ -565,6 +565,7 @@ Tim O'Brien | Going After Cacciato | r | 04/2010 | Y
 Tim O'Brien | In the Lake of the Woods | r | | Y
 Tim O'Brien | The Things They Carried | r | | Y
 Editor Joyce Carrol Oates | The Oxford Book of American Short Stories | r | 11/2010 | Y
+Joyce Carol Oates | We Were the Mulvaneys | r | 10/2023 | Y
 Michelle Obama | Becoming | r | 06/2020 | Y
 Tea Obreht | The Tiger's Wife | r | 02/2012 | N
 Michael Ondaatje | The Cat's Table | r | 08/2022 | Y

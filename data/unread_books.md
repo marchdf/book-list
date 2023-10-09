@@ -19,7 +19,6 @@ Ben Lerner | The Topeka School
 Hilary Mantel | The Mirror and the Light
 Cyril Massarato | 100 pages blanches
 David Mitchell | The Bone Clocks
-Joyce Carol Oates | We Were the Mulvaneys
 Edgar Allen Poe | Selected Tale
 George Saunders | Lincoln in the Bardo
 Shakespeare | Henry VI (part 1-3)
