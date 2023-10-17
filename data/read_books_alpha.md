@@ -203,8 +203,10 @@ Richard Feynman | Surely You're Joking, Mr. Feynman! | r | | Y
 Richard Feynman | The Meaning of It All | r | | Y
 F. Scott Fitzgerald | Tender is the Night | r | 12/2009 | Y
 F. Scott Fitzgerald | The Great Gatsby | rr | 01/2011 | Y
+Linda Flanagan | Take Back the Game | r | 10/2023 | N
 Flea | Acid for the Children | r | 02/2021 | N
 Ian Fleming | Moonraker | r | 09/2021 | N
+Lauren Fleshman | Good for a Girl | r | 10/2023 | N
 Jonathan Safran Foer | Eating Animals | r | 01/2011 | Y
 Jonathan Safran Foer | Everything is Illuminated | r | 09/2009 | Y
 Jonathan Safran Foer | Extremely Loud and Incredibly Close | r | 09/2010 | Y

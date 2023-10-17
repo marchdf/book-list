@@ -789,3 +789,5 @@ Javier Marias | Tomas Nevinson | r | 08/2023 | N
 Steve Erikson | Gardens of the Moon | r | 09/2023 | N
 David Grann | The Wager | r | 09/2023 | N
 Joyce Carol Oates | We Were the Mulvaneys | r | 10/2023 | Y
+Linda Flanagan | Take Back the Game | r | 10/2023 | N
+Lauren Fleshman | Good for a Girl | r | 10/2023 | N
