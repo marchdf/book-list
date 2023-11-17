@@ -132,6 +132,7 @@ Joseph Conrad | The Secret Sharer | r | 03/2017 | N
 Frank Conroy | Stop-Time | r | | Y
 James S. A. Corey | Abaddon's Gate | r | 07/2023 | N
 James S. A. Corey | Caliban's War | r | 03/2023 | N
+James S. A. Corey | Cibola Burn | r | 10/2023 | N
 James S. A. Corey | Leviathan Wakes | r | 02/2023 | N
 Corneille | Le Cid | r | | Y
 Bernard Cornwell | Azincourt | r | 06/2014 | Y
@@ -627,6 +628,7 @@ Patrick Robinson | Kilo Class | r | | Y
 Patrick Robinson | Nimitz Class | r | | N
 Oliver Roeder | Seven Games | r | 04/2022 | N
 Adam Rogers | Full Spectrum | r | 10/2021 | N
+Todd Rogers | Writing for Busy Readers | r | 11/2023 | N
 Philip Roth | The Human Stain | r | | Y
 Philip Roth | The Plot Against America | r | | Y
 J.K. Rowling | Harry Potter and the Chamber of Secrets | rrrrrrr | 09/2020 | Y
@@ -658,6 +660,7 @@ Jose Saramago | The Elephant's Journey | r | 10/2013 | Y
 Jose Saramago | The Gospel According to Jesus Christ | r | 06/2011 | N
 Jean-Paul Sartre | Huis Close | r | | Y
 Jean-Paul Sartre | Les Mains Sales | r | | Y
+George Saunders | Lincoln in the Bardo | r | 11/2023 | Y
 George Saunders | Tenth of December | r | 04/2015 | Y
 Arthur Schoppenhauer | The Art of Always Being Right | r | | Y
 V. E. Schwab | A Conjuring of Light | r | 06/2023 | N
