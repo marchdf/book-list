@@ -794,3 +794,4 @@ Lauren Fleshman | Good for a Girl | r | 10/2023 | N
 James S. A. Corey | Cibola Burn | r | 10/2023 | N
 George Saunders | Lincoln in the Bardo | r | 11/2023 | Y
 Todd Rogers | Writing for Busy Readers | r | 11/2023 | N
+Mick Herron | Spook Street | r | 11/2023 | N

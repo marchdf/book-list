@@ -26,7 +26,7 @@ James S. A. Corey | The Expanse | Nemisis gate
 Seth Dickinson | Masquerade |
 Steve Erikson | Malazan Book of the Fallen | Deadhouse Gates
 James Edward Gordon | | Structures
-Mick Herron | The Slough House | Spook Street
+Mick Herron | The Slough House | London Rules
 Marlon James | | White Wing, Dark Star
 N. K. Jemisin | |
 Robert Jordan | A Wheel of Time |
