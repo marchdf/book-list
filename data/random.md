@@ -22,7 +22,7 @@
 Author | Series name | Next book
 :------ |:------ |:------
 Joe Abercrombie | Age of Madness |
-James S. A. Corey | The Expanse | Nemisis gate
+James S. A. Corey | The Expanse | Babylon's Ashes
 Seth Dickinson | Masquerade |
 Steve Erikson | Malazan Book of the Fallen | Deadhouse Gates
 James Edward Gordon | | Structures

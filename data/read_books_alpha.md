@@ -134,6 +134,7 @@ James S. A. Corey | Abaddon's Gate | r | 07/2023 | N
 James S. A. Corey | Caliban's War | r | 03/2023 | N
 James S. A. Corey | Cibola Burn | r | 10/2023 | N
 James S. A. Corey | Leviathan Wakes | r | 02/2023 | N
+James S. A. Corey | Nemesis Games | r | 12/2023 | N
 Corneille | Le Cid | r | | Y
 Bernard Cornwell | Azincourt | r | 06/2014 | Y
 Stephen Crane | The Red Badge of Courage | r | 11/2019 | Y
