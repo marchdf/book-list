@@ -13,7 +13,7 @@ The following repository contains several lists pertaining to books:
 # Using
 
 1. Add a recently read book to `data/read_books.md`
-2. Run `./utils/alphabetize_list.py` to generate an alphabetized list of books
+2. Run `poetry run alphabetize` to generate an alphabetized list of books
 3. Commit and push
 
 # To do
