@@ -1,6 +1,6 @@
 """Executable for book-list package."""
 
-import book_list.book_list as bl
+import book_list.alphabetize as al
 
 if __name__ == "__main__":
-    bl.main()
+    al.main()

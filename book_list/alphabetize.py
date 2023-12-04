@@ -1,11 +1,10 @@
-"""Alphabetize a list of books
+"""Alphabetize a list of books.
 
 A simple script to parse lists of books and alphabetize based on the
 author last name.
 
 """
 
-import argparse
 import os
 import time
 from datetime import timedelta
@@ -14,18 +13,14 @@ import pandas as pd
 
 
 def main():
-    """Alphabetize a list of books"""
+    """Alphabetize a list of books."""
     start = time.time()
-
-    # Parse arguments
-    parser = argparse.ArgumentParser(description="Alphabetize the list of books")
-    args = parser.parse_args()
 
     # Setup
     tmpfile = "tmp.md"
     basedir = os.path.dirname(os.path.dirname(os.path.realpath(__file__)))
-    ifile = basedir + "/data/read_books.md"
-    ofile = basedir + "/data/read_books_alpha.md"
+    ifile = f"{basedir}/data/read_books.md"
+    ofile = f"{basedir}/data/read_books_alpha.md"
 
     # Parse the list of books
     df = pd.read_csv(
@@ -75,11 +70,7 @@ def main():
 
     # output timer
     end = time.time() - start
-    print(
-        "Elapsed time "
-        + str(timedelta(seconds=end))
-        + " (or {0:f} seconds)".format(end)
-    )
+    print(f"Elapsed time {timedelta(seconds=end)} (or {end:f} seconds)")
 
 
 if __name__ == "__main__":
