@@ -796,3 +796,4 @@ George Saunders | Lincoln in the Bardo | r | 11/2023 | Y
 Todd Rogers | Writing for Busy Readers | r | 11/2023 | N
 Mick Herron | Spook Street | r | 11/2023 | N
 James S. A. Corey | Nemesis Games | r | 12/2023 | N
+James Edward Gordon | Structures: Or Why Things Don't Fall Down | r | 12/2023 | N

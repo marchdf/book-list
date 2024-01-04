@@ -246,6 +246,7 @@ Nikolai Gogol | The Diary of a Madman and Other Stories | r | 11/2013 | Y
 Arthur Golden | Memoirs of a Geisha | r | | Y
 William Golding | Lord of the Flies | r | | Y
 William Golding | Pincher Martin | r | 09/2016 | Y
+James Edward Gordon | Structures: Or Why Things Don't Fall Down | r | 12/2023 | N
 James Edward Gordon | The New Science of Strong Materials | r | 01/2023 | N
 David Grann | Killers of the Flower Moon | r | 06/2020 | Y
 David Grann | The Wager | r | 09/2023 | N
