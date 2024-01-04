@@ -16,9 +16,6 @@ The following repository contains several lists pertaining to books:
 2. Run `poetry run alphabetize` to generate an alphabetized list of books
 3. Commit and push
 
-# To do
-Nothing right now.
-
 # Licensing
 
 See [LICENSE.md](LICENSE.md)
