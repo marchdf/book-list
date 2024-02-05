@@ -22,11 +22,11 @@
 Author | Series name | Next book
 :------ |:------ |:------
 Joe Abercrombie | Age of Madness |
-James S. A. Corey | The Expanse | Babylon's Ashes
+James S. A. Corey | The Expanse | Persepolis Rising
 Seth Dickinson | Masquerade |
 Steve Erikson | Malazan Book of the Fallen | Deadhouse Gates
 James Edward Gordon | | Structures
-Mick Herron | The Slough House | London Rules
+Mick Herron | The Slough House | Joe Country
 Marlon James | | White Wing, Dark Star
 N. K. Jemisin | |
 Robert Jordan | A Wheel of Time |

@@ -131,6 +131,7 @@ Joseph Conrad | Heart of Darkness | rr | 03/2017 | Y
 Joseph Conrad | The Secret Sharer | r | 03/2017 | N
 Frank Conroy | Stop-Time | r | | Y
 James S. A. Corey | Abaddon's Gate | r | 07/2023 | N
+James S. A. Corey | Babylon's Ashes | r | 01/2024 | N
 James S. A. Corey | Caliban's War | r | 03/2023 | N
 James S. A. Corey | Cibola Burn | r | 10/2023 | N
 James S. A. Corey | Leviathan Wakes | r | 02/2023 | N
@@ -311,6 +312,7 @@ Frank Herbert | The Eyes of Heisenberg | r | | Y
 Frank Herbert | The Godmakers | r | | Y
 Frank Herbert | Whipping Star | r | | Y
 Mick Herron | Dead Lions | r | 03/2020 | N
+Mick Herron | London Rules | r | 02/2024 | N
 Mick Herron | Real Tigers | r | 03/2023 | N
 Mick Herron | Slow Horses | r | 09/2019 | N
 Mick Herron | Spook Street | r | 11/2023 | N
