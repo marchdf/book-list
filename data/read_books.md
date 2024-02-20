@@ -799,3 +799,4 @@ James S. A. Corey | Nemesis Games | r | 12/2023 | N
 James Edward Gordon | Structures: Or Why Things Don't Fall Down | r | 12/2023 | N
 James S. A. Corey | Babylon's Ashes | r | 01/2024 | N
 Mick Herron | London Rules | r | 02/2024 | N
+James S. A. Corey | Persepolis Rising | r | 02/2024 | N

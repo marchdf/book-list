@@ -22,7 +22,7 @@
 Author | Series name | Next book
 :------ |:------ |:------
 Joe Abercrombie | Age of Madness |
-James S. A. Corey | The Expanse | Persepolis Rising
+James S. A. Corey | The Expanse | Tiamat's Wrath
 Seth Dickinson | Masquerade |
 Steve Erikson | Malazan Book of the Fallen | Deadhouse Gates
 James Edward Gordon | | Structures
