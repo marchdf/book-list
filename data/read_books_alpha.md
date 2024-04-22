@@ -137,6 +137,7 @@ James S. A. Corey | Cibola Burn | r | 10/2023 | N
 James S. A. Corey | Leviathan Wakes | r | 02/2023 | N
 James S. A. Corey | Nemesis Games | r | 12/2023 | N
 James S. A. Corey | Persepolis Rising | r | 02/2024 | N
+James S. A. Corey | Tiamat's Wrath | r | 04/2024 | N
 Corneille | Le Cid | r | | Y
 Bernard Cornwell | Azincourt | r | 06/2014 | Y
 Stephen Crane | The Red Badge of Courage | r | 11/2019 | Y
