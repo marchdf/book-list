@@ -96,6 +96,7 @@ Lewis Carroll | The Annotated Alice (Alice in Wonderland) | rr | 12/2016 | Y
 Lewis Carroll | Through the Looking-Glass | r | 04/2010 | Y
 Raymond Carver | Cathedral | r | 05/2013 | Y
 Cathcart | Plato and a Platypus Walk into a Bar | r | | Y
+Willa Cather | Death Comes for the Archbishop | r | 03/2024 | N
 Willa Cather | My Antonia | r | | Y
 Eleanor Catton | The Luminaries | r | 03/2018 | Y
 Celine | Voyage au Bout de la Nuit | r | | Y
@@ -158,6 +159,7 @@ Richard Dawkins | The God Delusion | r | | Y
 Don DeLillo | Falling Man | r | 12/2016 | Y
 Don DeLillo | White Noise | r | 08/2014 | Y
 Daniel Defoe | Robinson Crusoe | r | | Y
+Matthew Desmond | Evicted | r | 05/2024 | N
 Jared Diamond | Collapse | r | | Y
 Jared Diamond | Guns, Germs and Steel | r | | Y
 Junot Diaz | The Brief Wondrous Life of Oscar Wao | r | 12/2017 | Y
@@ -197,7 +199,9 @@ George Eliot | Adam Bede | r | 12/2017 | Y
 George Eliot | Middlemarch | r | | Y
 Ralph Ellison | Invisible Man | r | 01/2010 | Y
 Hans Enzensberger | The Number Devil | r | | Y
+Steve Erikson | Deadhouse Gates | r | 03/2024 | N
 Steve Erikson | Gardens of the Moon | r | 09/2023 | N
+Steve Erikson | Memories of Ice | r | 06/2024 | N
 Jeffrey Eugenides | Middlesex | r | 04/2011 | N
 Jeffrey Eugenides | The Marriage Plot | r | 03/2015 | Y
 Anne Fadiman | Ex Libris | r | | Y

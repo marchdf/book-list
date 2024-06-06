@@ -800,5 +800,9 @@ James Edward Gordon | Structures: Or Why Things Don't Fall Down | r | 12/2023 | 
 James S. A. Corey | Babylon's Ashes | r | 01/2024 | N
 Mick Herron | London Rules | r | 02/2024 | N
 James S. A. Corey | Persepolis Rising | r | 02/2024 | N
+Willa Cather | Death Comes for the Archbishop | r | 03/2024 | N
+Steve Erikson | Deadhouse Gates | r | 03/2024 | N
 James S. A. Corey | Tiamat's Wrath | r | 04/2024 | N
 Mick Herron | Joe Country | r | 04/2024 | N
+Matthew Desmond | Evicted | r | 05/2024 | N
+Steve Erikson | Memories of Ice | r | 06/2024 | N
