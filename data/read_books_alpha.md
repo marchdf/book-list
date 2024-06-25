@@ -135,6 +135,7 @@ James S. A. Corey | Abaddon's Gate | r | 07/2023 | N
 James S. A. Corey | Babylon's Ashes | r | 01/2024 | N
 James S. A. Corey | Caliban's War | r | 03/2023 | N
 James S. A. Corey | Cibola Burn | r | 10/2023 | N
+James S. A. Corey | Leviathan Falls | r | 06/2024 | N
 James S. A. Corey | Leviathan Wakes | r | 02/2023 | N
 James S. A. Corey | Nemesis Games | r | 12/2023 | N
 James S. A. Corey | Persepolis Rising | r | 02/2024 | N
