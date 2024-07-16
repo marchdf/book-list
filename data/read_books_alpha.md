@@ -234,6 +234,7 @@ Alexandra Fuller | Don't Let's Go to the Dogs Tonight | r | 03/2011 | N
 Jostein Gaarder | Sophie's World | r | 07/2015 | Y
 Neil Gaiman | American Gods | r | 05/2013 | Y
 J.K. Galbraith | Les Mensonges de l'economie | r | | Y
+Robert Galbraith | The Cuckoo's Calling | r | 07/2024 | Y
 John Galsworthy | The Man of Property | r | 07/2015 | Y
 David Gemel | Waylander II | r | | Y
 David Gemmel | Druss the Legend | r | | Y
