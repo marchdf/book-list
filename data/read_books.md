@@ -672,7 +672,7 @@ Alan Moore | Watchmen | rr | 12/2019 | N
 Margaret Atwood | The Handmaid's Tale | r | 01/2020 | Y
 Alan Moore | From Hell | r | 01/2020 | N
 Owen Matthews | An Impeccable Spy | r | 02/2020 | Y
-Liu Cixin | The Three-Body Problem | r | 02/2020 | Y
+Cixin Liu | The Three-Body Problem | r | 02/2020 | Y
 Renae De Liz | The Legend of Wonder Woman | r | 02/2020 | N
 Susan Orlean | The Library Book | r | 03/2020 | Y
 Mike Mignola | Hellboy in Hell | r | 03/2020 | N

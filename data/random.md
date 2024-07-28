@@ -71,3 +71,15 @@ Hawthorne |
 Austen | got Emma, PnP, SnS
 Smollet | Humphrey Clinker
 Smollet | Peregrine Pickle
+
+## Color
+Author  | Title  | Notes
+:------ |:------ |:------
+Josef Albers | Interactions of Color
+Kassia St. Clair | The Secret Lives of Color | history
+Eckstut | Secret Language of Color | science take
+Eckstut | What is Color? 50 questions and answers
+Betty Edwards | Color | how to mix color, quick basics
+Victoria Finlay | Color | history
+Edith Anderson Feisner | Color Studies
+Wada | A Dictionary Of Color Combinations | cool combos
