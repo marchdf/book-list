@@ -808,3 +808,4 @@ Matthew Desmond | Evicted | r | 05/2024 | N
 Steve Erikson | Memories of Ice | r | 06/2024 | N
 James S. A. Corey | Leviathan Falls | r | 06/2024 | N
 Robert Galbraith | The Cuckoo's Calling | r | 07/2024 | Y
+James S. A. Corey | Memory's Legion | r | 07/2024 | N
