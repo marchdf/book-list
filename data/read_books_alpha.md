@@ -112,6 +112,7 @@ Agatha Christie | Death in the Clouds | r | 05/2020 | Y
 Agatha Christie | Murder of Roger Ackroyd | r | 02/2019 | Y
 Agatha Christie | Murder on the Orient Express | r | 04/2018 | Y
 Robert Cialdini | Influence, the Psychology of Persuasion | r | 02/2010 | Y
+Kassia St. Clair | The Secret Lives of Color | r | 08/2024 | Y
 Christopher Clark | The Sleepwalkers | r | 08/2017 | Y
 Susanna Clarke | Jonathan Strange and Mr. Norrell | r | 03/2011 | Y
 Susanna Clarke | Piranesi | r | 10/2021 | N

@@ -2,6 +2,7 @@
 
 Author | Title 
 :------ |:------
+Dave Addey | Typeset in the Future
 Kate Beaton | Hark! A Vagrant
 Samuel Beckett | Waiting for Godot
 Bradbury and Greaves | Emotional Intelligence
