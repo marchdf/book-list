@@ -83,6 +83,7 @@ Isaac Asimov | Foundation and Earth, Prelude to Foundation, Forward to Foundatio
 Leigh Bardugo | Six of Crows | rec. by Tim Buckley of CAD |
 Stephane Beauverger | [Le Dechonologue](http://www.cafardcosmique.com/Le-Dechronologue-de-Stephane) | rec. by Julien INSA |
 Alex Berenson | The Counterfeit Agent | rec. by [the Economist](http://www.economist.com/news/books-and-arts/21597874-alex-berenson-top-form-crimes-and-misdemeanours) |
+Pierce Brown | Red Rising | Colt |
 Bernard Clavel | Le Royaume du Nord | rec. by Julien INSA |
 Ted Chiang | Exhalation | Colt |
 Agatha Christie | ABC Murders, And then there were none, Curtain, Endless Night, Affair Styles, Peril at End House, Murder Vicarage, Crooked house| |
@@ -91,6 +92,8 @@ Harlan Ellison | I Have No Mouth, and I Must Scream | rec. by TJ |
 Ian Fleming | From Russia, with Love | economist spy article |
 William Gibson | Neuromancer | |
 Grimwood | Replay | rec. by Tom |
+Lev Grossman | The Magicians | Colt |
+Robert Jackson Bennett | The Tainted Cup | Colt |
 Jean-Philippe Jaworski | [Janua Vera +](http://www.cafardcosmique.com/Janua-Vera-de-Jean-Philippe,1306) | rec. by Julien INSA |
 Steven King | Dark Tower | Brandon |
 R.F. Kuang | Babel | Colt |

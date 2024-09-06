@@ -15,6 +15,7 @@ Douglas Adams | The Hitchiker's Guide to the Galaxy | rr | 07/2018 | Y
 Douglas Adams | The Long Dark Tea-time of the Soul | r | | Y
 Douglas Adams | The Restaurant at the End of the Universe | r | | Y
 Douglas Adams | The Restaurant at the End of the Universe | rr | 07/2018 | Y
+Katherine Addison | The Goblin Emperor | r | 08/2024 | N
 Brian Aldiss | Helliconia Spring | r | | Y
 Lloyd Alexander | the Chronicles of Prydain | r | | N
 Isable Allende | The Infinite Plan | r | 10/2020 | Y
