@@ -811,3 +811,4 @@ Robert Galbraith | The Cuckoo's Calling | r | 07/2024 | Y
 James S. A. Corey | Memory's Legion | r | 07/2024 | N
 Kassia St. Clair | The Secret Lives of Color | r | 08/2024 | Y
 Katherine Addison | The Goblin Emperor | r | 08/2024 | N
+Karel Capek | The War with the Newts | r | 09/2024 | N

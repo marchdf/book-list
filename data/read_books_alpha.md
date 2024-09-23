@@ -86,6 +86,7 @@ Albert Camus | Caligula et Le Malentendu | r | | Y
 Albert Camus | L'Etranger | r | | Y
 Albert Camus | La Chute | r | | Y
 Albert Camus | La Peste | r | | Y
+Karel Capek | The War with the Newts | r | 09/2024 | N
 Truman Capote | Breakfast at Tiffany's | r | 04/2013 | Y
 Truman Capote | In Cold Blood | r | | Y
 Orson Scott Card | Ender's Game | r | 07/2012 | Y
