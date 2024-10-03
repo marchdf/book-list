@@ -546,6 +546,7 @@ Haruki Murakami | 1Q84 | r | 05/2012 | Y
 Haruki Murakami | Hard-Boiled Wonderland and the End of the World | r | 11/2010 | Y
 Haruki Murakami | The Wind-Up Bird Chronicle | r | 10/2009 | Y
 Robert Musil | Young Torless | r | | Y
+Valentin Musso | Le Mystere de la maison aux trois ormes | r | 10/2024 | Y
 Nabokov | Lolita | r | | Y
 Vladimir Nabokov | Speak, Memory | r | 11/2018 | Y
 Vladimir Nabokov | The Real Life of Sebastian Knight | r | 09/2012 | Y
