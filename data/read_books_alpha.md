@@ -449,6 +449,7 @@ Mikhail Lermontov | A Hero of Our Time | r | 07/2016 | Y
 Michael Lewis | Flash Boys | r | 10/2016 | Y
 Michael Lewis | Moneyball | r | 08/2018 | Y
 Alan Lightman | Einstein's Dreams | r | | Y
+Cixin Liu | The Dark Forest | r | 10/2024 | Y
 Cixin Liu | The Three-Body Problem | r | 02/2020 | Y
 Renae De Liz | The Legend of Wonder Woman | r | 02/2020 | N
 David Lodge | Nice Work | r | 02/2018 | Y
@@ -512,6 +513,7 @@ Cormac McCarthy | The Crossing | rr | 12/2012 | Y
 Cormac McCarthy | The Road | r | | Y
 McDonald | The Bedford Companion to Shakespeare | r | | Y
 Ian McEwan | Atonement | r | 11/2017 | Y
+Ian McEwan | Nutshell | r | 10/2024 | Y
 Jay McInerney | Bright Lights Big City | r | 12/2011 | Y
 Fiona McIntosh | Blood and Memory | r | | Y
 Fiona McIntosh | Bridge of Souls | r | | Y

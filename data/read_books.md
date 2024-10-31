@@ -813,3 +813,5 @@ Kassia St. Clair | The Secret Lives of Color | r | 08/2024 | Y
 Katherine Addison | The Goblin Emperor | r | 08/2024 | N
 Karel Capek | The War with the Newts | r | 09/2024 | N
 Valentin Musso | Le Mystere de la maison aux trois ormes | r | 10/2024 | Y
+Ian McEwan | Nutshell | r | 10/2024 | Y
+Cixin Liu | The Dark Forest | r | 10/2024 | Y

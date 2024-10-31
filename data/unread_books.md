@@ -10,7 +10,6 @@ Geraldine Brooks | March
 Camus | l'envers et l'endroit
 Checkov | Five Plays
 Cixin Liu | Death's End
-Cixin Lui | The Dark Forest
 Tom Cornsweet | Visual Perception
 Covey | Seven habits of highly effective people
 Wolfram Eilenberger | Time of the Magicians
@@ -25,10 +24,8 @@ Maurice Leblanc | Arsene Lupin
 Ben Lerner | The Topeka School
 Hilary Mantel | The Mirror and the Light
 Cyril Massarato | 100 pages blanches
-Ian McEwan | Nutshell
 David Mitchell | The Bone Clocks
 Edgar Allen Poe | Selected Tale
-George Saunders | Lincoln in the Bardo
 Shakespeare | Henry VI (part 1-3)
 Zadie Smith | White Tiger
 Neal Stephenson | The Diamond Age
