@@ -129,6 +129,8 @@ Suzanne Collins | Catching Fire | r | 02/2018 | N
 Suzanne Collins | Mockingjay | r | 02/2018 | N
 Suzanne Collins | The Hunger Games | r | 08/2015 | Y
 Wilkie Collins | The Woman in White | r | 01/2014 | Y
+Amanda Conner | Harley Quinn Vol 1 Hot in the City | r | 11/2024 | N
+Amanda Conner | Harley Quinn Vol 2 Power Outage | r | 11/2024 | N
 Joseph Conrad | Heart of Darkness | r | | Y
 Joseph Conrad | Heart of Darkness | rr | 03/2017 | Y
 Joseph Conrad | The Secret Sharer | r | 03/2017 | N
@@ -238,6 +240,7 @@ Jostein Gaarder | Sophie's World | r | 07/2015 | Y
 Neil Gaiman | American Gods | r | 05/2013 | Y
 J.K. Galbraith | Les Mensonges de l'economie | r | | Y
 Robert Galbraith | The Cuckoo's Calling | r | 07/2024 | Y
+Robert Galbraith | The Silkworm | r | 11/2024 | Y
 John Galsworthy | The Man of Property | r | 07/2015 | Y
 David Gemel | Waylander II | r | | Y
 David Gemmel | Druss the Legend | r | | Y

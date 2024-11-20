@@ -815,3 +815,6 @@ Karel Capek | The War with the Newts | r | 09/2024 | N
 Valentin Musso | Le Mystere de la maison aux trois ormes | r | 10/2024 | Y
 Ian McEwan | Nutshell | r | 10/2024 | Y
 Cixin Liu | The Dark Forest | r | 10/2024 | Y
+Amanda Conner | Harley Quinn Vol 1 Hot in the City | r | 11/2024 | N
+Amanda Conner | Harley Quinn Vol 2 Power Outage | r | 11/2024 | N
+Robert Galbraith | The Silkworm | r | 11/2024 | Y

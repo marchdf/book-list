@@ -15,7 +15,6 @@ Covey | Seven habits of highly effective people
 Wolfram Eilenberger | Time of the Magicians
 Faulkner | The Sound and the Fury
 Elena Ferrante | My brilliant friend
-Robert Galbraith | The Silkworm
 Malcolm Gladwell | The Tipping Point
 Herodotus | The Histories
 James Joyce | A Portrait of the Artist as a Young Man
