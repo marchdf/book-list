@@ -550,6 +550,9 @@ Randal Munroe | What If 2 | r | 02/2023 | Y
 Haruki Murakami | 1Q84 | r | 05/2012 | Y
 Haruki Murakami | Hard-Boiled Wonderland and the End of the World | r | 11/2010 | Y
 Haruki Murakami | The Wind-Up Bird Chronicle | r | 10/2009 | Y
+Sean Murphy | Batman: White Knight | r | 11/2024 | Y
+Sean Murphy | Beyond the White Knight |  r | 11/2024 | Y
+Sean Murphy | Curse of the White Knight | r | 11/2024 | Y
 Robert Musil | Young Torless | r | | Y
 Valentin Musso | Le Mystere de la maison aux trois ormes | r | 10/2024 | Y
 Nabokov | Lolita | r | | Y
