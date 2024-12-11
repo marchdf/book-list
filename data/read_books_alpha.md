@@ -46,6 +46,7 @@ James Baldwin | The Fire Next Time | r | 11/2020 | N
 John Banville | The Sea | r | 10/2018 | Y
 Julian Barnes | The Sense of an Ending | r | 02/2014 | Y
 T.A. Barron | The Lost Years of Merlin and some other... | r | | Y
+Annie Barrows | Ivy and Bean (book 1) | r | 11/2024 | N
 Henry Beard | X-treme Latin | r | | Y
 Mary Beard | SPQR | r | 10/2018 | Y
 Lauren Belfer | City of Light | r | 09/2018 | Y
@@ -226,6 +227,7 @@ Jonathan Safran Foer | Eating Animals | r | 01/2011 | Y
 Jonathan Safran Foer | Everything is Illuminated | r | 09/2009 | Y
 Jonathan Safran Foer | Extremely Loud and Incredibly Close | r | 09/2010 | Y
 Ford Maddox Ford | The Good Soldier | r | 11/2018 | Y
+John M. Ford | The Dragon Waiting | r | 12/2024 | N
 E. M. Forster | A Room with a View | r | 09/2016 | Y
 E. M. Forster | Where Angels Fear to Tread | r | 05/2017 | Y
 Fraction | Hawkeye 1 | r | 11/2017 | N
@@ -550,9 +552,9 @@ Randal Munroe | What If 2 | r | 02/2023 | Y
 Haruki Murakami | 1Q84 | r | 05/2012 | Y
 Haruki Murakami | Hard-Boiled Wonderland and the End of the World | r | 11/2010 | Y
 Haruki Murakami | The Wind-Up Bird Chronicle | r | 10/2009 | Y
-Sean Murphy | Batman: White Knight | r | 11/2024 | Y
-Sean Murphy | Beyond the White Knight |  r | 11/2024 | Y
-Sean Murphy | Curse of the White Knight | r | 11/2024 | Y
+Sean Murphy | Batman: White Knight | r | 11/2024 | N
+Sean Murphy | Beyond the White Knight |  r | 11/2024 | N
+Sean Murphy | Curse of the White Knight | r | 11/2024 | N
 Robert Musil | Young Torless | r | | Y
 Valentin Musso | Le Mystere de la maison aux trois ormes | r | 10/2024 | Y
 Nabokov | Lolita | r | | Y
