@@ -823,3 +823,4 @@ Sean Murphy | Batman: White Knight | r | 11/2024 | N
 Sean Murphy | Curse of the White Knight | r | 11/2024 | N
 Sean Murphy | Beyond the White Knight |  r | 11/2024 | N
 John M. Ford | The Dragon Waiting | r | 12/2024 | N
+Gregory Maguire | Wicked | r | 12/2024 | N

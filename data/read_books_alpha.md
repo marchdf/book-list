@@ -467,6 +467,7 @@ Robert Ludlum | The Bourne Ultimatum | r | 06/2021 | N
 Ben Macintyre | A Spy Among Friends | r | 09/2021 | Y
 Ben Macintyre | The Spy and The Traitor | r | 09/2022 | Y
 Maddox | The Alphabet of Manliness | r | | Y
+Gregory Maguire | Wicked | r | 12/2024 | N
 Norman Mailer | An American Dream | r | | Y
 Norman Mailer | The Naked and the Dead | r | | Y
 Andre Malraux | La Condition Humaine | r | | Y
