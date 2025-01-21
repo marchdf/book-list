@@ -824,3 +824,5 @@ Sean Murphy | Curse of the White Knight | r | 11/2024 | N
 Sean Murphy | Beyond the White Knight |  r | 11/2024 | N
 John M. Ford | The Dragon Waiting | r | 12/2024 | N
 Gregory Maguire | Wicked | r | 12/2024 | N
+Nick Harkaway | Karla's Choice | r | 01/2025 | N
+William Gibson | Neuromancer | r | 01/2025 | N

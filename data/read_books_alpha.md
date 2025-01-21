@@ -252,6 +252,7 @@ David Gemmel | Quest for Lost Heroes | r | | Y
 David Gemmel | The King Beyond the Gate | r | | Y
 David Gemmel | Waylander | r | | Y
 Allan Gibbons | The Shadow of the Minotaur | r | | Y
+William Gibson | Neuromancer | r | 01/2025 | N
 Gillen | The Wicked and the Divine I | r | 10/2016 | N
 Gillen | The Wicked and the Divine II | r | 11/2016 | N
 Gillen | The Wicked and the Divine III | r | 11/2016 | N
@@ -301,6 +302,7 @@ Thomas Hardy | Tess of the D'Urbervilles | r | | Y
 Thomas Hardy | The Mayor of Casterbridge | r | | Y
 Thomas Hardy | The Return of the Native | r | 06/2017 | Y
 Tim Harford | The Undercover Economist | r | 02/2014 | Y
+Nick Harkaway | Karla's Choice | r | 01/2025 | N
 Robert Harris | An Officer and a Spy | r | 04/2018 | Y
 Robert Harris | Pompeii | r | 05/2016 | Y
 Stephen Hawking | A Brief History of Time | r | | Y
