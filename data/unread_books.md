@@ -12,10 +12,9 @@ Checkov | Five Plays
 Cixin Liu | Death's End
 Tom Cornsweet | Visual Perception
 Covey | Seven habits of highly effective people
-Wolfram Eilenberger | Time of the Magicians
+Percival Everett | James
 Faulkner | The Sound and the Fury
 Elena Ferrante | My brilliant friend
-Malcolm Gladwell | The Tipping Point
 Herodotus | The Histories
 James Joyce | A Portrait of the Artist as a Young Man
 Steven King | The Drawing of the Three
@@ -25,7 +24,9 @@ Hilary Mantel | The Mirror and the Light
 Cyril Massarato | 100 pages blanches
 David Mitchell | The Bone Clocks
 Edgar Allen Poe | Selected Tale
+Nicholas Royle | Ornitholorgy
 Shakespeare | Henry VI (part 1-3)
 Zadie Smith | White Tiger
 Neal Stephenson | The Diamond Age
 Elizabeth Strout | Olive Kitteridge
+Wright Thompson | The Barn
