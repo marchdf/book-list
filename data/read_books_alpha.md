@@ -202,6 +202,7 @@ Umberto Eco | On Beauty | r | | Y
 Umberto Eco | The Name of the Rose | r | | N
 David Eddings | Pawn of Prophecy | r | | Y
 Dave Eggers | What is the What | r | 06/2011 | N
+Jonathan Eig | King | r | 02/2025 | Y
 George Eliot | Adam Bede | r | 12/2017 | Y
 George Eliot | Middlemarch | r | | Y
 Ralph Ellison | Invisible Man | r | 01/2010 | Y
