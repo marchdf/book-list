@@ -827,3 +827,4 @@ Gregory Maguire | Wicked | r | 12/2024 | N
 Nick Harkaway | Karla's Choice | r | 01/2025 | N
 William Gibson | Neuromancer | r | 01/2025 | N
 Jonathan Eig | King | r | 02/2025 | Y
+Mick Herron | Slough House | r | 02/2025 | N

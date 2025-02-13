@@ -25,7 +25,7 @@ Joe Abercrombie | Age of Madness |
 Seth Dickinson | Masquerade |
 Steve Erikson | Malazan Book of the Fallen | Deadhouse Gates
 James Edward Gordon | | Structures
-Mick Herron | The Slough House | Joe Country
+Mick Herron | The Slough House | Bad Actors
 Marlon James | | White Wing, Dark Star
 N. K. Jemisin | |
 Robert Jordan | A Wheel of Time |

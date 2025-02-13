@@ -334,6 +334,7 @@ Mick Herron | Dead Lions | r | 03/2020 | N
 Mick Herron | Joe Country | r | 04/2024 | N
 Mick Herron | London Rules | r | 02/2024 | N
 Mick Herron | Real Tigers | r | 03/2023 | N
+Mick Herron | Slough House | r | 02/2025 | N
 Mick Herron | Slow Horses | r | 09/2019 | N
 Mick Herron | Spook Street | r | 11/2023 | N
 Stefan Hertmans | War and Turpentine | r | 07/2018 | Y
