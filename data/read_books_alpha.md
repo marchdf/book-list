@@ -207,9 +207,10 @@ George Eliot | Adam Bede | r | 12/2017 | Y
 George Eliot | Middlemarch | r | | Y
 Ralph Ellison | Invisible Man | r | 01/2010 | Y
 Hans Enzensberger | The Number Devil | r | | Y
-Steve Erikson | Deadhouse Gates | r | 03/2024 | N
-Steve Erikson | Gardens of the Moon | r | 09/2023 | N
-Steve Erikson | Memories of Ice | r | 06/2024 | N
+Steven Erikson | Deadhouse Gates | r | 03/2024 | N
+Steven Erikson | Gardens of the Moon | r | 09/2023 | N
+Steven Erikson | House of Chains | r | 03/2025 | N
+Steven Erikson | Memories of Ice | r | 06/2024 | N
 Jeffrey Eugenides | Middlesex | r | 04/2011 | N
 Jeffrey Eugenides | The Marriage Plot | r | 03/2015 | Y
 Anne Fadiman | Ex Libris | r | | Y
@@ -795,6 +796,7 @@ Evelyn Waugh | Decline and Fall | r | 03/2012 | Y
 Evelyn Waugh | Scoop | r | 01/2018 | Y
 H.G. Wells | A Short History of the World | r | | Y
 H.G. Wells | The Invisible Man | r | | Y
+Martha Wells | All Systems Red | r | 03/2025 | N
 Bernard Werber | La Revolution des Fourmis | r | | N
 Bernard Werber | Le Jour des Fourmis | r | | N
 Bernard Werber | Les Fourmis | r | | Y

@@ -786,7 +786,7 @@ V. E. Schwab | A Conjuring of Light | r | 06/2023 | N
 Anthony Doerr | Cloud Cuckoo Land | r | 06/2023 | Y
 James S. A. Corey | Abaddon's Gate | r | 07/2023 | N
 Javier Marias | Tomas Nevinson | r | 08/2023 | N
-Steve Erikson | Gardens of the Moon | r | 09/2023 | N
+Steven Erikson | Gardens of the Moon | r | 09/2023 | N
 David Grann | The Wager | r | 09/2023 | N
 Joyce Carol Oates | We Were the Mulvaneys | r | 10/2023 | Y
 Linda Flanagan | Take Back the Game | r | 10/2023 | N
@@ -801,11 +801,11 @@ James S. A. Corey | Babylon's Ashes | r | 01/2024 | N
 Mick Herron | London Rules | r | 02/2024 | N
 James S. A. Corey | Persepolis Rising | r | 02/2024 | N
 Willa Cather | Death Comes for the Archbishop | r | 03/2024 | N
-Steve Erikson | Deadhouse Gates | r | 03/2024 | N
+Steven Erikson | Deadhouse Gates | r | 03/2024 | N
 James S. A. Corey | Tiamat's Wrath | r | 04/2024 | N
 Mick Herron | Joe Country | r | 04/2024 | N
 Matthew Desmond | Evicted | r | 05/2024 | N
-Steve Erikson | Memories of Ice | r | 06/2024 | N
+Steven Erikson | Memories of Ice | r | 06/2024 | N
 James S. A. Corey | Leviathan Falls | r | 06/2024 | N
 Robert Galbraith | The Cuckoo's Calling | r | 07/2024 | Y
 James S. A. Corey | Memory's Legion | r | 07/2024 | N
@@ -828,3 +828,5 @@ Nick Harkaway | Karla's Choice | r | 01/2025 | N
 William Gibson | Neuromancer | r | 01/2025 | N
 Jonathan Eig | King | r | 02/2025 | Y
 Mick Herron | Slough House | r | 02/2025 | N
+Steven Erikson | House of Chains | r | 03/2025 | N
+Martha Wells | All Systems Red | r | 03/2025 | N
