@@ -774,6 +774,7 @@ John Kennedy Toole | A Confederacy of Dunces | r | 10/2010 | Y
 Anthony Trollope | The Warden | r | | Y
 Barbara Tuchman | A Distant Mirror | r | | Y
 Barbara Tuchman | The Guns of August | r | | Y
+Mark Twain | The Adventures of Huckleberry Finn | r | 04/2025 | Y
 Sun Tzu | The Art of War | r | | Y
 John Updike | Rabbit, Run | r | 06/2010 | Y
 Jeff VanderMeer | Acceptance | r | 05/2022 | N
