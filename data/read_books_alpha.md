@@ -101,6 +101,7 @@ Raymond Carver | Cathedral | r | 05/2013 | Y
 Cathcart | Plato and a Platypus Walk into a Bar | r | | Y
 Willa Cather | Death Comes for the Archbishop | r | 03/2024 | N
 Willa Cather | My Antonia | r | | Y
+Eleanor Catton | Birnam Wood | r | 04/2015 | Y
 Eleanor Catton | The Luminaries | r | 03/2018 | Y
 Celine | Voyage au Bout de la Nuit | r | | Y
 Cervantes | Don Quixote | r | | Y
@@ -213,6 +214,7 @@ Steven Erikson | House of Chains | r | 03/2025 | N
 Steven Erikson | Memories of Ice | r | 06/2024 | N
 Jeffrey Eugenides | Middlesex | r | 04/2011 | N
 Jeffrey Eugenides | The Marriage Plot | r | 03/2015 | Y
+Percival Everett | James | r | 04/2025 | Y
 Anne Fadiman | Ex Libris | r | | Y
 Falkner | Moonfleet | r | | Y
 William Faulkner | The Sound and the Fury | r | | N
@@ -798,6 +800,7 @@ Evelyn Waugh | Scoop | r | 01/2018 | Y
 H.G. Wells | A Short History of the World | r | | Y
 H.G. Wells | The Invisible Man | r | | Y
 Martha Wells | All Systems Red | r | 03/2025 | N
+Martha Wells | Artificial Condition | r | 04/2025 | N
 Bernard Werber | La Revolution des Fourmis | r | | N
 Bernard Werber | Le Jour des Fourmis | r | | N
 Bernard Werber | Les Fourmis | r | | Y

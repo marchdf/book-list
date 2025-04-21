@@ -12,7 +12,6 @@ Checkov | Five Plays
 Cixin Liu | Death's End
 Tom Cornsweet | Visual Perception
 Covey | Seven habits of highly effective people
-Percival Everett | James
 Faulkner | The Sound and the Fury
 Elena Ferrante | My brilliant friend
 Herodotus | The Histories
