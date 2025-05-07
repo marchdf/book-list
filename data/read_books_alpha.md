@@ -333,6 +333,7 @@ Frank Herbert | Heretics of Dune | r | | Y
 Frank Herbert | The Eyes of Heisenberg | r | | Y
 Frank Herbert | The Godmakers | r | | Y
 Frank Herbert | Whipping Star | r | | Y
+Mick Herron | Bad Actors | r | 05/2025 | N
 Mick Herron | Dead Lions | r | 03/2020 | N
 Mick Herron | Joe Country | r | 04/2024 | N
 Mick Herron | London Rules | r | 02/2024 | N
