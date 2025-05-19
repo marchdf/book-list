@@ -419,6 +419,7 @@ Ken Kesey | One Flew Over the Cuckoo's Nest | r | | Y
 Jeff Benedict and Armi Keteyan | The System | r | 09/2014 | Y
 Laurie King | Pirate King | r | 10/2017 | N
 Stephen King | The Gunslinger (The Dark Tower I) | r | 12/2018 | N
+Barbara Kingsolver | Demon Copperhead | r | 05/2025 | Y
 Barbara Kingsolver | The Lacuna | r | 08/2012 | Y
 Barbara Kingsolver | The Poissonwood Bible | r | 12/2010 | Y
 Rudyard Kipling | Kim | r | 09/2018 | Y

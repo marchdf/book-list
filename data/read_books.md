@@ -835,3 +835,4 @@ Martha Wells | Artificial Condition | r | 04/2025 | N
 Percival Everett | James | r | 04/2025 | Y
 Eleanor Catton | Birnam Wood | r | 04/2015 | Y
 Mick Herron | Bad Actors | r | 05/2025 | N
+Barbara Kingsolver | Demon Copperhead | r | 05/2025 | Y
