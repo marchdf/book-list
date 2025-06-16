@@ -282,6 +282,7 @@ Robert Graves | King Jesus | r | | Y
 Robert Graves | The Greek Myths | r | | Y
 Robert Graves | They Hanged My Saintly Billy | r | 09/2013 | Y
 Robert Graves | Wife to Mr Milton | r | 08/2012 | Y
+Graham Greene | Brighton Rock | r | 06/2025 | Y
 Graham Greene | Our Man in Havana | r | 03/2012 | Y
 Graham Greene | The End of the Affair | r | 10/2011 | Y
 Graham Greene | The Human Factor | r | 03/2011 | Y
