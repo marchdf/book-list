@@ -13,7 +13,6 @@ Cixin Liu | Death's End
 Tom Cornsweet | Visual Perception
 Covey | Seven habits of highly effective people
 Faulkner | The Sound and the Fury
-Elena Ferrante | My brilliant friend
 Herodotus | The Histories
 James Joyce | A Portrait of the Artist as a Young Man
 Steven King | The Drawing of the Three
