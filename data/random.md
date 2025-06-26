@@ -22,20 +22,18 @@
 Author | Series name | Next book
 :------ |:------ |:------
 Joe Abercrombie | Age of Madness |
+Robert Jackson Bennett | Shadow of Leviathan | A Drop of Corruption
 Seth Dickinson | Masquerade |
-Steve Erikson | Malazan Book of the Fallen | Deadhouse Gates
-James Edward Gordon | | Structures
-Mick Herron | The Slough House | Bad Actors
+Steve Erikson | Malazan Book of the Fallen | Midnight Tides
+Mick Herron | The Slough House | Clown Town
 Marlon James | | White Wing, Dark Star
 N. K. Jemisin | |
 Robert Jordan | A Wheel of Time |
 Steven King | The Dark Tower | The Drawing of the Three
-Fonda Lee | Green Bones Saga | Jade Legacy
 G.R.R. Martin | A Song of Ice and Fire | |
 Arkady Martine | Teixcalaan series |
 Kim Stanley Robinson | Mars trilogy | Green Mars
 Brian Sanderson | Mistborn | The Alloy of Law
-V. E. Schwab | Threads of Power Series | The Fragile Threads of Power
 
 ## Other
 Author | Title

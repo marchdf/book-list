@@ -51,6 +51,7 @@ Henry Beard | X-treme Latin | r | | Y
 Mary Beard | SPQR | r | 10/2018 | Y
 Lauren Belfer | City of Light | r | 09/2018 | Y
 Saul Bellow | The Adventures of Augie March | r | 07/2010 | Y
+Robert Jackson Bennett | The Tainted Cup | r | 06/2025 | N
 John Berger | Ways of Seeing | r | | Y
 William Bernstein | The Four Pillars of Investing | r | 10/2013 | Y
 Isabella Bird | A Lady's Life in the Rocky Mountains | r | 11/2019 | N

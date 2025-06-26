@@ -838,3 +838,4 @@ Mick Herron | Bad Actors | r | 05/2025 | N
 Barbara Kingsolver | Demon Copperhead | r | 05/2025 | Y
 Graham Greene | Brighton Rock | r | 06/2025 | Y
 Elena Ferrante | My Brilliant Friend | r | 06/2025 | Y
+Robert Jackson Bennett | The Tainted Cup | r | 06/2025 | N
