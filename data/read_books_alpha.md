@@ -354,6 +354,7 @@ Weis and Hickman | Dragonlance Legends (3 vol.)| r | | Y
 Weis and Hickman | Heroes vol 1 | r | | Y
 Weis and Hickman | Tales (3 vol.) | r | | Y
 Weis and Hicman | Preludes II vol.3 | r | | Y
+Patricia Highsmith | Strangers on a Train | r | 07/2025 | N
 Patricia Highsmith | The Talented Mr Ripley | r | 05/2021 | N
 Robin Hobb | Assassin's Apprentice | r | | Y
 Robin Hobb | Assassin's Quest | r | | Y
