@@ -840,3 +840,4 @@ Graham Greene | Brighton Rock | r | 06/2025 | Y
 Elena Ferrante | My Brilliant Friend | r | 06/2025 | Y
 Robert Jackson Bennett | The Tainted Cup | r | 06/2025 | N
 Patricia Highsmith | Strangers on a Train | r | 07/2025 | N
+James Vincent | Beyond Measure | r | 07/2025 | N

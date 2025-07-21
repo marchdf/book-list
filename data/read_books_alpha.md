@@ -788,6 +788,7 @@ John Updike | Rabbit, Run | r | 06/2010 | Y
 Jeff VanderMeer | Acceptance | r | 05/2022 | N
 Jeff VanderMeer | Annihilation | r | 05/2022 | N
 Jeff VanderMeer | Authority | r | 05/2022 | N
+James Vincent | Beyond Measure | r | 07/2025 | N
 Voltaire | Candide | r | | Y
 Kurt Vonnegut | Cat's Cradle | r | 01/2010 | Y
 Kurt Vonnegut | Slaughterhouse-Five | r | | Y
