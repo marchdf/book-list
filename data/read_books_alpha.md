@@ -15,6 +15,7 @@ Douglas Adams | The Hitchiker's Guide to the Galaxy | rr | 07/2018 | Y
 Douglas Adams | The Long Dark Tea-time of the Soul | r | | Y
 Douglas Adams | The Restaurant at the End of the Universe | r | | Y
 Douglas Adams | The Restaurant at the End of the Universe | rr | 07/2018 | Y
+Dave Addey | Typeset in the Future | r | 07/2025 | Y
 Katherine Addison | The Goblin Emperor | r | 08/2024 | N
 Brian Aldiss | Helliconia Spring | r | | Y
 Lloyd Alexander | the Chronicles of Prydain | r | | N
@@ -344,6 +345,7 @@ Mick Herron | Real Tigers | r | 03/2023 | N
 Mick Herron | Slough House | r | 02/2025 | N
 Mick Herron | Slow Horses | r | 09/2019 | N
 Mick Herron | Spook Street | r | 11/2023 | N
+Mick Herron | Standing by the Wall | r | 07/2025 | N
 Stefan Hertmans | War and Turpentine | r | 07/2018 | Y
 Hesiod | Theogony | r | 11/2010 | Y
 Hesiod | Works and Days | r | 11/2010 | Y

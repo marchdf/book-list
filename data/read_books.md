@@ -841,3 +841,5 @@ Elena Ferrante | My Brilliant Friend | r | 06/2025 | Y
 Robert Jackson Bennett | The Tainted Cup | r | 06/2025 | N
 Patricia Highsmith | Strangers on a Train | r | 07/2025 | N
 James Vincent | Beyond Measure | r | 07/2025 | N
+Dave Addey | Typeset in the Future | r | 07/2025 | Y
+Mick Herron | Standing by the Wall | r | 07/2025 | N
