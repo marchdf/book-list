@@ -462,7 +462,7 @@ John LeCarre | The Spy Who Came in From the Cold | r | 08/2013| Y
 John LeCarre | Tinker, Tayor, Soldier, Spy | rr | 07/2012 | Y
 Ursula K LeGuin | A Wizard of Earthsea | r | 10/2019 | Y
 Ursula K LeGuin | The Left Hand of Darkness | r | 05/2018 | Y
-Fonda Lee | Jade City | 11/2022 | r | N
+Fonda Lee | Jade City | r | 11/2022 | N
 Fonda Lee | Jade War | r | 01/2023 | N
 Harper Lee | To Kill a Mockinbird | r | | Y
 Mikhail Lermontov | A Hero of Our Time | r | 07/2016 | Y
@@ -810,6 +810,7 @@ H.G. Wells | A Short History of the World | r | | Y
 H.G. Wells | The Invisible Man | r | | Y
 Martha Wells | All Systems Red | r | 03/2025 | N
 Martha Wells | Artificial Condition | r | 04/2025 | N
+Martha Wells | Rogue Protocol | r | 08/2025 | N
 Bernard Werber | La Revolution des Fourmis | r | | N
 Bernard Werber | Le Jour des Fourmis | r | | N
 Bernard Werber | Les Fourmis | r | | Y

@@ -762,7 +762,7 @@ Ben Macintyre | The Spy and The Traitor | r | 09/2022 | Y
 Kate Atkinson | Big Sky | r | 09/2022 | Y
 Mary Robinette Kowal | The Calculating Stars | r | 10/2022 | N
 Marlon James | Black Leopard Red Wolf | r | 10/2022 | N
-Fonda Lee | Jade City | 11/2022 | r | N
+Fonda Lee | Jade City | r | 11/2022 | N
 V. E. Schwab | A Darker Shade of Magic | r | 11/2022 | N
 Marlon James | Moon Witch Spider King | r | 12/2022 | N
 Brian Sanderson | Mistborn: The Final Empire | r | 12/2022 | N
@@ -843,3 +843,4 @@ Patricia Highsmith | Strangers on a Train | r | 07/2025 | N
 James Vincent | Beyond Measure | r | 07/2025 | N
 Dave Addey | Typeset in the Future | r | 07/2025 | Y
 Mick Herron | Standing by the Wall | r | 07/2025 | N
+Martha Wells | Rogue Protocol | r | 08/2025 | N
