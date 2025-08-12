@@ -845,3 +845,4 @@ Dave Addey | Typeset in the Future | r | 07/2025 | Y
 Mick Herron | Standing by the Wall | r | 07/2025 | N
 Martha Wells | Rogue Protocol | r | 08/2025 | N
 Martha Wells | Exit Strategy | r | 08/2025 | N
+Robert Jackson Bennett | A Drop of Corruption | r | 08/2025 | N
