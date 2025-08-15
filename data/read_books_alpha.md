@@ -556,6 +556,9 @@ David Mitchell | number9dream | r | 04/2017 | Y
 Molière | Les Fourberies de Scapin | r | | Y
 Montesquieu | Lettres Persannes | r | | Y
 Alan Moore | From Hell | r | 01/2020 | N
+Alan Moore | Miracleman, Book One: A Dream of Flying | r | 08/2025 | N
+Alan Moore | Miracleman, Book Three: Olympus | r | 08/2025 | N
+Alan Moore | Miracleman, Book Two: The Red King Syndrome | r | 08/2025 | N
 Alan Moore | V for Vendetta | r | | N
 Alan Moore | Watchmen | r | | N
 Alan Moore | Watchmen | rr | 12/2019 | N
