@@ -115,6 +115,7 @@ Chantecler | Le Monde en Laboratoir | r | | Y
 Anton Checkov | Five Plays | r | 12/2013 | Y
 Ron Chernow | Grant | r | 12/2020 | Y
 Ron Chernow | Hamilton | r | 06/2018 | N
+Lee Child | Killing Floor | r | 08/2025 | N
 Agatha Christie | Death in the Clouds | r | 05/2020 | Y
 Agatha Christie | Murder of Roger Ackroyd | r | 02/2019 | Y
 Agatha Christie | Murder on the Orient Express | r | 04/2018 | Y
