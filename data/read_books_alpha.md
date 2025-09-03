@@ -816,6 +816,7 @@ H.G. Wells | The Invisible Man | r | | Y
 Martha Wells | All Systems Red | r | 03/2025 | N
 Martha Wells | Artificial Condition | r | 04/2025 | N
 Martha Wells | Exit Strategy | r | 08/2025 | N
+Martha Wells | Fugitive Telemetry | r | 08/2025 | N
 Martha Wells | Rogue Protocol | r | 08/2025 | N
 Bernard Werber | La Revolution des Fourmis | r | | N
 Bernard Werber | Le Jour des Fourmis | r | | N
