@@ -538,6 +538,7 @@ Cormac McCarthy | The Road | r | | Y
 McDonald | The Bedford Companion to Shakespeare | r | | Y
 Ian McEwan | Atonement | r | 11/2017 | Y
 Ian McEwan | Nutshell | r | 10/2024 | Y
+Patrick McGuinness | Other People's Countries | r | 09/2025 | N
 Jay McInerney | Bright Lights Big City | r | 12/2011 | Y
 Fiona McIntosh | Blood and Memory | r | | Y
 Fiona McIntosh | Bridge of Souls | r | | Y
@@ -713,6 +714,7 @@ Jean-Paul Sartre | Huis Close | r | | Y
 Jean-Paul Sartre | Les Mains Sales | r | | Y
 George Saunders | Lincoln in the Bardo | r | 11/2023 | Y
 George Saunders | Tenth of December | r | 04/2015 | Y
+John Scalzi | Starter Villain  | r | 09/2025 | N
 Arthur Schoppenhauer | The Art of Always Being Right | r | | Y
 V. E. Schwab | A Conjuring of Light | r | 06/2023 | N
 V. E. Schwab | A Darker Shade of Magic | r | 11/2022 | N

@@ -851,4 +851,6 @@ Alan Moore | Miracleman, Book Two: The Red King Syndrome | r | 08/2025 | N
 Alan Moore | Miracleman, Book Three: Olympus | r | 08/2025 | N
 Lee Child | Killing Floor | r | 08/2025 | N
 Martha Wells | Fugitive Telemetry | r | 08/2025 | N
+John Scalzi | Starter Villain  | r | 09/2025 | N
 James McBride | The Heaven & Earth Grocery Store | r | 09/2025 | N
+Patrick McGuinness | Other People's Countries | r | 09/2025 | N
