@@ -854,3 +854,4 @@ Martha Wells | Fugitive Telemetry | r | 08/2025 | N
 John Scalzi | Starter Villain  | r | 09/2025 | N
 James McBride | The Heaven & Earth Grocery Store | r | 09/2025 | N
 Patrick McGuinness | Other People's Countries | r | 09/2025 | N
+Martha Wells | Network Effect | r | 10/2025 | N
