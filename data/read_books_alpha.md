@@ -298,6 +298,7 @@ Graham Greene | The Quiet American | r | | Y
 Jan Guillou | The Knight Templar | r | | Y
 Jan Guillou | The Road to Jerusalem | r | | N
 Peter Guralnick | Sam Phillips | r | 10/2017 | Y
+Joe Haldeman | The Forever War | r | 10/2025 | N
 N. John Hall | Correspondence | r | 10/2012 | N
 Mohsin Hamid | Exit West | r | 06/2020 | Y
 Van Hamme | Largo Winch: La voie et la vertu | r | | Y
