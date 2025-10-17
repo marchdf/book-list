@@ -295,6 +295,7 @@ Graham Greene | The Ministry of Fear | r | 11/2019 | Y
 Graham Greene | The Orient Express | r | | Y
 Graham Greene | The Power and the Glory | r | 02/2010 | Y
 Graham Greene | The Quiet American | r | | Y
+John Grisham | The Firm | r | 10/2025 | N
 Jan Guillou | The Knight Templar | r | | Y
 Jan Guillou | The Road to Jerusalem | r | | N
 Peter Guralnick | Sam Phillips | r | 10/2017 | Y

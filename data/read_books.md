@@ -856,3 +856,4 @@ James McBride | The Heaven & Earth Grocery Store | r | 09/2025 | N
 Patrick McGuinness | Other People's Countries | r | 09/2025 | N
 Martha Wells | Network Effect | r | 10/2025 | N
 Joe Haldeman | The Forever War | r | 10/2025 | N
+John Grisham | The Firm | r | 10/2025 | N
