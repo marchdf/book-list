@@ -857,3 +857,4 @@ Patrick McGuinness | Other People's Countries | r | 09/2025 | N
 Martha Wells | Network Effect | r | 10/2025 | N
 Joe Haldeman | The Forever War | r | 10/2025 | N
 John Grisham | The Firm | r | 10/2025 | N
+Martha Wells | System Collapse | r | 10/2025 | N

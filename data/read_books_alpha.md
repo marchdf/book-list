@@ -824,6 +824,7 @@ Martha Wells | Exit Strategy | r | 08/2025 | N
 Martha Wells | Fugitive Telemetry | r | 08/2025 | N
 Martha Wells | Network Effect | r | 10/2025 | N
 Martha Wells | Rogue Protocol | r | 08/2025 | N
+Martha Wells | System Collapse | r | 10/2025 | N
 Bernard Werber | La Revolution des Fourmis | r | | N
 Bernard Werber | Le Jour des Fourmis | r | | N
 Bernard Werber | Les Fourmis | r | | Y
