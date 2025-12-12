@@ -858,3 +858,8 @@ Martha Wells | Network Effect | r | 10/2025 | N
 Joe Haldeman | The Forever War | r | 10/2025 | N
 John Grisham | The Firm | r | 10/2025 | N
 Martha Wells | System Collapse | r | 10/2025 | N
+Steven Erikson | Midnight Tides | r | 11/2025 | N
+Richard Osman | The Thursday Murder Club | r | 11/2025 | N
+Alice Zeniter | Frapper l'epopee | r | 12/2025 | N
+Jean Echenoz | Ravel | r | 12/2025 | N
+Charlotte McConaghy | Wild Dark Shore | r | 12/2025 | N

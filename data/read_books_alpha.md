@@ -202,6 +202,7 @@ Alexandre Dumas | Le comte de Monte-Cristo | r | | Y
 Alexandre Dumas | Les trois mousquetaires | r | | Y
 Alexandre Dumas | The Count of Monte Christo | rr | 04/2012 | Y
 Alexandre Dumas | Vingt Ans Apres | r | | Y
+Jean Echenoz | Ravel | r | 12/2025 | N
 Umberto Eco | Foucault's Pendulum | r | | Y
 Umberto Eco | On Beauty | r | | Y
 Umberto Eco | The Name of the Rose | r | | N
@@ -216,6 +217,7 @@ Steven Erikson | Deadhouse Gates | r | 03/2024 | N
 Steven Erikson | Gardens of the Moon | r | 09/2023 | N
 Steven Erikson | House of Chains | r | 03/2025 | N
 Steven Erikson | Memories of Ice | r | 06/2024 | N
+Steven Erikson | Midnight Tides | r | 11/2025 | N
 Jeffrey Eugenides | Middlesex | r | 04/2011 | N
 Jeffrey Eugenides | The Marriage Plot | r | 03/2015 | Y
 Percival Everett | James | r | 04/2025 | Y
@@ -537,6 +539,7 @@ Cormac McCarthy | No Country for Old Men | r | | Y
 Cormac McCarthy | The Crossing | r | | N
 Cormac McCarthy | The Crossing | rr | 12/2012 | Y
 Cormac McCarthy | The Road | r | | Y
+Charlotte McConaghy | Wild Dark Shore | r | 12/2025 | N
 McDonald | The Bedford Companion to Shakespeare | r | | Y
 Ian McEwan | Atonement | r | 11/2017 | Y
 Ian McEwan | Nutshell | r | 10/2024 | Y
@@ -633,6 +636,7 @@ George Orwell | 1984 | rr | 01/2013 | Y
 George Orwell | Animal Farm | r | | Y
 George Orwell | Animal Farm | rr | 08/2010 | Y
 George Orwell | Down and Out in Paris and London | r | 09/2013 | Y
+Richard Osman | The Thursday Murder Club | r | 11/2025 | N
 Emily Oster | Cribsheet | r | 10/2019 | Y
 Delia Owens | Where the Crawdads Sing | r | 05/2019 | Y
 Chuck Palahniuk | Lullaby | r | 10/2010 | Y
@@ -856,5 +860,6 @@ Virginia Woolf | To The Lighthouse | r | 05/2014 | Y
 Mo Yan | Frog | r | 10/2016 | Y
 Richard Yates | Revolutionary Road | r | 10/2012 | Y
 Marguerite Yourcenar | Memoires d'Hadrien | r | | Y
+Alice Zeniter | Frapper l'epopee | r | 12/2025 | N
 Gabrielle Zevin | Tomorrow, and Tomorrow, and Tomorrow| r | 04/2023 | N
 Markus Zusak | The Book Thief | r | 11/2010 | Y
