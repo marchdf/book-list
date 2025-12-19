@@ -158,6 +158,7 @@ Michael Crichton | Jurassic Park | r | 04/2021 | N
 Kevin Crossley-Holland | At the Crossing Places | r | | Y
 Kevin Crossley-Holland | The Seeing Stone | r | | N
 Thomas D'Agostino | Walking with Giants | r | 01/2013 | Y
+Didier Daeninckx | Meurtres pour mémoire | r | 12/2025 | N
 Alain Damasio | La Horde du Contrevent | r | 12/2010 | N
 Richard Henry Dana | Two Years Before the Mast | r | | Y
 Dante | The Divine Comedy: The Inferno | r | | Y
