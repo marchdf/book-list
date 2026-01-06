@@ -439,6 +439,7 @@ Rudyard Kipling | Kim | r | 09/2018 | Y
 Herman Koch | The Dinner | r | 12/2014 | Y
 Arthur Koestler | Darkness at Noon | r | | Y
 Mary Robinette Kowal | The Calculating Stars | r | 10/2022 | N
+Daniel Kraus | Angel Down | r | 01/2025 | N
 Mark Kublanski | Salt | r | 02/2017 | Y
 Ellen Kushner | Swordspoint | r | 12/2016 | Y
 Bruno L'Her | Meutres pour l'impunite | r | 07/2017 | N
