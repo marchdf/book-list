@@ -345,6 +345,7 @@ Frank Herbert | The Eyes of Heisenberg | r | | Y
 Frank Herbert | The Godmakers | r | | Y
 Frank Herbert | Whipping Star | r | | Y
 Mick Herron | Bad Actors | r | 05/2025 | N
+Mick Herron | Clown Town | r | 01/2026 | N
 Mick Herron | Dead Lions | r | 03/2020 | N
 Mick Herron | Joe Country | r | 04/2024 | N
 Mick Herron | London Rules | r | 02/2024 | N
@@ -439,7 +440,7 @@ Rudyard Kipling | Kim | r | 09/2018 | Y
 Herman Koch | The Dinner | r | 12/2014 | Y
 Arthur Koestler | Darkness at Noon | r | | Y
 Mary Robinette Kowal | The Calculating Stars | r | 10/2022 | N
-Daniel Kraus | Angel Down | r | 01/2025 | N
+Daniel Kraus | Angel Down | r | 01/2026 | N
 Mark Kublanski | Salt | r | 02/2017 | Y
 Ellen Kushner | Swordspoint | r | 12/2016 | Y
 Bruno L'Her | Meutres pour l'impunite | r | 07/2017 | N
