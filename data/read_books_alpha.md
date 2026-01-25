@@ -172,6 +172,7 @@ Richard Dawkins | The God Delusion | r | | Y
 Don DeLillo | Falling Man | r | 12/2016 | Y
 Don DeLillo | White Noise | r | 08/2014 | Y
 Daniel Defoe | Robinson Crusoe | r | | Y
+Kiran Desai | The Inheritance of Loss | r | 01/2026 | N
 Matthew Desmond | Evicted | r | 05/2024 | N
 Jared Diamond | Collapse | r | | Y
 Jared Diamond | Guns, Germs and Steel | r | | Y

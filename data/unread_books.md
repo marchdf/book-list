@@ -4,7 +4,6 @@ Author | Title
 :------ |:------
 Kate Beaton | Hark! A Vagrant
 Samuel Beckett | Waiting for Godot
-Bradbury and Greaves | Emotional Intelligence
 Geraldine Brooks | March
 Camus | l'envers et l'endroit
 Checkov | Five Plays
@@ -16,9 +15,7 @@ Herodotus | The Histories
 James Joyce | A Portrait of the Artist as a Young Man
 Steven King | The Drawing of the Three
 Maurice Leblanc | Arsene Lupin
-Ben Lerner | The Topeka School
 Hilary Mantel | The Mirror and the Light
-Cyril Massarato | 100 pages blanches
 David Mitchell | The Bone Clocks
 Edgar Allen Poe | Selected Tale
 Nicholas Royle | Ornitholorgy

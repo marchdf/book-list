@@ -866,3 +866,4 @@ Charlotte McConaghy | Wild Dark Shore | r | 12/2025 | N
 Didier Daeninckx | Meurtres pour mémoire | r | 12/2025 | N
 Daniel Kraus | Angel Down | r | 01/2026 | N
 Mick Herron | Clown Town | r | 01/2026 | N
+Kiran Desai | The Inheritance of Loss | r | 01/2026 | N
