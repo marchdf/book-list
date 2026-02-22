@@ -800,6 +800,7 @@ Leo Tolstoy | War and Peace | r | | Y
 Leo Tolstoy | War and Peace | rr | 02/2012 | Y
 Claire Tomalin | Charles Dickens | r | 07/2012 | Y
 John Kennedy Toole | A Confederacy of Dunces | r | 10/2010 | Y
+Robert Traver | Anatomy of a Murder | r | 02/2026 | N
 Anthony Trollope | The Warden | r | | Y
 Barbara Tuchman | A Distant Mirror | r | | Y
 Barbara Tuchman | The Guns of August | r | | Y
