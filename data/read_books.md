@@ -869,3 +869,4 @@ Mick Herron | Clown Town | r | 01/2026 | N
 Kiran Desai | The Inheritance of Loss | r | 01/2026 | N
 Richard Adams | Watership Down | r | 02/2026 | N
 Robert Traver | Anatomy of a Murder | r | 02/2026 | N
+James S. A. Corey | The Mercy of Gods | r | 03/2026 | N

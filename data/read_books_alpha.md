@@ -151,6 +151,7 @@ James S. A. Corey | Leviathan Wakes | r | 02/2023 | N
 James S. A. Corey | Memory's Legion | r | 07/2024 | N
 James S. A. Corey | Nemesis Games | r | 12/2023 | N
 James S. A. Corey | Persepolis Rising | r | 02/2024 | N
+James S. A. Corey | The Mercy of Gods | r | 03/2026 | N
 James S. A. Corey | Tiamat's Wrath | r | 04/2024 | N
 Corneille | Le Cid | r | | Y
 Bernard Cornwell | Azincourt | r | 06/2014 | Y
