@@ -22,12 +22,12 @@
 Author | Series name | Next book
 :------ |:------ |:------
 Joe Abercrombie | Age of Madness |
-Robert Jackson Bennett | Shadow of Leviathan | A Drop of Corruption
+Robert Jackson Bennett | Shadow of Leviathan | -
+James S. A. Corey | The Captives War | The Faith of Beasts
 Seth Dickinson | Masquerade |
 Steve Erikson | Malazan Book of the Fallen | Midnight Tides
-Mick Herron | The Slough House | Clown Town
+Mick Herron | The Slough House | -
 Marlon James | | White Wing, Dark Star
-N. K. Jemisin | |
 Robert Jordan | A Wheel of Time |
 Steven King | The Dark Tower | The Drawing of the Three
 G.R.R. Martin | A Song of Ice and Fire | |
