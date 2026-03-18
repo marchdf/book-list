@@ -26,6 +26,7 @@ Robert Jackson Bennett | Shadow of Leviathan | -
 James S. A. Corey | The Captives War | The Faith of Beasts
 Seth Dickinson | Masquerade |
 Steve Erikson | Malazan Book of the Fallen | Midnight Tides
+Lev Grossman | The Magicians | The Magician King |
 Mick Herron | The Slough House | -
 Marlon James | | White Wing, Dark Star
 Robert Jordan | A Wheel of Time |

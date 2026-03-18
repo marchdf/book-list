@@ -91,7 +91,6 @@ Harlan Ellison | I Have No Mouth, and I Must Scream | rec. by TJ |
 Ian Fleming | From Russia, with Love | economist spy article |
 William Gibson | Neuromancer | |
 Grimwood | Replay | rec. by Tom |
-Lev Grossman | The Magicians | Colt |
 Jean-Philippe Jaworski | [Janua Vera +](http://www.cafardcosmique.com/Janua-Vera-de-Jean-Philippe,1306) | rec. by Julien INSA |
 Steven King | Dark Tower | Brandon |
 R.F. Kuang | Babel | Colt |
