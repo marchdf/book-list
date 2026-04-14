@@ -872,3 +872,4 @@ Robert Traver | Anatomy of a Murder | r | 02/2026 | N
 James S. A. Corey | The Mercy of Gods | r | 03/2026 | N
 Lev Grossman | The Magicians | r | 03/2026 | N
 Vincent Delecroix | Naufrage | r | 03/2026 | N
+Steven Erikson | The Bonehunters | r | 04/2026 | N

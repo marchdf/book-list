@@ -25,7 +25,7 @@ Joe Abercrombie | Age of Madness |
 Robert Jackson Bennett | Shadow of Leviathan | -
 James S. A. Corey | The Captives War | The Faith of Beasts
 Seth Dickinson | Masquerade |
-Steve Erikson | Malazan Book of the Fallen | Midnight Tides
+Steven Erikson | Malazan Book of the Fallen | Reaper's Gale
 Lev Grossman | The Magicians | The Magician King |
 Mick Herron | The Slough House | -
 Marlon James | | White Wing, Dark Star

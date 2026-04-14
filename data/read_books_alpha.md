@@ -223,6 +223,7 @@ Steven Erikson | Gardens of the Moon | r | 09/2023 | N
 Steven Erikson | House of Chains | r | 03/2025 | N
 Steven Erikson | Memories of Ice | r | 06/2024 | N
 Steven Erikson | Midnight Tides | r | 11/2025 | N
+Steven Erikson | The Bonehunters | r | 04/2026 | N
 Jeffrey Eugenides | Middlesex | r | 04/2011 | N
 Jeffrey Eugenides | The Marriage Plot | r | 03/2015 | Y
 Percival Everett | James | r | 04/2025 | Y
