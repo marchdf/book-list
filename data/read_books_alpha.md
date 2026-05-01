@@ -459,6 +459,7 @@ Larson | Wildlife Preserves | r | | Y
 Erik Larson | In the Garden of the Beasts | r | 06/2016 | Y
 Stieg Larsson | The Girl Who Played With Fire | r | 08/2016 | Y
 Stieg Larsson | The Girl with the Dragon Tattoo | r | 09/2012 | Y
+Antoine Laurain | Millésime 54 | r | 04/2026 | Y
 Bruce Lawrence | The Quran | r | | Y
 D.H. Lawrence | Lady Chatterley's Lover | r | 12/2009 | Y
 Maurice LeBlanc | Arsene Lupin, Gentleman Cambrioleur | r | 02/2017 | N
@@ -633,6 +634,7 @@ Keith O'Brien | Fly Girls | r | 11/2021 | N
 Tim O'Brien | Going After Cacciato | r | 04/2010 | Y
 Tim O'Brien | In the Lake of the Woods | r | | Y
 Tim O'Brien | The Things They Carried | r | | Y
+Maggie O'Farrell | Hamnet | r | 04/2026 | N
 Editor Joyce Carrol Oates | The Oxford Book of American Short Stories | r | 11/2010 | Y
 Joyce Carol Oates | We Were the Mulvaneys | r | 10/2023 | Y
 Michelle Obama | Becoming | r | 06/2020 | Y
