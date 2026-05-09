@@ -95,6 +95,7 @@ Karel Capek | The War with the Newts | r | 09/2024 | N
 Truman Capote | Breakfast at Tiffany's | r | 04/2013 | Y
 Truman Capote | In Cold Blood | r | | Y
 Orson Scott Card | Ender's Game | r | 07/2012 | Y
+Orson Scott Card | Speaker for the Dead | r | 05/2026 | N
 Peter Carey | Oscar and Lucinda | r | 11/2012 | Y
 Peter Carey | True History of the Kelley Gang | r | 10/2011 | Y
 John Carreyrou | Bad Blood | r | 02/2022 | N

@@ -875,3 +875,4 @@ Vincent Delecroix | Naufrage | r | 03/2026 | N
 Steven Erikson | The Bonehunters | r | 04/2026 | N
 Maggie O'Farrell | Hamnet | r | 04/2026 | N
 Antoine Laurain | Millésime 54 | r | 04/2026 | Y
+Orson Scott Card | Speaker for the Dead | r | 05/2026 | N
