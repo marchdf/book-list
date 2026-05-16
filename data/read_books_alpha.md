@@ -196,6 +196,7 @@ Charles Dickens | The Tale of Two Cities | r | | Y
 Seth Dickinson | The Monster Baru Cormorant | r | 03/2022 | N
 Seth Dickinson | The Traitor Baru Cormorant | r | 01/2022 | N
 Seth Dickinson | The Tyrant Baru Cormorant | r | 05/2022 | N
+Matt Dinniman | Dungeon Crawler Carl | 04/2026 | N|
 E. L. Doctorow | The March | r | 02/2017 | Y
 Anthony Doerr | All The Light We Cannot See | r | 03/2021 | Y
 Anthony Doerr | Cloud Cuckoo Land | r | 06/2023 | Y
