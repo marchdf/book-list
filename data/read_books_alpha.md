@@ -234,6 +234,7 @@ Falkner | Moonfleet | r | | Y
 William Faulkner | The Sound and the Fury | r | | N
 Sebastian Faulks | Birdsong | r | 02/2010 | Y
 Elena Ferrante | My Brilliant Friend | r | 06/2025 | Y
+Elena Ferrante | The Story of a New Name | r | 05/2026 | N
 Richard Feynman | Surely You're Joking, Mr. Feynman! | r | | Y
 Richard Feynman | The Meaning of It All | r | | Y
 F. Scott Fitzgerald | Tender is the Night | r | 12/2009 | Y
