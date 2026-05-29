@@ -833,6 +833,7 @@ Bill Watterson | The Authorative Calvin and Hobbes | r | | Y
 Bill Watterson | The Essential Calvin and Hobbes | r | | Y
 Bill Watterson | The Indispensable Calvin and Hobbes | r | | Y
 Bill Watterson | The Revenge of the Baby-sat | r | | Y
+Peter Watts | Blindsight | r | 05/2026 | N
 Evelyn Waugh | A Handful of Dust | r | 03/2012 | Y
 Evelyn Waugh | Decline and Fall | r | 03/2012 | Y
 Evelyn Waugh | Scoop | r | 01/2018 | Y
