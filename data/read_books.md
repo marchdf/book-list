@@ -880,3 +880,4 @@ Orson Scott Card | Speaker for the Dead | r | 05/2026 | N
 Elena Ferrante | The Story of a New Name | r | 05/2026 | N
 Norton Juster | The Phantom Tollbooth | r | 05/2026 | N
 Peter Watts | Blindsight | r | 05/2026 | N
+Paul Gasnier | La Collision | r | 06/2026 | Y

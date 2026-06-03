@@ -264,6 +264,7 @@ J.K. Galbraith | Les Mensonges de l'economie | r | | Y
 Robert Galbraith | The Cuckoo's Calling | r | 07/2024 | Y
 Robert Galbraith | The Silkworm | r | 11/2024 | Y
 John Galsworthy | The Man of Property | r | 07/2015 | Y
+Paul Gasnier | La Collision | r | 06/2026 | Y
 David Gemel | Waylander II | r | | Y
 David Gemmel | Druss the Legend | r | | Y
 David Gemmel | Legend | r | | Y
