@@ -567,6 +567,7 @@ Larry McMurtry | Lonesome Dove | r | 08/2021 | N
 Melville | Moby Dick | r | | Y
 China Mieville | Perdido Street Station | r | 11/2013 | Y
 China Mieville | The City and the City | r | 07/2019 | Y
+China Mieville | The Scar | r | 06/2026 | N
 Mike Mignola | Hellboy in Hell | r | 03/2020 | N
 Candice Millard | Hero of the Empire | r | 04/2017 | Y
 Frank Miller | A Dame to Kill For | r | | Y
