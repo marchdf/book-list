@@ -23,7 +23,7 @@ Author | Series name | Next book
 :------ |:------ |:------
 Joe Abercrombie | Age of Madness |
 Robert Jackson Bennett | Shadow of Leviathan | -
-James S. A. Corey | The Captives War | The Faith of Beasts
+James S. A. Corey | The Captives War | TBD
 Seth Dickinson | Masquerade |
 Steven Erikson | Malazan Book of the Fallen | Reaper's Gale
 Lev Grossman | The Magicians | The Magician King |

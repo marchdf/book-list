@@ -2,7 +2,6 @@
 
 Author | Title 
 :------ |:------
-Kate Beaton | Hark! A Vagrant
 Samuel Beckett | Waiting for Godot
 Geraldine Brooks | March
 Camus | l'envers et l'endroit
