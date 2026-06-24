@@ -883,3 +883,4 @@ Peter Watts | Blindsight | r | 05/2026 | N
 Paul Gasnier | La Collision | r | 06/2026 | Y
 China Mieville | The Scar | r | 06/2026 | N
 James S. A. Corey | The Faith of Beasts | r | 06/2026 | N
+James S. A. Corey | Livesuit | r | 06/2026 | N
