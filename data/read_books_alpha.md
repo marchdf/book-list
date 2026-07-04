@@ -42,6 +42,7 @@ Jane Austen | Emma | r | | Y
 Jane Austen | Pride and Prejudice | r | | Y
 Jane Austen | Sense and Sensibility | r | 04/2010 | Y
 Mariama Ba | Une Si Longue Lettre | r | 02/2017 | N
+Paolo Bacigalupi | The Windup Girl | r | 07/2026 | N
 Colin Bailey | The Magic of Handwriting | r | 11/2019 | Y
 Gretchen Bakke | The Grid | r | 04/2020 | N
 James Baldwin | The Fire Next Time | r | 11/2020 | N
