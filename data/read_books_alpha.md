@@ -407,6 +407,7 @@ Ian Irvine | Tetrarch | r | | Y
 Kazuo Ishiguro | A Pale View of the Hills | r | 02/2012 | Y
 Kazuo Ishiguro | The Remains of the Day | r | 05/2010 | Y
 Kazuo Ishiguro | When We Were Orphans | r | 12/2010 | Y
+James Islington | The Will of the Many | r | 07/2026 | N
 Howard Jacobson | The Finkler Question | r | 01/2015 | Y
 Brian Jacques | The Legend of Luke | r | | Y
 Brian Jacques | from Redwall to Taggerung | r | | N

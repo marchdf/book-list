@@ -886,3 +886,4 @@ James S. A. Corey | The Faith of Beasts | r | 06/2026 | N
 James S. A. Corey | Livesuit | r | 06/2026 | N
 Paolo Bacigalupi | The Windup Girl | r | 07/2026 | N
 Peter Watts | Echopraxia | r | 07/2026 | N
+James Islington | The Will of the Many | r | 07/2026 | N
