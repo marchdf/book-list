@@ -118,7 +118,7 @@ Chantecler | Le Monde en Laboratoir | r | | Y
 Anton Checkov | Five Plays | r | 12/2013 | Y
 Ron Chernow | Grant | r | 12/2020 | Y
 Ron Chernow | Hamilton | r | 06/2018 | N
-Ted Chiang | Stories of Your Life and Others | 07/2026 | N|
+Ted Chiang | Stories of Your Life and Others | r | 07/2026 | N
 Lee Child | Killing Floor | r | 08/2025 | N
 Agatha Christie | Death in the Clouds | r | 05/2020 | Y
 Agatha Christie | Murder of Roger Ackroyd | r | 02/2019 | Y
@@ -786,6 +786,7 @@ John Steinbeck | Tortilla Flat | r | 11/2013 | N
 Stendhal | La Chartreuse de Parme | r | 09/2016 | Y
 Stendhal | Le Rouge et le Noir | r | | Y
 Neal Stephenson | Cryptonomicon | r | 07/2022 | Y
+Neal Stephenson | The Diamond Age | r | 08/2026 | Y
 Robert Louis Stevenson | Around the World in 80 Days | r | | Y
 Robert Louis Stevenson | Kidnapped | r | | Y
 Robert Louis Stevenson | The Black Arrow | r | 04/2014 | N
