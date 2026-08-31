@@ -889,3 +889,4 @@ Peter Watts | Echopraxia | r | 07/2026 | N
 James Islington | The Will of the Many | r | 07/2026 | N
 Ted Chiang | Stories of Your Life and Others | r | 07/2026 | N
 Neal Stephenson | The Diamond Age | r | 08/2026 | Y
+Kevin Crossley-Holland | Norse Myths | r | 08/2026 | N

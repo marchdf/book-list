@@ -163,6 +163,7 @@ Bernard Cornwell | Azincourt | r | 06/2014 | Y
 Stephen Crane | The Red Badge of Courage | r | 11/2019 | Y
 Michael Crichton | Jurassic Park | r | 04/2021 | N
 Kevin Crossley-Holland | At the Crossing Places | r | | Y
+Kevin Crossley-Holland | Norse Myths | r | 08/2026 | N
 Kevin Crossley-Holland | The Seeing Stone | r | | N
 Thomas D'Agostino | Walking with Giants | r | 01/2013 | Y
 Didier Daeninckx | Meurtres pour mémoire | r | 12/2025 | N
