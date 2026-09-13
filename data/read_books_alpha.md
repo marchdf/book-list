@@ -29,6 +29,7 @@ Isaac Asimov | Foundation and Empire | r | 03/2010 | Y
 Isaac Asimov | Foundation and Empire (II) | r | | Y
 Isaac Asimov | Foundation's Edge (IV) | r | | Y
 Isaac Asimov | Second Foundation | r | 06/2010 | Y
+Isaac Asimov | The Gods Themselves | r | 09/2026 | N
 Isaac Asimov | The Second Foundation (III) | r | | Y
 Isaac Asimov | The Stars, Like Dust | r | | Y
 Kate Atkinson | A God in Ruins | r | 04/2021 | Y
@@ -128,6 +129,7 @@ Kassia St. Clair | The Secret Lives of Color | r | 08/2024 | Y
 Christopher Clark | The Sleepwalkers | r | 08/2017 | Y
 Susanna Clarke | Jonathan Strange and Mr. Norrell | r | 03/2011 | Y
 Susanna Clarke | Piranesi | r | 10/2021 | N
+Philippe Claudel | La petite fille de Monsieur Linh | r | 09/2026 | N
 Hugo Claus | Le Chagrin des Belges | r | | Y
 James Clavell | Gai-Jin | r | | Y
 James Clavell | King Rat | r | 08/2009 | Y

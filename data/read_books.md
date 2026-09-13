@@ -890,3 +890,5 @@ James Islington | The Will of the Many | r | 07/2026 | N
 Ted Chiang | Stories of Your Life and Others | r | 07/2026 | N
 Neal Stephenson | The Diamond Age | r | 08/2026 | Y
 Kevin Crossley-Holland | Norse Myths | r | 08/2026 | N
+Isaac Asimov | The Gods Themselves | r | 09/2026 | N
+Philippe Claudel | La petite fille de Monsieur Linh | r | 09/2026 | N
