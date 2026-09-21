@@ -265,6 +265,7 @@ Brubacker and Fraction | The Immortal Iron Fist | r | 12/2019 | N
 Jonathan Franzen | The Corrections | r | 12/2012 | Y
 Michael Frayn | Copenhagen | r | 04/2010 | N
 Alexandra Fuller | Don't Let's Go to the Dogs Tonight | r | 03/2011 | N
+Alan Furst | Night Soldiers | r | 09/2026 | N
 Jostein Gaarder | Sophie's World | r | 07/2015 | Y
 Neil Gaiman | American Gods | r | 05/2013 | Y
 J.K. Galbraith | Les Mensonges de l'economie | r | | Y

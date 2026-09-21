@@ -26,12 +26,13 @@ Robert Jackson Bennett | Shadow of Leviathan | -
 James S. A. Corey | The Captives War | TBD
 Seth Dickinson | Masquerade |
 Steven Erikson | Malazan Book of the Fallen | Reaper's Gale
-Lev Grossman | The Magicians | The Magician King |
+Alan Furst | Night Soldiers | Dark Star
+Lev Grossman | The Magicians | The Magician King
 Mick Herron | The Slough House | -
 Marlon James | | White Wing, Dark Star
 Robert Jordan | A Wheel of Time |
 Steven King | The Dark Tower | The Drawing of the Three
-G.R.R. Martin | A Song of Ice and Fire | |
+G.R.R. Martin | A Song of Ice and Fire |
 Arkady Martine | Teixcalaan series |
 Kim Stanley Robinson | Mars trilogy | Green Mars
 Brian Sanderson | Mistborn | The Alloy of Law
