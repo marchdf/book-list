@@ -127,6 +127,7 @@ Agatha Christie | Murder on the Orient Express | r | 04/2018 | Y
 Robert Cialdini | Influence, the Psychology of Persuasion | r | 02/2010 | Y
 Kassia St. Clair | The Secret Lives of Color | r | 08/2024 | Y
 Christopher Clark | The Sleepwalkers | r | 08/2017 | Y
+Arthur C. Clarke | Rendez-vous with Rama | r | 09/2026 | N
 Susanna Clarke | Jonathan Strange and Mr. Norrell | r | 03/2011 | Y
 Susanna Clarke | Piranesi | r | 10/2021 | N
 Philippe Claudel | La petite fille de Monsieur Linh | r | 09/2026 | N

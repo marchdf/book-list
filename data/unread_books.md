@@ -20,6 +20,5 @@ Edgar Allen Poe | Selected Tale
 Nicholas Royle | Ornitholorgy
 Shakespeare | Henry VI (part 1-3)
 Zadie Smith | White Tiger
-Neal Stephenson | The Diamond Age
 Elizabeth Strout | Olive Kitteridge
 Wright Thompson | The Barn
