@@ -115,6 +115,7 @@ Cervantes | Don Quixote | r | | Y
 Michael Chabon | The Amazing Adventures of Kavalier and Clay | r | 05/2012 | Y
 Michael Chabon | The Yiddish Policemen's Union | r | 01/2021 | Y
 Michael Chabon | Wonder Boys | r | 10/2015 | Y
+Becky Chambers | A Psalm for the Wild-Built | r | 09/2026 | N
 Chantecler | Le Monde en Laboratoir | r | | Y
 Anton Checkov | Five Plays | r | 12/2013 | Y
 Ron Chernow | Grant | r | 12/2020 | Y

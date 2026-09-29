@@ -894,3 +894,4 @@ Isaac Asimov | The Gods Themselves | r | 09/2026 | N
 Philippe Claudel | La petite fille de Monsieur Linh | r | 09/2026 | N
 Alan Furst | Night Soldiers | r | 09/2026 | N
 Arthur C. Clarke | Rendez-vous with Rama | r | 09/2026 | N
+Becky Chambers | A Psalm for the Wild-Built | r | 09/2026 | N
